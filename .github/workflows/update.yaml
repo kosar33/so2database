@@ -20,6 +20,7 @@ env:
   INTERNAL_JSON: "data/skins.json"               # Your JSON file path
   ID_FIELD: "id"                                 # Field to compare objects
   LUA_VERSION: "5.4"                             # Lua version
+  LAST_COMMIT: "log/last_commit.txt"
 
 jobs:
   check-updates:
@@ -85,8 +86,8 @@ jobs:
           echo "Latest commit: $LATEST_COMMIT"
 
           # Read saved commit
-          if [ -f "last_commit.txt" ]; then
-            SAVED_COMMIT=$(cat last_commit.txt)
+          if [ -f "${{ LAST_COMMIT }}" ]; then
+            SAVED_COMMIT=$(cat ${{ LAST_COMMIT }})
             echo "Saved commit: $SAVED_COMMIT"
           else
             SAVED_COMMIT=""
@@ -104,17 +105,17 @@ jobs:
       - name: Save new commit hash
         if: ${{ steps.check.outputs.should_run == 'true' }}
         run: |
-          if [ -f "last_commit.txt" ]; then
-            if [ "$(cat last_commit.txt)" = "${{ steps.check.outputs.latest_commit }}" ]; then
+          if [ -f "${{ LAST_COMMIT }}" ]; then
+            if [ "$(cat ${{ LAST_COMMIT }})" = "${{ steps.check.outputs.latest_commit }}" ]; then
               echo "Commit hash unchanged, skipping commit"
               exit 0
             fi
           fi
           
-          echo "${{ steps.check.outputs.latest_commit }}" > log/last_commit.txt
+          echo "${{ steps.check.outputs.latest_commit }}" > ${{ LAST_COMMIT }}
           git config user.name "github-actions"
           git config user.email "actions@users.noreply.github.com"
-          git add log/last_commit.txt
+          git add ${{ LAST_COMMIT }}
           git commit -m "chore: Update commit tracker to ${{ steps.check.outputs.latest_commit }}"
           git push
 
