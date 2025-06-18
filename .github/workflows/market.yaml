@@ -10,6 +10,9 @@ on:
 permissions:
     contents: write
 
+env:
+  INPUT: "data/market.json"
+
 jobs:
   generate-market:
     runs-on: ubuntu-latest
@@ -39,21 +42,21 @@ jobs:
           jq --slurpfile ids data/id2market.json '
             $ids[0] as $id_list |
             [.[] | select(.id as $id | $id_list | index($id))]
-          ' data/skins.json > data/market.json
+          ' data/skins.json > ${{ env.INPUT }}
           
           # Checking the result
-          if [ ! -s market.json ]; then
+          if [ ! -s ${{ env.INPUT }} ]; then
             echo "::warning::No matching items found. Creating empty array."
-            echo "[]" > market.json
+            echo "[]" > ${{ env.INPUT }}
           fi
           
-          echo "Created market.json with $(jq length market.json) items"
+          echo "Created market.json with $(jq length ${{ env.INPUT }}) items"
 
       - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@users.noreply.github.com"
-          git add market.json
+          git add ${{ env.INPUT }}
           
           if git diff-index --quiet HEAD --; then
             echo "No changes to market.json"
