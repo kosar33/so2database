@@ -86,8 +86,8 @@ jobs:
           echo "Latest commit: $LATEST_COMMIT"
 
           # Read saved commit
-          if [ -f "${{ LAST_COMMIT }}" ]; then
-            SAVED_COMMIT=$(cat ${{ LAST_COMMIT }})
+          if [ -f "${{ ev.LAST_COMMIT }}" ]; then
+            SAVED_COMMIT=$(cat ${{ evn.LAST_COMMIT }})
             echo "Saved commit: $SAVED_COMMIT"
           else
             SAVED_COMMIT=""
@@ -105,17 +105,17 @@ jobs:
       - name: Save new commit hash
         if: ${{ steps.check.outputs.should_run == 'true' }}
         run: |
-          if [ -f "${{ LAST_COMMIT }}" ]; then
-            if [ "$(cat ${{ LAST_COMMIT }})" = "${{ steps.check.outputs.latest_commit }}" ]; then
+          if [ -f "${{ evn.LAST_COMMIT }}" ]; then
+            if [ "$(cat ${{ evn.LAST_COMMIT }})" = "${{ steps.check.outputs.latest_commit }}" ]; then
               echo "Commit hash unchanged, skipping commit"
               exit 0
             fi
           fi
           
-          echo "${{ steps.check.outputs.latest_commit }}" > ${{ LAST_COMMIT }}
+          echo "${{ steps.check.outputs.latest_commit }}" > ${{ evn.LAST_COMMIT }}
           git config user.name "github-actions"
           git config user.email "actions@users.noreply.github.com"
-          git add ${{ LAST_COMMIT }}
+          git add ${{ evn.LAST_COMMIT }}
           git commit -m "chore: Update commit tracker to ${{ steps.check.outputs.latest_commit }}"
           git push
 
