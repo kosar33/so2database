@@ -242,23 +242,23 @@ jobs:
       - name: Merge JSON data
         run: |
           mkdir -p "$(dirname "${{ env.INTERNAL_JSON }}")"
-
+          
           # Initialize an empty array if the file is missing
           if [ ! -f "${{ env.INTERNAL_JSON }}" ]; then
             echo "[]" > "${{ env.INTERNAL_JSON }}"
           fi
-
+          
           # We check that the files are arrays
           if ! jq -e 'type == "array"' "${{ env.INTERNAL_JSON }}" >/dev/null; then
             echo "::error::${{ env.INTERNAL_JSON }} is not a JSON array"
             exit 1
           fi
-
+          
           if ! jq -e 'type == "array"' "external.json" >/dev/null; then
             echo "::error::external.json is not a JSON array"
             exit 1
           fi
-
+          
           # Performing the merge
           jq -s --arg id_field "${{ env.ID_FIELD }}" '
             def merge_arrays:
@@ -270,16 +270,24 @@ jobs:
               | $current + ($external | map(select(
                   (.[$id_field] | tostring) as $id | $index[$id] | not
                 )));
-
+          
             merge_arrays
           ' "${{ env.INTERNAL_JSON }}" external.json > merged.json
-
+          
+          # Фильтрация дубликатов: группировка по ID и выбор последнего элемента
+          jq --arg id_field "${{ env.ID_FIELD }}" '
+            group_by(.[$id_field])
+            | map(last)
+            | sort_by(.[$id_field] | tonumber)
+          ' merged.json > deduped.json
+          mv deduped.json merged.json
+          
           # Checking the result
           if [ ! -s merged.json ]; then
             echo "::error::Merged file is empty!"
             exit 1
           fi
-
+          
           # Checking the changes
           if cmp -s "${{ env.INTERNAL_JSON }}" merged.json; then
             echo "No changes detected"
