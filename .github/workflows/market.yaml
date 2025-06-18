@@ -3,6 +3,8 @@ name: Update Market Data
 on:
   workflow_dispatch:
   push:
+    branches:
+      - main
     paths:
       - 'data/skins.json'
       - 'data/id2market.json'
