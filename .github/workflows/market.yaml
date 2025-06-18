@@ -1,0 +1,64 @@
+name: Update Market Data
+
+on:
+  push:
+    paths:
+      - 'data/skins.json'
+      - 'data/id2market.json'
+
+permissions:
+    contents: write
+
+jobs:
+  generate-market:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Generate market.json
+        run: |
+          # Checking the existence of files
+          if [ ! -f "data/skins.json" ]; then
+            echo "::error::File data/skins.json not found"
+            exit 1
+          fi
+          
+          if [ ! -f "data/id2market.json" ]; then
+            echo "::error::File data/id2market.json not found"
+            exit 1
+          fi
+          
+          # Create market.json
+          jq --slurpfile ids data/id2market.json '
+            $ids[0] as $id_list |
+            [.[] | select(.id as $id | $id_list | index($id))]
+          ' data/skins.json > data/market.json
+          
+          # Checking the result
+          if [ ! -s market.json ]; then
+            echo "::warning::No matching items found. Creating empty array."
+            echo "[]" > market.json
+          fi
+          
+          echo "Created market.json with $(jq length market.json) items"
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add market.json
+          
+          if git diff-index --quiet HEAD --; then
+            echo "No changes to market.json"
+          else
+            git commit -m "feat: Update market data"
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
