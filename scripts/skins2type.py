@@ -8,7 +8,7 @@ import sys
 def main():
     try:
         # File paths
-        input_path = 'data/data.json'
+        input_path = 'data/skins.json'
         output_path = 'data/id2type.json'
 
         # Checking the existence of a file
