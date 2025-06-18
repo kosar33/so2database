@@ -9,7 +9,7 @@ def main():
         # File paths
         input_path = 'data/skins.json'
         output_path = 'data/id2type.json'
-        missing_path = 'log/missing_ids.txt'  # Файл для ненайденных ID
+        # missing_path = 'log/missing_ids.txt'  # Файл для ненайденных ID
 
         # Checking the existence of a file
         if not os.path.exists(input_path):
@@ -91,8 +91,8 @@ def main():
             json.dump(result, f, ensure_ascii=False, indent=2)
 
         # Сохранение ненайденных ID
-        with open(missing_path, 'w', encoding='utf-8') as f:
-            f.write(missing_ids_str)
+        # with open(missing_path, 'w', encoding='utf-8') as f:
+        #     f.write(missing_ids_str)
         
         # Статистика
         total_items = len(all_found_ids)
@@ -102,9 +102,9 @@ def main():
         print(f"Total categories: {len(result)}")
         print(f"Unique items covered: {total_items}")
         print(f"Coverage: {unique_coverage:.2f}%")
-        print(f"Missing IDs saved to: {missing_path}")
+        # print(f"Missing IDs saved to: {missing_path}")
         print(f"Missing IDs count: {len(missing_ids)}")
-        # print(f"Missing IDs: {missing_ids_str}")
+        print(f"Missing IDs: {missing_ids_str}")
 
         if unique_coverage < 90:
             print("\nWarning: Coverage is below 90%!")
