@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - 'data/data.json'
-      - 'scripts/update_id2type.py'
+      - 'scripts/skins2type.py'
   workflow_dispatch:
 
 permissions:
@@ -32,7 +32,7 @@ jobs:
         pip install pandas
 
     - name: Run type updater
-      run: python scripts/update_id2type.py
+      run: python scripts/skins2type.py
 
     - name: Commit changes
       if: success()
