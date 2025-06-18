@@ -7,9 +7,9 @@ import sys
 def main():
     try:
         # File paths
-        input_path = '../data/skins.json'
-        output_path = '../data/id2type.json'
-        missing_path = '../log/missing_ids.txt'  # Файл для ненайденных ID
+        input_path = 'data/skins.json'
+        output_path = 'data/id2type.json'
+        missing_path = 'log/missing_ids.txt'  # Файл для ненайденных ID
 
         # Checking the existence of a file
         if not os.path.exists(input_path):
