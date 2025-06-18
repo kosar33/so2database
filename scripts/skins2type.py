@@ -49,47 +49,47 @@ def main():
             for pattern in patterns:
                 if type_ru == "Медали":
                     mask = df['name'].apply(
-                        lambda x: bool(re.search(rf'\b{re.escape(pattern)}\b', str(x), flags=re.IGNORECASE))
+                        lambda x: bool(re.search(rf'\b{re.escape(pattern)}\b', str(x), flags=re.IGNORECASE)))
                 else:
-                mask = df['name'].str.contains(pattern, case=True, regex=False, na=False)
+                    mask = df['name'].str.contains(pattern, case=True, regex=False, na=False)
 
-                ids.extend(df.loc[mask, 'id'].astype(int).tolist())
+                    ids.extend(df.loc[mask, 'id'].astype(int).tolist())
 
-                unique_ids = sorted(set(ids))
+                    unique_ids = sorted(set(ids))
 
-                if type_ru == "Контейнеры" and 5101 in unique_ids:
-                    unique_ids.remove(5101)
+                    if type_ru == "Контейнеры" and 5101 in unique_ids:
+                        unique_ids.remove(5101)
 
-                id_string = ",".join(map(str, unique_ids))
-                item_count = len(unique_ids)
-                total_items += item_count
+                    id_string = ",".join(map(str, unique_ids))
+                    item_count = len(unique_ids)
+                    total_items += item_count
 
-                result.append({
-                    "ids": id_string,
-                    "type_ru": type_ru,
-                    "item_count": item_count
-                })
+                    result.append({
+                        "ids": id_string,
+                        "type_ru": type_ru,
+                        "item_count": item_count
+                    })
 
-                # Sorting by number of items
-                result.sort(key=lambda x: x["item_count"], reverse=True)
+                    # Sorting by number of items
+                    result.sort(key=lambda x: x["item_count"], reverse=True)
 
-                # Saving the results
-                os.makedirs(os.path.dirname(output_path), exist_ok=True)
+                    # Saving the results
+                    os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
-                with open(output_path, 'w', encoding='utf-8') as f:
-                    json.dump(result, f, ensure_ascii=False, indent=2)
+                    with open(output_path, 'w', encoding='utf-8') as f:
+                        json.dump(result, f, ensure_ascii=False, indent=2)
 
-                print(f"Successfully updated {output_path}")
-                print(f"Total categories: {len(result)}")
-                print(f"Total items: {total_items}")
+                    print(f"Successfully updated {output_path}")
+                    print(f"Total categories: {len(result)}")
+                    print(f"Total items: {total_items}")
 
-                # Checking coverage
-                coverage = total_items / len(df) * 100
-                print(f"Coverage: {coverage:.2f}%")
+                    # Checking coverage
+                    coverage = total_items / len(df) * 100
+                    print(f"Coverage: {coverage:.2f}%")
 
-                if coverage < 90:
-                    print("Warning: Coverage is below 90%!")
-                sys.exit(2)
+                    if coverage < 90:
+                        print("Warning: Coverage is below 90%!")
+                    sys.exit(2)
 
     except Exception as e:
         print(f"Error: {str(e)}")
