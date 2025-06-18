@@ -1,0 +1,308 @@
+name: Auto Update Skins Data
+
+on:
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force update even if no changes detected'
+        required: false
+        default: 'false'
+        type: boolean
+  schedule:
+    - cron: '0 0 * * *'
+
+permissions:
+    contents: write
+
+env:
+  EXTERNAL_REPO: "heavymio/SkinsStandoff2"       # Replace with actual repo
+  EXTERNAL_FILE: "skins.lua"                     # Path to Lua file
+  INTERNAL_JSON: "data/skins.json"               # Your JSON file path
+  ID_FIELD: "id"                                 # Field to compare objects
+  LUA_VERSION: "5.4"                             # Lua version
+
+jobs:
+  check-updates:
+    runs-on: ubuntu-latest
+    outputs:
+      should_run: ${{ steps.check.outputs.should_run }}
+      latest_commit: ${{ steps.check.outputs.latest_commit }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Get last commit hash
+        id: check
+        run: |
+          # Clean repo path
+          CLEAN_REPO=$(echo "${{ env.EXTERNAL_REPO }}" | sed 's|//*|/|g')
+          API_URL="https://api.github.com/repos/${CLEAN_REPO}/commits?path=${{ env.EXTERNAL_FILE }}&per_page=1"
+          echo "API URL: $API_URL"
+
+          # Try multiple times with delays
+          for attempt in {1..5}; do
+            RESPONSE=$(curl -s \
+              -H "Authorization: Bearer ${{ github.token }}" \
+              -H "Accept: application/vnd.github.v3+json" \
+              -w "\nHTTP_STATUS:%{http_code}" \
+              "$API_URL")
+
+            HTTP_STATUS=$(echo "$RESPONSE" | grep 'HTTP_STATUS:' | cut -d':' -f2)
+            RESPONSE_BODY=$(echo "$RESPONSE" | grep -v 'HTTP_STATUS:')
+
+            # Check if request was successful
+            if [ "$HTTP_STATUS" -eq 200 ] && [[ "$RESPONSE_BODY" == [* ]]; then
+              echo "API request successful on attempt $attempt"
+              break
+            else
+              echo "Attempt $attempt failed. HTTP status: $HTTP_STATUS"
+              echo "Response: ${RESPONSE_BODY:0:300}..."
+
+              # Sleep with increasing delay
+              sleep $((attempt * 2))
+            fi
+          done
+
+          # Verify we have a valid response
+          if [ "$HTTP_STATUS" -ne 200 ] || [[ "$RESPONSE_BODY" != [* ]]; then
+            echo "::error::All API attempts failed. Last HTTP status: $HTTP_STATUS"
+            exit 1
+          fi
+
+          # Extract commit SHA
+          LATEST_COMMIT=$(echo "$RESPONSE_BODY" | jq -r '.[0].sha')
+
+          if [ -z "$LATEST_COMMIT" ] || [ "$LATEST_COMMIT" = "null" ]; then
+            echo "::error::Failed to get commit SHA"
+            echo "API response:"
+            echo "$RESPONSE_BODY"
+            exit 1
+          fi
+
+          echo "Latest commit: $LATEST_COMMIT"
+
+          # Read saved commit
+          if [ -f "last_commit.txt" ]; then
+            SAVED_COMMIT=$(cat last_commit.txt)
+            echo "Saved commit: $SAVED_COMMIT"
+          else
+            SAVED_COMMIT=""
+            echo "No saved commit found"
+          fi
+
+          # Compare commits
+          if [[ "$LATEST_COMMIT" != "$SAVED_COMMIT" ]] || [[ "${{ github.event.inputs.force }}" == "true" ]]; then
+            echo "should_run=true" >> $GITHUB_OUTPUT
+            echo "latest_commit=$LATEST_COMMIT" >> $GITHUB_OUTPUT
+          else
+            echo "should_run=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Save new commit hash
+        if: ${{ steps.check.outputs.should_run == 'true' }}
+        run: |
+          if [ -f "last_commit.txt" ]; then
+            if [ "$(cat last_commit.txt)" = "${{ steps.check.outputs.latest_commit }}" ]; then
+              echo "Commit hash unchanged, skipping commit"
+              exit 0
+            fi
+          fi
+          
+          echo "${{ steps.check.outputs.latest_commit }}" > log/last_commit.txt
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add log/last_commit.txt
+          git commit -m "chore: Update commit tracker to ${{ steps.check.outputs.latest_commit }}"
+          git push
+
+  process-data:
+    needs: check-updates
+    if: ${{ needs.check-updates.outputs.should_run == 'true' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y lua${{ env.LUA_VERSION }} liblua${{ env.LUA_VERSION }}-dev make unzip curl gcc jq
+          
+          # Install LuaRocks
+          wget https://luarocks.org/releases/luarocks-3.9.2.tar.gz
+          tar zxpf luarocks-3.9.2.tar.gz
+          cd luarocks-3.9.2
+          ./configure --with-lua-include=/usr/include/lua${{ env.LUA_VERSION }}
+          make
+          sudo make install
+          cd ..
+          
+          # Install required Lua package
+          sudo luarocks install lunajson
+        timeout-minutes: 5
+
+      - name: Download Lua data
+        run: |
+          # Get commit hash from previous job
+          COMMIT_HASH="${{ needs.check-updates.outputs.latest_commit }}"
+          
+          # Clean paths
+          CLEAN_REPO=$(echo "${{ env.EXTERNAL_REPO }}" | sed 's|//*|/|g')
+          CLEAN_FILE=$(echo "${{ env.EXTERNAL_FILE }}" | sed 's|^/||')
+          
+          # Build URL
+          URL="https://raw.githubusercontent.com/${CLEAN_REPO}/$COMMIT_HASH/${CLEAN_FILE}"
+          echo "Download URL: $URL"
+          
+          # Download file
+          curl -f -L -o external.lua "$URL"
+          
+          # Check file
+          if [ ! -s external.lua ]; then
+            echo "::error::Downloaded file is empty!"
+            exit 1
+          fi
+          
+          echo "File size: $(wc -c < external.lua) bytes"
+          echo "First 3 lines:"
+          head -n 3 external.lua
+
+      - name: Initialize JSON file if missing
+        run: |
+          if [ ! -f "${{ env.INTERNAL_JSON }}" ]; then
+            echo "::warning::File ${{ env.INTERNAL_JSON }} not found, creating empty"
+            mkdir -p "$(dirname "${{ env.INTERNAL_JSON }}")"
+            echo "[]" > "${{ env.INTERNAL_JSON }}"
+          fi
+
+      - name: Convert to JSON
+        run: |
+          lua -e '
+            local lunajson = require("lunajson")
+            local file = io.open("external.lua", "r")
+            local data = file:read("*a")
+            file:close()
+
+            local table_str = data:match("return%s*({.+})") or data:match("({.+})")
+            if not table_str then
+              error("Cannot find Lua table in file content")
+            end
+
+            local chunk, err = load("return " .. table_str)
+            if not chunk then
+              error("Failed to load Lua data: " .. (err or "unknown error"))
+            end
+
+            local success, raw_data = pcall(chunk)
+            if not success then
+              error("Failed to execute Lua: " .. raw_data)
+            end
+
+            if type(raw_data) ~= "table" then
+              error("Parsed data is not a table. Type: " .. type(raw_data))
+            end
+
+            local result = {}
+            for key, item in pairs(raw_data) do
+              if type(item) == "table" then
+                -- Для вашей структуры: [1] = { ... }
+                item.id = item.id or key  -- Сохраняем оригинальный ключ
+                table.insert(result, item)
+              end
+            end
+
+            print("Converted items count: " .. #result)
+
+            local out = io.open("external.json", "w")
+            out:write(lunajson.encode(result))
+            out:close()
+            print("JSON conversion successful")
+          '
+
+      - name: Debug files before merge
+        run: |
+          echo "===== ${{ env.INTERNAL_JSON }} ====="
+          cat "${{ env.INTERNAL_JSON }}" || echo "Cannot display"
+          echo "===== external.json ====="
+          cat "external.json" || echo "Cannot display"
+          echo "===== File types ====="
+          file "${{ env.INTERNAL_JSON }}"
+          file "external.json"
+          echo "===== jq type check ====="
+          jq type "${{ env.INTERNAL_JSON }}" || true
+          jq type "external.json" || true
+
+      - name: Merge JSON data
+        run: |
+          mkdir -p "$(dirname "${{ env.INTERNAL_JSON }}")"
+
+          # Initialize an empty array if the file is missing
+          if [ ! -f "${{ env.INTERNAL_JSON }}" ]; then
+            echo "[]" > "${{ env.INTERNAL_JSON }}"
+          fi
+
+          # We check that the files are arrays
+          if ! jq -e 'type == "array"' "${{ env.INTERNAL_JSON }}" >/dev/null; then
+            echo "::error::${{ env.INTERNAL_JSON }} is not a JSON array"
+            exit 1
+          fi
+
+          if ! jq -e 'type == "array"' "external.json" >/dev/null; then
+            echo "::error::external.json is not a JSON array"
+            exit 1
+          fi
+
+          # Performing the merge
+          jq -s --arg id_field "${{ env.ID_FIELD }}" '
+            def merge_arrays:
+              .[0] as $current
+              | .[1] as $external
+              | ($current | reduce .[] as $item ({}; 
+                  .[($item | .[$id_field] | tostring)] = $item
+                )) as $index
+              | $current + ($external | map(select(
+                  (.[$id_field] | tostring) as $id | $index[$id] | not
+                )));
+
+            merge_arrays
+          ' "${{ env.INTERNAL_JSON }}" external.json > merged.json
+
+          # Checking the result
+          if [ ! -s merged.json ]; then
+            echo "::error::Merged file is empty!"
+            exit 1
+          fi
+
+          # Checking the changes
+          if cmp -s "${{ env.INTERNAL_JSON }}" merged.json; then
+            echo "No changes detected"
+            echo "HAS_CHANGES=false" >> $GITHUB_ENV
+            rm merged.json
+          else
+            echo "Changes detected, updating file"
+            mv merged.json "${{ env.INTERNAL_JSON }}"
+            echo "HAS_CHANGES=true" >> $GITHUB_ENV
+          fi
+
+      - name: Commit and push changes
+        if: ${{ env.HAS_CHANGES == 'true' }}
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add "${{ env.INTERNAL_JSON }}"
+          git commit -m "feat: Update skins data from ${{ env.EXTERNAL_REPO }}@${{ needs.check-updates.outputs.latest_commit }}"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Cleanup
+        if: always()
+        run: |
+          rm -f external.lua external.json merged.json
+          rm -rf luarocks-3.9.2 luarocks-3.9.2.tar.gz
