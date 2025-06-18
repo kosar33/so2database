@@ -1,6 +1,7 @@
 name: Update Market Data
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - 'data/skins.json'
