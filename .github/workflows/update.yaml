@@ -86,7 +86,7 @@ jobs:
           echo "Latest commit: $LATEST_COMMIT"
 
           # Read saved commit
-          if [ -f "${{ ev.LAST_COMMIT }}" ]; then
+          if [ -f "${{ evn.LAST_COMMIT }}" ]; then
             SAVED_COMMIT=$(cat ${{ evn.LAST_COMMIT }})
             echo "Saved commit: $SAVED_COMMIT"
           else
