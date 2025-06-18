@@ -900,6 +900,12 @@
     "collection": "fun_and_sun"
   },
   {
+    "name": "Medal \"Reforged\" Bronze",
+    "value": "1",
+    "id": 300,
+    "collection": "reforged"
+  },
+  {
     "name": "\"Origin\" Case",
     "id": 301,
     "contains": "15003,45002,51002,62002,13001,32001,35002,45001,46002,47002,11002,44002,71002,71003,71004,71005",
@@ -972,6 +978,336 @@
     "collection": "fun_and_sun"
   },
   {
+    "name": "Medal \"Reforged\" Silver",
+    "value": "2",
+    "id": 313,
+    "collection": "reforged"
+  },
+  {
+    "name": "Medal \"Reforged\" Gold",
+    "value": "3",
+    "id": 314,
+    "collection": "reforged"
+  },
+  {
+    "name": "Medal \"Reforged\" Elite Gold",
+    "value": "4",
+    "id": 315,
+    "collection": "reforged"
+  },
+  {
+    "name": "Medal \"Reforged\" Platinum",
+    "value": "5",
+    "id": 316,
+    "collection": "reforged"
+  },
+  {
+    "name": "Medal \"Reforged\" Diamond",
+    "value": "6",
+    "id": 317,
+    "collection": "reforged"
+  },
+  {
+    "name": "\"Reforged\" Gloves Case",
+    "id": 318,
+    "contains": "3034,3035,3036,3037,3038,3039",
+    "collection": "reforged"
+  },
+  {
+    "name": "\"Reforged\" Weapon Case",
+    "id": 319,
+    "contains": "240116,240117,240118,240119,240120,240121,240122,240123,240124,240125,240126,240127",
+    "collection": "reforged"
+  },
+  {
+    "name": "\"Reforged\" Weapon Box",
+    "id": 320,
+    "contains": "240116,240117,240118,240119,240120,240121,240122,240123,240124,240125,240126,240127",
+    "collection": "reforged"
+  },
+  {
+    "name": "\"Nightmare\" Knife Case",
+    "id": 321,
+    "contains": "240128,240129,240130,240131,240132,240133",
+    "collection": "nightmare"
+  },
+  {
+    "name": "Medal \"Nightmare\" Bronze",
+    "value": "1",
+    "id": 322,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Medal \"Nightmare\" Silver",
+    "value": "2",
+    "id": 323,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Medal \"Nightmare\" Gold",
+    "value": "3",
+    "id": 324,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Medal \"Nightmare\" Elite Gold",
+    "value": "4",
+    "id": 325,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Medal \"Nightmare\" Platinum",
+    "value": "5",
+    "id": 326,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Medal \"Nightmare\" Diamond",
+    "value": "6",
+    "id": 327,
+    "collection": "nightmare"
+  },
+  {
+    "name": "\"Nightmare\" Weapon Box",
+    "id": 328,
+    "contains": "240134,240135,240136,240137,240138,240139",
+    "collection": "nightmare"
+  },
+  {
+    "name": "\"Nightmare\" Weapon Case",
+    "id": 329,
+    "contains": "240134,240135,240136,240137,240138,240139",
+    "collection": "nightmare"
+  },
+  {
+    "name": "Medal \"Veteran 2025\" Bronze",
+    "value": "1",
+    "id": 334,
+    "collection": "veteran_2025"
+  },
+  {
+    "name": "Medal \"Veteran 2025\" Silver",
+    "value": "2",
+    "id": 335,
+    "collection": "veteran_2025"
+  },
+  {
+    "name": "Medal \"Veteran 2025\" Gold",
+    "value": "3",
+    "id": 336,
+    "collection": "veteran_2025"
+  },
+  {
+    "name": "Medal \"Veteran 2025\" Elite Gold",
+    "value": "4",
+    "id": 337,
+    "collection": "veteran_2025"
+  },
+  {
+    "name": "Medal \"Veteran 2025\" Platinum",
+    "value": "5",
+    "id": 338,
+    "collection": "veteran_2025"
+  },
+  {
+    "name": "Medal \"Veteran 2025\" Diamond",
+    "value": "6",
+    "id": 339,
+    "collection": "veteran_2025"
+  },
+  {
+    "name": "Medal \"Snow Journey\"",
+    "value": "6",
+    "id": 340,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Medal \"Kitsune Dreams\" Bronze",
+    "value": "1",
+    "id": 341,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Medal \"Kitsune Dreams\" Silver",
+    "value": "2",
+    "id": 342,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Medal \"Kitsune Dreams\" Gold",
+    "value": "3",
+    "id": 343,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Medal \"Kitsune Dreams\" Elite Gold",
+    "value": "4",
+    "id": 344,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Medal \"Kitsune Dreams\" Platinum",
+    "value": "5",
+    "id": 345,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Medal \"Kitsune Dreams\" Diamond",
+    "value": "6",
+    "id": 346,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "\"Kitsune Dreams\" Weapon Case",
+    "id": 347,
+    "contains": "240145,240146,240147,240148,240149,240150",
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "\"Kitsune Dreams\" Weapon Box",
+    "id": 348,
+    "contains": "240145,240146,240147,240148,240149,240150",
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "\"Kitsune Dreams\" Knife Case",
+    "id": 349,
+    "contains": "240151,240152,240153,240154,240155,240156",
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "\"Prey\" Weapon Box",
+    "id": 350,
+    "contains": "240177,240176,240175,240174,240173,240172,240171,240170,240169,240168,240167,240166",
+    "collection": "prey"
+  },
+  {
+    "name": "\"Prey\" Weapon Case",
+    "id": 351,
+    "contains": "240177,240176,240175,240174,240173,240172,240171,240170,240169,240168,240167,240166",
+    "collection": "prey"
+  },
+  {
+    "name": "Medal \"Prey\" Bronze",
+    "value": "1",
+    "id": 352,
+    "collection": "prey"
+  },
+  {
+    "name": "Medal \"Prey\" Silver",
+    "value": "2",
+    "id": 353,
+    "collection": "prey"
+  },
+  {
+    "name": "Medal \"Prey\" Gold",
+    "value": "3",
+    "id": 354,
+    "collection": "prey"
+  },
+  {
+    "name": "Medal \"Prey\" Elite Gold",
+    "value": "4",
+    "id": 355,
+    "collection": "prey"
+  },
+  {
+    "name": "Medal \"Prey\" Platinum",
+    "value": "5",
+    "id": 356,
+    "collection": "prey"
+  },
+  {
+    "name": "Medal \"Prey\" Diamond",
+    "value": "6",
+    "id": 357,
+    "collection": "prey"
+  },
+  {
+    "name": "\"Prey\" Gloves Case",
+    "id": 358,
+    "contains": "3041,3042,3043,3044,3045,3046",
+    "collection": "prey"
+  },
+  {
+    "name": "\"Dynasty\" Case",
+    "id": 359,
+    "contains": "240186,240187,240188,240189,240190,240191,240192,240193,240194,240195,240196,240197,240198,240199,240200,240201",
+    "collection": "dynasty"
+  },
+  {
+    "name": "Great \"8 Years\" Gift Case",
+    "id": 360,
+    "contains": "240202,240203,1588,240204,240205",
+    "collection": "event8years"
+  },
+  {
+    "name": "Prime \"8 Years\" Gift Case",
+    "id": 361,
+    "contains": "1588,240204,240205,240206,5320",
+    "collection": "event8years"
+  },
+  {
+    "name": "Ultimate \"8 Years\" Gift Case",
+    "id": 362,
+    "contains": "240206,5320,240207,240208,3047",
+    "collection": "event8years"
+  },
+  {
+    "name": "\"Gambit\" Weapon Case",
+    "id": 363,
+    "contains": "240212,240213,240214,240215,240216,240217",
+    "collection": "gambit"
+  },
+  {
+    "name": "\"Gambit\" Weapon Box",
+    "id": 364,
+    "contains": "240212,240213,240214,240215,240216,240217",
+    "collection": "gambit"
+  },
+  {
+    "name": "\"Gambit\" Gloves Case",
+    "id": 365,
+    "contains": "3048,3049,3050,3051,3052,3053",
+    "collection": "gambit"
+  },
+  {
+    "name": "Medal \"Gambit\" Bronze",
+    "value": "1",
+    "id": 366,
+    "collection": "gambit"
+  },
+  {
+    "name": "Medal \"Gambit\" Silver",
+    "value": "2",
+    "id": 367,
+    "collection": "gambit"
+  },
+  {
+    "name": "Medal \"Gambit\" Gold",
+    "value": "3",
+    "id": 368,
+    "collection": "gambit"
+  },
+  {
+    "name": "Medal \"Gambit\" Elite Gold",
+    "value": "4",
+    "id": 369,
+    "collection": "gambit"
+  },
+  {
+    "name": "Medal \"Gambit\" Platinum",
+    "value": "5",
+    "id": 370,
+    "collection": "gambit"
+  },
+  {
+    "name": "Medal \"Gambit\" Diamond",
+    "value": "6",
+    "id": 371,
+    "collection": "gambit"
+  },
+  {
     "name": "\"Origin\" Box",
     "id": 401,
     "contains": "11001,13002,32002,46003,15002,35001,47001,62001,15003,45002,51002,62002,13001,32001,35002,45001,46002,47002,11002,44002",
@@ -1026,6 +1362,18 @@
     "collection": "chameleon"
   },
   {
+    "name": "\"Dynasty\" Crate",
+    "id": 410,
+    "contains": "240178,240179,240180,240181,240182,240183,240184,240185,240186,240187,240188,240189,240190,240191,240192,240193,240194,240195,240196,240197",
+    "collection": "dynasty"
+  },
+  {
+    "name": "\"Stream\" Crate",
+    "id": 411,
+    "contains": "41102,41502,220001,220009,240092,240094,240186,240187,43202,220012,240096,240191,44601,220018,240100,240193,41701,240197,240200,9070",
+    "collection": "standoff_2"
+  },
+  {
     "name": "Gift Box",
     "id": 501,
     "contains": "401,402,403,301,302,303,51006,72003",
@@ -1078,6 +1426,132 @@
     "id": 708,
     "contains": "5245,5246,5247,5248,5249,5250",
     "collection": "fun_and_sun"
+  },
+  {
+    "name": "\"Vibe\" Graffiti Pack",
+    "id": 709,
+    "contains": "4292,4294,4296,4298,4300,4302,4304,4306,4308,4310,4312,4314,4316,4318,4320,4322,4324,4326,4328,4330",
+    "collection": "vibe"
+  },
+  {
+    "name": "\"Reforged\" Charm Pack",
+    "id": 710,
+    "contains": "5263,5264,5265,5266,5267,5268,5269,5270,5271,5272,5273,5274",
+    "collection": "reforged"
+  },
+  {
+    "name": "\"Reforged\" Sticker Pack",
+    "id": 711,
+    "contains": "1485,1486,1487,1488,1489,1490,1491,1492,1493,1494,1495,1496",
+    "collection": "reforged"
+  },
+  {
+    "name": "\"Reforged\" Graffiti Pack",
+    "id": 712,
+    "contains": "4332,4334,4336,4338,4340,4342,4344,4346,4348,4350,4352,4354",
+    "collection": "reforged"
+  },
+  {
+    "name": "\"Nightmare\" Sticker Pack",
+    "id": 713,
+    "contains": "1498,1499,1500,1501,1502,1503",
+    "collection": "nightmare"
+  },
+  {
+    "name": "\"Nightmare\" Graffiti Pack",
+    "id": 714,
+    "contains": "4355,4357,4359,4361,4363,4365",
+    "collection": "nightmare"
+  },
+  {
+    "name": "\"Nightmare\" Charm Pack",
+    "id": 715,
+    "contains": "5276,5277,5278,5279,5280,5281",
+    "collection": "nightmare"
+  },
+  {
+    "name": "\"FORZE\" Major 2024 Sticker Pack",
+    "id": 716,
+    "contains": "1507,1508,1509,1510,1511,1512,1513",
+    "collection": "major2024"
+  },
+  {
+    "name": "\"ALPHA7 ESPORTS\" Major 2024 Sticker Pack",
+    "id": 717,
+    "contains": "1514,1515,1516,1517,1518,1519,1520",
+    "collection": "major2024"
+  },
+  {
+    "name": "\"STREETEIGHT\" Major 2024 Sticker Pack",
+    "id": 718,
+    "contains": "1521,1522,1523,1524,1525,1526,1527",
+    "collection": "major2024"
+  },
+  {
+    "name": "\"AMKAL ESPORTS\" Major 2024 Sticker Pack",
+    "id": 719,
+    "contains": "1528,1529,1530,1531,1532,1533,1534",
+    "collection": "major2024"
+  },
+  {
+    "name": "\"Kitsune Dreams\" Charm Pack",
+    "id": 720,
+    "contains": "5284,5283,5286,5285,5287,5288",
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "\"Kitsune Dreams\" Graffiti Pack",
+    "id": 721,
+    "contains": "4387,4389,4385,4383,4381,4379",
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "\"Kitsune Dreams\" Sticker Pack",
+    "id": 722,
+    "contains": "1543,1544,1545,1546,1547,1548",
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "\"Joy\" Sticker Pack",
+    "id": 723,
+    "contains": "1549,1550,1551,1552,1553,1554,1555,1556,1557,1558,1559,1560,1561,1562,1563,1564,1565,1566,1567,1568",
+    "collection": "joy"
+  },
+  {
+    "name": "\"Prey\" Sticker Pack",
+    "id": 724,
+    "contains": "1575,1576,1577,1578,1579,1580,1581,1582,1583,1584,1585,1586",
+    "collection": "prey"
+  },
+  {
+    "name": "\"Prey\" Graffiti Pack",
+    "id": 725,
+    "contains": "4413,4411,4409,4407,4405,4403,4401,4399,4397,4395,4393,4391",
+    "collection": "prey"
+  },
+  {
+    "name": "\"Prey\" Charm Pack",
+    "id": 726,
+    "contains": "5308,5309,5310,5311,5312,5313,5314,5315,5316,5317,5318,5319",
+    "collection": "prey"
+  },
+  {
+    "name": "\"Gambit\" Sticker Pack",
+    "id": 727,
+    "contains": "1589,1590,1591,1592,1593,1594",
+    "collection": "gambit"
+  },
+  {
+    "name": "\"Gambit\" Charm Pack",
+    "id": 728,
+    "contains": "5321,5322,5323,5324,5325,5326",
+    "collection": "gambit"
+  },
+  {
+    "name": "\"Gambit\" Graffiti Pack",
+    "id": 729,
+    "contains": "4415,4417,4419,4421,4423,4425",
+    "collection": "gambit"
   },
   {
     "name": "Fragment Box",
@@ -3084,6 +3558,648 @@
     "collection": "fun_and_sun"
   },
   {
+    "name": "Shield \"Outcast\" Bronze",
+    "value": "1",
+    "id": 1479,
+    "collection": "outcast"
+  },
+  {
+    "name": "Shield \"Outcast\" Silver",
+    "value": "2",
+    "id": 1480,
+    "collection": "outcast"
+  },
+  {
+    "name": "Shield \"Outcast\" Gold",
+    "value": "3",
+    "id": 1481,
+    "collection": "outcast"
+  },
+  {
+    "name": "Shield \"Outcast\" Elite Gold",
+    "value": "4",
+    "id": 1482,
+    "collection": "outcast"
+  },
+  {
+    "name": "Shield \"Outcast\" Platinum",
+    "value": "5",
+    "id": 1483,
+    "collection": "outcast"
+  },
+  {
+    "name": "Shield \"Outcast\" Diamond",
+    "value": "6",
+    "id": 1484,
+    "collection": "outcast"
+  },
+  {
+    "name": "Sticker \"Reforged\" Silver",
+    "value": "3",
+    "id": 1485,
+    "collection": "reforged"
+  },
+  {
+    "name": "Sticker \"Rusty Gear\"",
+    "value": "3",
+    "id": 1486,
+    "collection": "reforged"
+  },
+  {
+    "name": "Sticker \"Hard work\"",
+    "value": "4",
+    "id": 1487,
+    "collection": "reforged"
+  },
+  {
+    "name": "Sticker \"Iron Force\"",
+    "value": "3",
+    "id": 1488,
+    "collection": "reforged"
+  },
+  {
+    "name": "Sticker \"Pigeon\" Swap",
+    "value": "4",
+    "id": 1489,
+    "collection": "reforged"
+  },
+  {
+    "name": "Sticker \"Fury Gauge\" Swap",
+    "value": "4",
+    "id": 1490,
+    "collection": "reforged"
+  },
+  {
+    "name": "Sticker \"Brutal\"",
+    "value": "3",
+    "id": 1491,
+    "collection": "reforged"
+  },
+  {
+    "name": "Sticker \"Reforged\" Gold",
+    "value": "5",
+    "id": 1492,
+    "collection": "reforged"
+  },
+  {
+    "name": "Sticker \"Welding\" Swap",
+    "value": "5",
+    "id": 1493,
+    "collection": "reforged"
+  },
+  {
+    "name": "Sticker \"Destroyer\" Shine",
+    "value": "5",
+    "id": 1494,
+    "collection": "reforged"
+  },
+  {
+    "name": "Sticker \"Gun Heart\" Swap",
+    "value": "6",
+    "id": 1495,
+    "collection": "reforged"
+  },
+  {
+    "name": "Sticker \"Full Metal\" Reflex",
+    "value": "6",
+    "id": 1496,
+    "collection": "reforged"
+  },
+  {
+    "name": "Sticker \"Arachnid\"",
+    "value": "3",
+    "id": 1498,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Sticker \"Nightmare\"",
+    "value": "3",
+    "id": 1499,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Sticker \"Hypnosis\" Color",
+    "value": "4",
+    "id": 1500,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Sticker \"Beware the Bear\" Swap",
+    "value": "4",
+    "id": 1501,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Sticker \"Spectral Mist\" Shine",
+    "value": "5",
+    "id": 1502,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Sticker \"Stalked\" Reflex",
+    "value": "6",
+    "id": 1503,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Sticker \"Green Planet\"",
+    "value": "4",
+    "id": 1504,
+    "collection": "collaboration"
+  },
+  {
+    "name": "Sticker \"fRONZES\" Major 2024",
+    "value": "4",
+    "id": 1507,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"Lighting\" Major 2024",
+    "value": "4",
+    "id": 1508,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"chipaa\" Major 2024",
+    "value": "4",
+    "id": 1509,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"w1nnerx\" Major 2024",
+    "value": "4",
+    "id": 1510,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"qu1ns3\" Major 2024",
+    "value": "4",
+    "id": 1511,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"FORZE\" Major 2024 Color",
+    "value": "5",
+    "id": 1512,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"FORZE\" Major 2024 Shine",
+    "value": "6",
+    "id": 1513,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"Metal\" Major 2024",
+    "value": "4",
+    "id": 1514,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"EcM\" Major 2024",
+    "value": "4",
+    "id": 1515,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"BadDark\" Major 2024",
+    "value": "4",
+    "id": 1516,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"Koldzza\" Major 2024",
+    "value": "4",
+    "id": 1517,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"Kyten\" Major 2024",
+    "value": "4",
+    "id": 1518,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"ALPHA7 ESPORTS\" Major 2024 Color",
+    "value": "5",
+    "id": 1519,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"ALPHA7 ESPORTS\" Major 2024 Shine",
+    "value": "6",
+    "id": 1520,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"McQueen\" Major 2024",
+    "value": "4",
+    "id": 1521,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"Toose\" Major 2024",
+    "value": "4",
+    "id": 1522,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"pla1Nt\" Major 2024",
+    "value": "4",
+    "id": 1523,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"Ping\" Major 2024",
+    "value": "4",
+    "id": 1524,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"wyrdin\" Major 2024",
+    "value": "4",
+    "id": 1525,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"STREETEIGHT\" Major 2024 Color",
+    "value": "5",
+    "id": 1526,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"STREETEIGHT\" Major 2024 Shine",
+    "value": "6",
+    "id": 1527,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"ReZz\" Major 2024",
+    "value": "4",
+    "id": 1528,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"invi\" Major 2024",
+    "value": "4",
+    "id": 1529,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"cxtleta\" Major 2024",
+    "value": "4",
+    "id": 1530,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"1tapp\" Major 2024",
+    "value": "4",
+    "id": 1531,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"notbroken\" Major 2024",
+    "value": "4",
+    "id": 1532,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"AMKAL ESPORTS\" Major 2024 Color",
+    "value": "5",
+    "id": 1533,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"AMKAL ESPORTS\" Major 2024 Shine",
+    "value": "6",
+    "id": 1534,
+    "collection": "major2024"
+  },
+  {
+    "name": "Sticker \"Sweet Star\" Reflex",
+    "value": "5",
+    "id": 1541,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Sticker \"Ramen\"",
+    "value": "3",
+    "id": 1542,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Sticker \"Pengzilla\"",
+    "value": "3",
+    "id": 1543,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Sticker \"Starflare\"",
+    "value": "3",
+    "id": 1544,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Sticker \"Kitsune Dreams\" Shine",
+    "value": "4",
+    "id": 1545,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Sticker \"Venom Blade\" Swap",
+    "value": "4",
+    "id": 1546,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Sticker \"Candy Core\" Shine",
+    "value": "5",
+    "id": 1547,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Sticker \"Foxwish\" Reflex",
+    "value": "6",
+    "id": 1548,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Sticker \"Oh no\"",
+    "value": "3",
+    "id": 1549,
+    "collection": "joy"
+  },
+  {
+    "name": "Sticker \"Ha-Ha Classic\"",
+    "value": "3",
+    "id": 1550,
+    "collection": "joy"
+  },
+  {
+    "name": "Sticker \"Think about it\"",
+    "value": "3",
+    "id": 1551,
+    "collection": "joy"
+  },
+  {
+    "name": "Sticker \"Wait what\"",
+    "value": "3",
+    "id": 1552,
+    "collection": "joy"
+  },
+  {
+    "name": "Sticker \"Pool of Tears\"",
+    "value": "3",
+    "id": 1553,
+    "collection": "joy"
+  },
+  {
+    "name": "Sticker \"That Feeling\"",
+    "value": "3",
+    "id": 1554,
+    "collection": "joy"
+  },
+  {
+    "name": "Sticker \"Intriguing\"",
+    "value": "3",
+    "id": 1555,
+    "collection": "joy"
+  },
+  {
+    "name": "Sticker \"Sad Cat\"",
+    "value": "3",
+    "id": 1556,
+    "collection": "joy"
+  },
+  {
+    "name": "Sticker \"Rush A or B\" Swap",
+    "value": "4",
+    "id": 1557,
+    "collection": "joy"
+  },
+  {
+    "name": "Sticker \"Wise Choice\" Swap",
+    "value": "4",
+    "id": 1558,
+    "collection": "joy"
+  },
+  {
+    "name": "Sticker \"This is Fine\" Swap",
+    "value": "5",
+    "id": 1559,
+    "collection": "joy"
+  },
+  {
+    "name": "Sticker \"Good Loot\" Swap",
+    "value": "4",
+    "id": 1560,
+    "collection": "joy"
+  },
+  {
+    "name": "Sticker \"Love Paws\" Color",
+    "value": "4",
+    "id": 1561,
+    "collection": "joy"
+  },
+  {
+    "name": "Sticker \"Pop-CT\" Swap",
+    "value": "5",
+    "id": 1562,
+    "collection": "joy"
+  },
+  {
+    "name": "Sticker \"Triggered\" Swap",
+    "value": "5",
+    "id": 1563,
+    "collection": "joy"
+  },
+  {
+    "name": "Sticker \"Your Fault\" Swap",
+    "value": "4",
+    "id": 1564,
+    "collection": "joy"
+  },
+  {
+    "name": "Sticker \"Like a Boss\" Shine",
+    "value": "5",
+    "id": 1565,
+    "collection": "joy"
+  },
+  {
+    "name": "Sticker \"GigaSAUG\"",
+    "value": "4",
+    "id": 1566,
+    "collection": "joy"
+  },
+  {
+    "name": "Sticker \"Sigma\" Swap",
+    "value": "6",
+    "id": 1567,
+    "collection": "joy"
+  },
+  {
+    "name": "Sticker \"Lonely Look\" Reflex",
+    "value": "6",
+    "id": 1568,
+    "collection": "joy"
+  },
+  {
+    "name": "Shield \"Reforged\" Bronze",
+    "value": "1",
+    "id": 1569,
+    "collection": "reforged"
+  },
+  {
+    "name": "Shield \"Reforged\" Silver",
+    "value": "2",
+    "id": 1570,
+    "collection": "reforged"
+  },
+  {
+    "name": "Shield \"Reforged\" Gold",
+    "value": "3",
+    "id": 1571,
+    "collection": "reforged"
+  },
+  {
+    "name": "Shield \"Reforged\" Elite Gold",
+    "value": "4",
+    "id": 1572,
+    "collection": "reforged"
+  },
+  {
+    "name": "Shield \"Reforged\" Platinum",
+    "value": "5",
+    "id": 1573,
+    "collection": "reforged"
+  },
+  {
+    "name": "Shield \"Reforged\" Diamond",
+    "value": "6",
+    "id": 1574,
+    "collection": "reforged"
+  },
+  {
+    "name": "Sticker \"Prey\"",
+    "value": "5",
+    "id": 1575,
+    "collection": "prey"
+  },
+  {
+    "name": "Sticker \"No Rush\"",
+    "value": "3",
+    "id": 1576,
+    "collection": "prey"
+  },
+  {
+    "name": "Sticker \"Capybara\"",
+    "value": "3",
+    "id": 1577,
+    "collection": "prey"
+  },
+  {
+    "name": "Sticker \"Gun Run\"",
+    "value": "3",
+    "id": 1578,
+    "collection": "prey"
+  },
+  {
+    "name": "Sticker \"Double Trouble\" Color",
+    "value": "4",
+    "id": 1579,
+    "collection": "prey"
+  },
+  {
+    "name": "Sticker \"OMG\" Swap",
+    "value": "4",
+    "id": 1580,
+    "collection": "prey"
+  },
+  {
+    "name": "Sticker \"Golazo\" Shine",
+    "value": "4",
+    "id": 1581,
+    "collection": "prey"
+  },
+  {
+    "name": "Sticker \"Prey\" Color",
+    "value": "5",
+    "id": 1582,
+    "collection": "prey"
+  },
+  {
+    "name": "Sticker \"Prowler\" Reflex",
+    "value": "6",
+    "id": 1583,
+    "collection": "prey"
+  },
+  {
+    "name": "Sticker \"Chirp\" Swap",
+    "value": "5",
+    "id": 1584,
+    "collection": "prey"
+  },
+  {
+    "name": "Sticker \"Backfire\" Reflex",
+    "value": "5",
+    "id": 1585,
+    "collection": "prey"
+  },
+  {
+    "name": "Sticker \"Toco\" Color",
+    "value": "6",
+    "id": 1586,
+    "collection": "prey"
+  },
+  {
+    "name": "Shield \"8 Years\"",
+    "value": "5",
+    "id": 1587,
+    "collection": "event8years"
+  },
+  {
+    "name": "Sticker \"8 Years\"",
+    "value": "4",
+    "id": 1588,
+    "collection": "event8years"
+  },
+  {
+    "name": "Sticker \"Gambit\"",
+    "value": "3",
+    "id": 1589,
+    "collection": "gambit"
+  },
+  {
+    "name": "Sticker \"Hothead\"",
+    "value": "3",
+    "id": 1590,
+    "collection": "gambit"
+  },
+  {
+    "name": "Sticker \"Secret Island\" Swap",
+    "value": "4",
+    "id": 1591,
+    "collection": "gambit"
+  },
+  {
+    "name": "Sticker \"Laser Game\" Shine",
+    "value": "4",
+    "id": 1592,
+    "collection": "gambit"
+  },
+  {
+    "name": "Sticker \"Sigil\" Swap",
+    "value": "5",
+    "id": 1593,
+    "collection": "gambit"
+  },
+  {
+    "name": "Sticker \"Labyrinth\" Reflex",
+    "value": "6",
+    "id": 1594,
+    "collection": "gambit"
+  },
+  {
     "name": "Gloves \"Phoenix Risen\"",
     "value": "6",
     "id": 3000,
@@ -3280,6 +4396,126 @@
     "value": "6",
     "id": 3033,
     "collection": "chameleon"
+  },
+  {
+    "name": "Gloves \"Rebellion\"",
+    "value": "6",
+    "id": 3034,
+    "collection": "reforged"
+  },
+  {
+    "name": "Gloves \"Utility\"",
+    "value": "6",
+    "id": 3035,
+    "collection": "reforged"
+  },
+  {
+    "name": "Gloves \"Ironclad\"",
+    "value": "6",
+    "id": 3036,
+    "collection": "reforged"
+  },
+  {
+    "name": "Gloves \"Spectral\"",
+    "value": "6",
+    "id": 3037,
+    "collection": "reforged"
+  },
+  {
+    "name": "Gloves \"Gangster\"",
+    "value": "6",
+    "id": 3038,
+    "collection": "reforged"
+  },
+  {
+    "name": "Gloves \"Polymer\"",
+    "value": "6",
+    "id": 3039,
+    "collection": "reforged"
+  },
+  {
+    "name": "Gloves \"Hanami\"",
+    "value": "6",
+    "id": 3040,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Gloves \"Feral\"",
+    "value": "6",
+    "id": 3041,
+    "collection": "prey"
+  },
+  {
+    "name": "Gloves \"Marble\"",
+    "value": "6",
+    "id": 3042,
+    "collection": "prey"
+  },
+  {
+    "name": "Gloves \"Slash\"",
+    "value": "6",
+    "id": 3043,
+    "collection": "prey"
+  },
+  {
+    "name": "Gloves \"Frond\"",
+    "value": "6",
+    "id": 3044,
+    "collection": "prey"
+  },
+  {
+    "name": "Gloves \"Spray\"",
+    "value": "6",
+    "id": 3045,
+    "collection": "prey"
+  },
+  {
+    "name": "Gloves \"Flicker\"",
+    "value": "6",
+    "id": 3046,
+    "collection": "prey"
+  },
+  {
+    "name": "Gloves \"Impulse\"",
+    "value": "6",
+    "id": 3047,
+    "collection": "event8years"
+  },
+  {
+    "name": "Gloves \"Ravage\"",
+    "value": "6",
+    "id": 3048,
+    "collection": "gambit"
+  },
+  {
+    "name": "Gloves \"Dread\"",
+    "value": "6",
+    "id": 3049,
+    "collection": "gambit"
+  },
+  {
+    "name": "Gloves \"Ritual\"",
+    "value": "6",
+    "id": 3050,
+    "collection": "gambit"
+  },
+  {
+    "name": "Gloves \"White Camo\"",
+    "value": "6",
+    "id": 3051,
+    "collection": "gambit"
+  },
+  {
+    "name": "Gloves \"Gambit\"",
+    "value": "6",
+    "id": 3052,
+    "collection": "gambit"
+  },
+  {
+    "name": "Gloves \"Tessera\"",
+    "value": "6",
+    "id": 3053,
+    "collection": "gambit"
   },
   {
     "name": "Graffiti \"High 5\" Packed",
@@ -4836,13 +6072,13 @@
     "collection": "outcast"
   },
   {
-    "name": "Graffiti \"Desinfection\"",
+    "name": "Graffiti \"Disinfection\"",
     "value": "4",
     "id": 4261,
     "collection": "outcast"
   },
   {
-    "name": "Graffiti \"Desinfection\" Packed",
+    "name": "Graffiti \"Disinfection\" Packed",
     "value": "4",
     "id": 4262,
     "collection": "outcast"
@@ -5014,6 +6250,816 @@
     "value": "6",
     "id": 4290,
     "collection": "fun_and_sun"
+  },
+  {
+    "name": "Graffiti \"Lucky Clover\"",
+    "value": "3",
+    "id": 4291,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Lucky Clover\" Packed",
+    "value": "3",
+    "id": 4292,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Muted\"",
+    "value": "3",
+    "id": 4293,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Muted\" Packed",
+    "value": "3",
+    "id": 4294,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Tears of the Battle\"",
+    "value": "3",
+    "id": 4295,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Tears of the Battle\" Packed",
+    "value": "3",
+    "id": 4296,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Perfect Shot\"",
+    "value": "3",
+    "id": 4297,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Perfect Shot\" Packed",
+    "value": "3",
+    "id": 4298,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Warning! Shotguns\"",
+    "value": "3",
+    "id": 4299,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Warning! Shotguns\" Packed",
+    "value": "3",
+    "id": 4300,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Tilt\"",
+    "value": "3",
+    "id": 4301,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Tilt\" Packed",
+    "value": "3",
+    "id": 4302,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Cool\"",
+    "value": "3",
+    "id": 4303,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Cool\" Packed",
+    "value": "3",
+    "id": 4304,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Surrender\"",
+    "value": "3",
+    "id": 4305,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Surrender\" Packed",
+    "value": "3",
+    "id": 4306,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Mr Grenade\"",
+    "value": "4",
+    "id": 4307,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Mr Grenade\" Packed",
+    "value": "4",
+    "id": 4308,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Respect\"",
+    "value": "4",
+    "id": 4309,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Respect\" Packed",
+    "value": "4",
+    "id": 4310,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Rant Mode\"",
+    "value": "4",
+    "id": 4311,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Rant Mode\" Packed",
+    "value": "4",
+    "id": 4312,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"This is Fine\"",
+    "value": "5",
+    "id": 4313,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"This is Fine\" Packed",
+    "value": "5",
+    "id": 4314,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Hide\"",
+    "value": "4",
+    "id": 4315,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Hide\" Packed",
+    "value": "4",
+    "id": 4316,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Love\"",
+    "value": "5",
+    "id": 4317,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Love\" Packed",
+    "value": "5",
+    "id": 4318,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Solo\"",
+    "value": "4",
+    "id": 4319,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Solo\" Packed",
+    "value": "4",
+    "id": 4320,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Duck of War\"",
+    "value": "5",
+    "id": 4321,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Duck of War\" Packed",
+    "value": "5",
+    "id": 4322,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Vandal\"",
+    "value": "4",
+    "id": 4323,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Vandal\" Packed",
+    "value": "4",
+    "id": 4324,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Spiky\"",
+    "value": "5",
+    "id": 4325,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Spiky\" Packed",
+    "value": "5",
+    "id": 4326,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Kawaii Spray\"",
+    "value": "6",
+    "id": 4327,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Kawaii Spray\" Packed",
+    "value": "6",
+    "id": 4328,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Coin Kitty\"",
+    "value": "6",
+    "id": 4329,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Coin Kitty\" Packed",
+    "value": "6",
+    "id": 4330,
+    "collection": "vibe"
+  },
+  {
+    "name": "Graffiti \"Reforged\"",
+    "value": "3",
+    "id": 4331,
+    "collection": "reforged"
+  },
+  {
+    "name": "Graffiti \"Reforged\" Packed",
+    "value": "3",
+    "id": 4332,
+    "collection": "reforged"
+  },
+  {
+    "name": "Graffiti \"Skull Cap\"",
+    "value": "3",
+    "id": 4333,
+    "collection": "reforged"
+  },
+  {
+    "name": "Graffiti \"Skull Cap\" Packed",
+    "value": "3",
+    "id": 4334,
+    "collection": "reforged"
+  },
+  {
+    "name": "Graffiti \"Solid Heart\"",
+    "value": "3",
+    "id": 4335,
+    "collection": "reforged"
+  },
+  {
+    "name": "Graffiti \"Solid Heart\" Packed",
+    "value": "3",
+    "id": 4336,
+    "collection": "reforged"
+  },
+  {
+    "name": "Graffiti \"Broken Heart\"",
+    "value": "3",
+    "id": 4337,
+    "collection": "reforged"
+  },
+  {
+    "name": "Graffiti \"Broken Heart\" Packed",
+    "value": "3",
+    "id": 4338,
+    "collection": "reforged"
+  },
+  {
+    "name": "Graffiti \"You are next\"",
+    "value": "4",
+    "id": 4339,
+    "collection": "reforged"
+  },
+  {
+    "name": "Graffiti \"You are next\" Packed",
+    "value": "4",
+    "id": 4340,
+    "collection": "reforged"
+  },
+  {
+    "name": "Graffiti \"Eco round\"",
+    "value": "4",
+    "id": 4341,
+    "collection": "reforged"
+  },
+  {
+    "name": "Graffiti \"Eco round\" Packed",
+    "value": "4",
+    "id": 4342,
+    "collection": "reforged"
+  },
+  {
+    "name": "Graffiti \"Rusty Gear\"",
+    "value": "4",
+    "id": 4343,
+    "collection": "reforged"
+  },
+  {
+    "name": "Graffiti \"Rusty Gear\" Packed",
+    "value": "4",
+    "id": 4344,
+    "collection": "reforged"
+  },
+  {
+    "name": "Graffiti \"Tool of Power\"",
+    "value": "5",
+    "id": 4345,
+    "collection": "reforged"
+  },
+  {
+    "name": "Graffiti \"Tool of Power\" Packed",
+    "value": "5",
+    "id": 4346,
+    "collection": "reforged"
+  },
+  {
+    "name": "Graffiti \"Infernal Machine\"",
+    "value": "5",
+    "id": 4347,
+    "collection": "reforged"
+  },
+  {
+    "name": "Graffiti \"Infernal Machine\" Packed",
+    "value": "5",
+    "id": 4348,
+    "collection": "reforged"
+  },
+  {
+    "name": "Graffiti \"Pigeon\"",
+    "value": "5",
+    "id": 4349,
+    "collection": "reforged"
+  },
+  {
+    "name": "Graffiti \"Pigeon\" Packed",
+    "value": "5",
+    "id": 4350,
+    "collection": "reforged"
+  },
+  {
+    "name": "Graffiti \"Heavy Metal\"",
+    "value": "6",
+    "id": 4351,
+    "collection": "reforged"
+  },
+  {
+    "name": "Graffiti \"Heavy Metal\" Packed",
+    "value": "6",
+    "id": 4352,
+    "collection": "reforged"
+  },
+  {
+    "name": "Graffiti \"Smoke\"",
+    "value": "6",
+    "id": 4353,
+    "collection": "reforged"
+  },
+  {
+    "name": "Graffiti \"Smoke\" Packed",
+    "value": "6",
+    "id": 4354,
+    "collection": "reforged"
+  },
+  {
+    "name": "Graffiti \"Hypnosis\"",
+    "value": "5",
+    "id": 4355,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Graffiti \"Hypnosis\" Packed",
+    "value": "5",
+    "id": 4356,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Graffiti \"Relentless\"",
+    "value": "6",
+    "id": 4357,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Graffiti \"Relentless\" Packed",
+    "value": "6",
+    "id": 4358,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Graffiti \"No Sleep\"",
+    "value": "4",
+    "id": 4359,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Graffiti \"No Sleep\" Packed",
+    "value": "4",
+    "id": 4360,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Graffiti \"Ragged\"",
+    "value": "3",
+    "id": 4361,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Graffiti \"Ragged\" Packed",
+    "value": "3",
+    "id": 4362,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Graffiti \"Wake Up!\"",
+    "value": "4",
+    "id": 4363,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Graffiti \"Wake Up!\" Packed",
+    "value": "4",
+    "id": 4364,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Graffiti \"Nightmare\"",
+    "value": "3",
+    "id": 4365,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Graffiti \"Nightmare\" Packed",
+    "value": "3",
+    "id": 4366,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Graffiti \"Green Planet\"",
+    "value": "4",
+    "id": 4367,
+    "collection": "collaboration"
+  },
+  {
+    "name": "Graffiti \"Green Planet\" Packed",
+    "value": "4",
+    "id": 4368,
+    "collection": "collaboration"
+  },
+  {
+    "name": "Graffiti \"Perfect Leader\"",
+    "value": "3",
+    "id": 4369,
+    "collection": "standoff_2"
+  },
+  {
+    "name": "Graffiti \"Veteran 2025\" Bronze",
+    "value": "1",
+    "id": 4370,
+    "collection": "veteran_2025"
+  },
+  {
+    "name": "Graffiti \"Veteran 2025\" Silver",
+    "value": "2",
+    "id": 4371,
+    "collection": "veteran_2025"
+  },
+  {
+    "name": "Graffiti \"Veteran 2025\" Gold",
+    "value": "3",
+    "id": 4372,
+    "collection": "veteran_2025"
+  },
+  {
+    "name": "Graffiti \"Veteran 2025\" Elite Gold",
+    "value": "4",
+    "id": 4373,
+    "collection": "veteran_2025"
+  },
+  {
+    "name": "Graffiti \"Veteran 2025\" Platinum",
+    "value": "5",
+    "id": 4374,
+    "collection": "veteran_2025"
+  },
+  {
+    "name": "Graffiti \"Veteran 2025\" Diamond",
+    "value": "6",
+    "id": 4375,
+    "collection": "veteran_2025"
+  },
+  {
+    "name": "Graffiti \"Yummy\"",
+    "value": "3",
+    "id": 4376,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Graffiti \"Yummy\" Packed",
+    "value": "3",
+    "id": 4377,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Graffiti \"Mad Move\"",
+    "value": "3",
+    "id": 4378,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Graffiti \"Mad Move\" Packed",
+    "value": "3",
+    "id": 4379,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Graffiti \"Sad Move\"",
+    "value": "3",
+    "id": 4380,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Graffiti \"Sad Move\" Packed",
+    "value": "3",
+    "id": 4381,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Graffiti \"Kitsune Dreams\"",
+    "value": "4",
+    "id": 4382,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Graffiti \"Kitsune Dreams\" Packed",
+    "value": "4",
+    "id": 4383,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Graffiti \"Cute Shot\"",
+    "value": "4",
+    "id": 4384,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Graffiti \"Cute Shot\" Packed",
+    "value": "4",
+    "id": 4385,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Graffiti \"Like\"",
+    "value": "5",
+    "id": 4386,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Graffiti \"Like\" Packed",
+    "value": "5",
+    "id": 4387,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Graffiti \"Icy Squad\"",
+    "value": "6",
+    "id": 4388,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Graffiti \"Icy Squad\" Packed",
+    "value": "6",
+    "id": 4389,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Graffiti \"Unchained\"",
+    "value": "3",
+    "id": 4390,
+    "collection": "prey"
+  },
+  {
+    "name": "Graffiti \"Unchained\" Packed",
+    "value": "3",
+    "id": 4391,
+    "collection": "prey"
+  },
+  {
+    "name": "Graffiti \"Bladebrand\"",
+    "value": "3",
+    "id": 4392,
+    "collection": "prey"
+  },
+  {
+    "name": "Graffiti \"Bladebrand\" Packed",
+    "value": "3",
+    "id": 4393,
+    "collection": "prey"
+  },
+  {
+    "name": "Graffiti \"Capybara\"",
+    "value": "3",
+    "id": 4394,
+    "collection": "prey"
+  },
+  {
+    "name": "Graffiti \"Capybara\" Packed",
+    "value": "3",
+    "id": 4395,
+    "collection": "prey"
+  },
+  {
+    "name": "Graffiti \"Prey\"",
+    "value": "3",
+    "id": 4396,
+    "collection": "prey"
+  },
+  {
+    "name": "Graffiti \"Prey\" Packed",
+    "value": "3",
+    "id": 4397,
+    "collection": "prey"
+  },
+  {
+    "name": "Graffiti \"Angry Team\"",
+    "value": "4",
+    "id": 4398,
+    "collection": "prey"
+  },
+  {
+    "name": "Graffiti \"Angry Team\" Packed",
+    "value": "4",
+    "id": 4399,
+    "collection": "prey"
+  },
+  {
+    "name": "Graffiti \"Fizz\"",
+    "value": "4",
+    "id": 4400,
+    "collection": "prey"
+  },
+  {
+    "name": "Graffiti \"Fizz\" Packed",
+    "value": "4",
+    "id": 4401,
+    "collection": "prey"
+  },
+  {
+    "name": "Graffiti \"Rampage\"",
+    "value": "4",
+    "id": 4402,
+    "collection": "prey"
+  },
+  {
+    "name": "Graffiti \"Rampage\" Packed",
+    "value": "4",
+    "id": 4403,
+    "collection": "prey"
+  },
+  {
+    "name": "Graffiti \"Golazo\"",
+    "value": "5",
+    "id": 4404,
+    "collection": "prey"
+  },
+  {
+    "name": "Graffiti \"Golazo\" Packed",
+    "value": "5",
+    "id": 4405,
+    "collection": "prey"
+  },
+  {
+    "name": "Graffiti \"Hunter\"",
+    "value": "5",
+    "id": 4406,
+    "collection": "prey"
+  },
+  {
+    "name": "Graffiti \"Hunter\" Packed",
+    "value": "5",
+    "id": 4407,
+    "collection": "prey"
+  },
+  {
+    "name": "Graffiti \"Pelada\"",
+    "value": "5",
+    "id": 4408,
+    "collection": "prey"
+  },
+  {
+    "name": "Graffiti \"Pelada\" Packed",
+    "value": "5",
+    "id": 4409,
+    "collection": "prey"
+  },
+  {
+    "name": "Graffiti \"Joy Killer\"",
+    "value": "6",
+    "id": 4410,
+    "collection": "prey"
+  },
+  {
+    "name": "Graffiti \"Joy Killer\" Packed",
+    "value": "6",
+    "id": 4411,
+    "collection": "prey"
+  },
+  {
+    "name": "Graffiti \"Toco\"",
+    "value": "6",
+    "id": 4412,
+    "collection": "prey"
+  },
+  {
+    "name": "Graffiti \"Toco\" Packed",
+    "value": "6",
+    "id": 4413,
+    "collection": "prey"
+  },
+  {
+    "name": "Graffiti \"Mask of Control\"",
+    "value": "3",
+    "id": 4414,
+    "collection": "gambit"
+  },
+  {
+    "name": "Graffiti \"Mask of Control\" Packed",
+    "value": "3",
+    "id": 4415,
+    "collection": "gambit"
+  },
+  {
+    "name": "Graffiti \"Gambit\"",
+    "value": "3",
+    "id": 4416,
+    "collection": "gambit"
+  },
+  {
+    "name": "Graffiti \"Gambit\" Packed",
+    "value": "3",
+    "id": 4417,
+    "collection": "gambit"
+  },
+  {
+    "name": "Graffiti \"Do not stop\"",
+    "value": "4",
+    "id": 4418,
+    "collection": "gambit"
+  },
+  {
+    "name": "Graffiti \"Do not stop\" Packed",
+    "value": "4",
+    "id": 4419,
+    "collection": "gambit"
+  },
+  {
+    "name": "Graffiti \"The Watchers\"",
+    "value": "4",
+    "id": 4420,
+    "collection": "gambit"
+  },
+  {
+    "name": "Graffiti \"The Watchers\" Packed",
+    "value": "4",
+    "id": 4421,
+    "collection": "gambit"
+  },
+  {
+    "name": "Graffiti \"Sigil\"",
+    "value": "5",
+    "id": 4422,
+    "collection": "gambit"
+  },
+  {
+    "name": "Graffiti \"Sigil\" Packed",
+    "value": "5",
+    "id": 4423,
+    "collection": "gambit"
+  },
+  {
+    "name": "Graffiti \"Idol\"",
+    "value": "6",
+    "id": 4424,
+    "collection": "gambit"
+  },
+  {
+    "name": "Graffiti \"Idol\" Packed",
+    "value": "6",
+    "id": 4425,
+    "collection": "gambit"
   },
   {
     "name": "Charm \"Project Z9\" Bronze",
@@ -6426,6 +8472,456 @@
     "collection": "fun_and_sun"
   },
   {
+    "name": "Charm \"Outcast 2v2\" Bronze",
+    "value": "1",
+    "id": 5251,
+    "collection": "outcast"
+  },
+  {
+    "name": "Charm \"Outcast 2v2\" Silver",
+    "value": "2",
+    "id": 5252,
+    "collection": "outcast"
+  },
+  {
+    "name": "Charm \"Outcast 2v2\" Gold",
+    "value": "3",
+    "id": 5253,
+    "collection": "outcast"
+  },
+  {
+    "name": "Charm \"Outcast 2v2\" Elite Gold",
+    "value": "4",
+    "id": 5254,
+    "collection": "outcast"
+  },
+  {
+    "name": "Charm \"Outcast 2v2\" Platinum",
+    "value": "5",
+    "id": 5255,
+    "collection": "outcast"
+  },
+  {
+    "name": "Charm \"Outcast 2v2\" Diamond",
+    "value": "6",
+    "id": 5256,
+    "collection": "outcast"
+  },
+  {
+    "name": "Charm \"Outcast 5v5\" Bronze",
+    "value": "1",
+    "id": 5257,
+    "collection": "outcast"
+  },
+  {
+    "name": "Charm \"Outcast 5v5\" Silver",
+    "value": "2",
+    "id": 5258,
+    "collection": "outcast"
+  },
+  {
+    "name": "Charm \"Outcast 5v5\" Gold",
+    "value": "3",
+    "id": 5259,
+    "collection": "outcast"
+  },
+  {
+    "name": "Charm \"Outcast 5v5\" Elite Gold",
+    "value": "4",
+    "id": 5260,
+    "collection": "outcast"
+  },
+  {
+    "name": "Charm \"Outcast 5v5\" Platinum",
+    "value": "5",
+    "id": 5261,
+    "collection": "outcast"
+  },
+  {
+    "name": "Charm \"Outcast 5v5\" Diamond",
+    "value": "6",
+    "id": 5262,
+    "collection": "outcast"
+  },
+  {
+    "name": "Charm \"Screw\"",
+    "value": "3",
+    "id": 5263,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Wrench\"",
+    "value": "3",
+    "id": 5264,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Brick\"",
+    "value": "3",
+    "id": 5265,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Reforged\" Silver",
+    "value": "3",
+    "id": 5266,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Ring saw\"",
+    "value": "4",
+    "id": 5267,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Battery\"",
+    "value": "4",
+    "id": 5268,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Metal tag\"",
+    "value": "5",
+    "id": 5269,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Pigeon\"",
+    "value": "5",
+    "id": 5270,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Forklift\"",
+    "value": "4",
+    "id": 5271,
+    "collection": "reforged"
+  },
+  {
+    "name": "Chibi \"Smuggler\"",
+    "value": "5",
+    "id": 5272,
+    "collection": "reforged"
+  },
+  {
+    "name": "Chibi \"FOG\"",
+    "value": "6",
+    "id": 5273,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Reforged\" Gold",
+    "value": "6",
+    "id": 5274,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Hexcatcher\"",
+    "value": "3",
+    "id": 5276,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Charm \"Voodoo Doll\"",
+    "value": "3",
+    "id": 5277,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Charm \"Gazing Mirror\"",
+    "value": "4",
+    "id": 5278,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Charm \"Nightmare\"",
+    "value": "4",
+    "id": 5279,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Chibi \"Sleepwalker\"",
+    "value": "5",
+    "id": 5280,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Charm \"Hypno Beast\"",
+    "value": "6",
+    "id": 5281,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Charm \"Pingo\"",
+    "value": "4",
+    "id": 5282,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Charm \"Frost Shuriken\"",
+    "value": "3",
+    "id": 5283,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Charm \"Origami Snake\"",
+    "value": "3",
+    "id": 5284,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Charm \"Kitsune Dreams\"",
+    "value": "4",
+    "id": 5285,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Charm \"Mecha Knight\"",
+    "value": "4",
+    "id": 5286,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Charm \"Purrfect Luck\"",
+    "value": "5",
+    "id": 5287,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Chibi \"Twinkle\"",
+    "value": "6",
+    "id": 5288,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Charm \"Holiday Twist\"",
+    "value": "4",
+    "id": 5289,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Charm \"Reforged 5v5\" Bronze",
+    "value": "1",
+    "id": 5290,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Reforged 5v5\" Silver",
+    "value": "2",
+    "id": 5291,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Reforged 5v5\" Gold",
+    "value": "3",
+    "id": 5292,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Reforged 5v5\" Elite Gold",
+    "value": "4",
+    "id": 5293,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Reforged 5v5\" Platinum",
+    "value": "5",
+    "id": 5294,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Reforged 5v5\" Diamond",
+    "value": "6",
+    "id": 5295,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Reforged 2v2\" Bronze",
+    "value": "1",
+    "id": 5296,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Reforged 2v2\" Silver",
+    "value": "2",
+    "id": 5297,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Reforged 2v2\" Gold",
+    "value": "3",
+    "id": 5298,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Reforged 2v2\" Elite Gold",
+    "value": "4",
+    "id": 5299,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Reforged 2v2\" Platinum",
+    "value": "5",
+    "id": 5300,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Reforged 2v2\" Diamond",
+    "value": "6",
+    "id": 5301,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Reforged 1v1\" Bronze",
+    "value": "1",
+    "id": 5302,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Reforged 1v1\" Silver",
+    "value": "2",
+    "id": 5303,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Reforged 1v1\" Gold",
+    "value": "3",
+    "id": 5304,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Reforged 1v1\" Elite Gold",
+    "value": "4",
+    "id": 5305,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Reforged 1v1\" Platinum",
+    "value": "5",
+    "id": 5306,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Reforged 1v1\" Diamond",
+    "value": "6",
+    "id": 5307,
+    "collection": "reforged"
+  },
+  {
+    "name": "Charm \"Timbau\"",
+    "value": "3",
+    "id": 5308,
+    "collection": "prey"
+  },
+  {
+    "name": "Charm \"Tagged Helmet\"",
+    "value": "3",
+    "id": 5309,
+    "collection": "prey"
+  },
+  {
+    "name": "Charm \"Bladebrand\"",
+    "value": "3",
+    "id": 5310,
+    "collection": "prey"
+  },
+  {
+    "name": "Charm \"Prey\" Silver",
+    "value": "3",
+    "id": 5311,
+    "collection": "prey"
+  },
+  {
+    "name": "Charm \"Capybara\"",
+    "value": "4",
+    "id": 5312,
+    "collection": "prey"
+  },
+  {
+    "name": "Charm \"Stall\"",
+    "value": "4",
+    "id": 5313,
+    "collection": "prey"
+  },
+  {
+    "name": "Charm \"Golden Ball\"",
+    "value": "4",
+    "id": 5314,
+    "collection": "prey"
+  },
+  {
+    "name": "Charm \"Prey\" Gold",
+    "value": "5",
+    "id": 5315,
+    "collection": "prey"
+  },
+  {
+    "name": "Charm \"Transmitter\"",
+    "value": "5",
+    "id": 5316,
+    "collection": "prey"
+  },
+  {
+    "name": "Chibi \"GRT\"",
+    "value": "5",
+    "id": 5317,
+    "collection": "prey"
+  },
+  {
+    "name": "Chibi \"RIA\"",
+    "value": "6",
+    "id": 5318,
+    "collection": "prey"
+  },
+  {
+    "name": "Charm \"Parrot\"",
+    "value": "6",
+    "id": 5319,
+    "collection": "prey"
+  },
+  {
+    "name": "Charm \"8 Years\"",
+    "value": "6",
+    "id": 5320,
+    "collection": "event8years"
+  },
+  {
+    "name": "Charm \"Gambit\"",
+    "value": "3",
+    "id": 5321,
+    "collection": "gambit"
+  },
+  {
+    "name": "Charm \"Watcher\"",
+    "value": "3",
+    "id": 5322,
+    "collection": "gambit"
+  },
+  {
+    "name": "Charm \"Mask of Control\"",
+    "value": "4",
+    "id": 5323,
+    "collection": "gambit"
+  },
+  {
+    "name": "Charm \"Cresset\"",
+    "value": "4",
+    "id": 5324,
+    "collection": "gambit"
+  },
+  {
+    "name": "Chibi \"Trial\"",
+    "value": "5",
+    "id": 5325,
+    "collection": "gambit"
+  },
+  {
+    "name": "Charm \"Sigil\"",
+    "value": "6",
+    "id": 5326,
+    "collection": "gambit"
+  },
+  {
     "name": "Frame Tier 1 Bronze",
     "value": "1",
     "id": 7001,
@@ -6610,6 +9106,54 @@
     "value": "6",
     "id": 7031,
     "collection": "space_vision"
+  },
+  {
+    "name": "Commander Frame Tier 1",
+    "value": "3",
+    "id": 7032,
+    "collection": "standoff_2"
+  },
+  {
+    "name": "Commander Frame Tier 2",
+    "value": "4",
+    "id": 7033,
+    "collection": "standoff_2"
+  },
+  {
+    "name": "Commander Frame Tier 3",
+    "value": "6",
+    "id": 7034,
+    "collection": "standoff_2"
+  },
+  {
+    "name": "Commander Frame Tier 3 StatTrack",
+    "value": "6",
+    "id": 7035,
+    "collection": "standoff_2"
+  },
+  {
+    "name": "Frame \"Kitsune Dreams\" Kori",
+    "value": "3",
+    "id": 7036,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Frame \"Kitsune Dreams\" Naito",
+    "value": "4",
+    "id": 7037,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Frame \"Kitsune Dreams\" Akari",
+    "value": "5",
+    "id": 7038,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Frame \"Kitsune Dreams\" Hoshi",
+    "value": "6",
+    "id": 7039,
+    "collection": "kitsune_dreams"
   },
   {
     "name": "G22 \"Pixel Camouflage\"",
@@ -8766,6 +11310,18 @@
     "collection": "standoff_2"
   },
   {
+    "name": "G22 \"Steel Grip\"",
+    "value": "2",
+    "id": 210005,
+    "collection": "standoff_2"
+  },
+  {
+    "name": "USP \"Hunter-02\"",
+    "value": "3",
+    "id": 210006,
+    "collection": "standoff_2"
+  },
+  {
     "name": "MAC10 \"Noxious\"",
     "value": "3",
     "id": 220001,
@@ -9658,6 +12214,612 @@
     "value": "6",
     "id": 240114,
     "collection": "fun_and_sun"
+  },
+  {
+    "name": "MAC10 \"Ruby Shadow\"",
+    "value": "7",
+    "id": 240115,
+    "collection": "nameless"
+  },
+  {
+    "name": "F/S \"Polymer\"",
+    "value": "3",
+    "id": 240116,
+    "collection": "reforged"
+  },
+  {
+    "name": "Berettas \"Construction Sector\"",
+    "value": "3",
+    "id": 240117,
+    "collection": "reforged"
+  },
+  {
+    "name": "FAMAS \"Oxide\"",
+    "value": "3",
+    "id": 240118,
+    "collection": "reforged"
+  },
+  {
+    "name": "MP7 \"Rebellion\"",
+    "value": "3",
+    "id": 240119,
+    "collection": "reforged"
+  },
+  {
+    "name": "P350 \"Gearshift\"",
+    "value": "5",
+    "id": 240120,
+    "collection": "reforged"
+  },
+  {
+    "name": "M40 \"Skyfall\"",
+    "value": "4",
+    "id": 240121,
+    "collection": "reforged"
+  },
+  {
+    "name": "VAL \"Night City\"",
+    "value": "4",
+    "id": 240122,
+    "collection": "reforged"
+  },
+  {
+    "name": "TEC-9 \"Gangster\"",
+    "value": "4",
+    "id": 240123,
+    "collection": "reforged"
+  },
+  {
+    "name": "M4 \"Ironclad\"",
+    "value": "5",
+    "id": 240124,
+    "collection": "reforged"
+  },
+  {
+    "name": "FabM \"Gangster\"",
+    "value": "5",
+    "id": 240125,
+    "collection": "reforged"
+  },
+  {
+    "name": "AWM \"Spectral\"",
+    "value": "6",
+    "id": 240126,
+    "collection": "reforged"
+  },
+  {
+    "name": "AKR12 \"Emberbird\"",
+    "value": "6",
+    "id": 240127,
+    "collection": "reforged"
+  },
+  {
+    "name": "Kukri \"Decay\"",
+    "value": "6",
+    "id": 240128,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Dual Daggers \"Contagion\"",
+    "value": "6",
+    "id": 240129,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Butterfly \"Ripple\"",
+    "value": "6",
+    "id": 240130,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Karambit \"Widow's Weave\"",
+    "value": "6",
+    "id": 240131,
+    "collection": "nightmare"
+  },
+  {
+    "name": "jKommando \"Plasma\"",
+    "value": "6",
+    "id": 240132,
+    "collection": "nightmare"
+  },
+  {
+    "name": "Sting \"Arcane Surge\"",
+    "value": "6",
+    "id": 240133,
+    "collection": "nightmare"
+  },
+  {
+    "name": "M110 \"Dark Pact\"",
+    "value": "3",
+    "id": 240134,
+    "collection": "nightmare"
+  },
+  {
+    "name": "USP \"Suture\"",
+    "value": "3",
+    "id": 240135,
+    "collection": "nightmare"
+  },
+  {
+    "name": "M16 \"Wraithwood\"",
+    "value": "4",
+    "id": 240136,
+    "collection": "nightmare"
+  },
+  {
+    "name": "MAC10 \"Arcane Surge\"",
+    "value": "4",
+    "id": 240137,
+    "collection": "nightmare"
+  },
+  {
+    "name": "FN FAL \"Astral Rift\"",
+    "value": "5",
+    "id": 240138,
+    "collection": "nightmare"
+  },
+  {
+    "name": "VAL \"Widow's Weave\"",
+    "value": "6",
+    "id": 240139,
+    "collection": "nightmare"
+  },
+  {
+    "name": "AKR12 \"Cold-hearted\"",
+    "value": "4",
+    "id": 240140,
+    "collection": "standoff_2"
+  },
+  {
+    "name": "M4 \"Furious Sharpshooter\"",
+    "value": "3",
+    "id": 240141,
+    "collection": "standoff_2"
+  },
+  {
+    "name": "Flash \"Solar\"",
+    "value": "7",
+    "id": 240144,
+    "collection": "nameless"
+  },
+  {
+    "name": "P90 \"Unstoppable\"",
+    "value": "3",
+    "id": 240145,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "M4 \"Kachi\"",
+    "value": "3",
+    "id": 240146,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "TEC-9 \"Night Slayer\"",
+    "value": "4",
+    "id": 240147,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "F/S \"Pink Shot\"",
+    "value": "4",
+    "id": 240148,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "M40 \"Northern Lights\"",
+    "value": "5",
+    "id": 240149,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "AKR12 \"Hanami\"",
+    "value": "6",
+    "id": 240150,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Tanto \"Hanami\"",
+    "value": "6",
+    "id": 240151,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Scorpion \"Neko Joy\"",
+    "value": "6",
+    "id": 240152,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Stiletto \"Voidroot\"",
+    "value": "6",
+    "id": 240153,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "M9 Bayonet \"Amber Koi\"",
+    "value": "6",
+    "id": 240154,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Fang \"Wavesong\"",
+    "value": "6",
+    "id": 240155,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Kunai \"Wavesong\"",
+    "value": "6",
+    "id": 240156,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "SPAS \"Tensai\"",
+    "value": "4",
+    "id": 240157,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "VAL \"Ronin\"",
+    "value": "5",
+    "id": 240158,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "M4A1 \"Sparkling Gaze\"",
+    "value": "6",
+    "id": 240159,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Smoke \"Kiri\"",
+    "value": "5",
+    "id": 240160,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "HE \"Hanami\"",
+    "value": "6",
+    "id": 240161,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "AKR \"Vermilion\"",
+    "value": "6",
+    "id": 240162,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Desert Eagle \"Vermilion\"",
+    "value": "6",
+    "id": 240163,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "Karambit \"Vermilion\"",
+    "value": "6",
+    "id": 240164,
+    "collection": "kitsune_dreams"
+  },
+  {
+    "name": "P350 \"Ink Spree\"",
+    "value": "3",
+    "id": 240166,
+    "collection": "prey"
+  },
+  {
+    "name": "UMP45 \"Heatwave\"",
+    "value": "3",
+    "id": 240167,
+    "collection": "prey"
+  },
+  {
+    "name": "FN FAL \"Charred Wood\"",
+    "value": "3",
+    "id": 240168,
+    "collection": "prey"
+  },
+  {
+    "name": "M60 \"Warp\"",
+    "value": "3",
+    "id": 240169,
+    "collection": "prey"
+  },
+  {
+    "name": "M110 \"Grid\"",
+    "value": "4",
+    "id": 240170,
+    "collection": "prey"
+  },
+  {
+    "name": "MP5 \"Tiles\"",
+    "value": "4",
+    "id": 240171,
+    "collection": "prey"
+  },
+  {
+    "name": "Akimbo Uzi \"Spray\"",
+    "value": "4",
+    "id": 240172,
+    "collection": "prey"
+  },
+  {
+    "name": "USP \"Rainforest\"",
+    "value": "5",
+    "id": 240173,
+    "collection": "prey"
+  },
+  {
+    "name": "FAMAS \"Feral\"",
+    "value": "5",
+    "id": 240174,
+    "collection": "prey"
+  },
+  {
+    "name": "Akimbo Uzi \"Toco\"",
+    "value": "5",
+    "id": 240175,
+    "collection": "prey"
+  },
+  {
+    "name": "SPAS \"Glide\"",
+    "value": "6",
+    "id": 240176,
+    "collection": "prey"
+  },
+  {
+    "name": "M16 \"Raiva\"",
+    "value": "6",
+    "id": 240177,
+    "collection": "prey"
+  },
+  {
+    "name": "M40 \"Smolder\"",
+    "value": "1",
+    "id": 240178,
+    "collection": "dynasty"
+  },
+  {
+    "name": "MAC10 \"Pixel Camouflage\"",
+    "value": "1",
+    "id": 240179,
+    "collection": "dynasty"
+  },
+  {
+    "name": "MP5 \"Iron\"",
+    "value": "1",
+    "id": 240180,
+    "collection": "dynasty"
+  },
+  {
+    "name": "F/S \"Aquamarine\"",
+    "value": "1",
+    "id": 240181,
+    "collection": "dynasty"
+  },
+  {
+    "name": "FabM \"Mayhem\"",
+    "value": "2",
+    "id": 240182,
+    "collection": "dynasty"
+  },
+  {
+    "name": "TEC-9 \"Ultimatum\"",
+    "value": "2",
+    "id": 240183,
+    "collection": "dynasty"
+  },
+  {
+    "name": "Berettas \"Verdict\"",
+    "value": "2",
+    "id": 240184,
+    "collection": "dynasty"
+  },
+  {
+    "name": "M60 \"Copper\"",
+    "value": "2",
+    "id": 240185,
+    "collection": "dynasty"
+  },
+  {
+    "name": "M16 \"Mayhem\"",
+    "value": "3",
+    "id": 240186,
+    "collection": "dynasty"
+  },
+  {
+    "name": "Akimbo Uzi \"Skull\"",
+    "value": "3",
+    "id": 240187,
+    "collection": "dynasty"
+  },
+  {
+    "name": "FN FAL \"PRO\"",
+    "value": "3",
+    "id": 240188,
+    "collection": "dynasty"
+  },
+  {
+    "name": "SM1014 \"Wasp\"",
+    "value": "3",
+    "id": 240189,
+    "collection": "dynasty"
+  },
+  {
+    "name": "AWM \"Sylvan\"",
+    "value": "4",
+    "id": 240190,
+    "collection": "dynasty"
+  },
+  {
+    "name": "P350 \"Ooze\"",
+    "value": "4",
+    "id": 240191,
+    "collection": "dynasty"
+  },
+  {
+    "name": "P90 \"Noir\"",
+    "value": "5",
+    "id": 240192,
+    "collection": "dynasty"
+  },
+  {
+    "name": "M4A1 \"Overdrive\"",
+    "value": "5",
+    "id": 240193,
+    "collection": "dynasty"
+  },
+  {
+    "name": "Desert Eagle \"Eclipse\"",
+    "value": "5",
+    "id": 240194,
+    "collection": "dynasty"
+  },
+  {
+    "name": "G22 \"Briar\"",
+    "value": "4",
+    "id": 240195,
+    "collection": "dynasty"
+  },
+  {
+    "name": "Akimbo Uzi \"Overdrive Red\"",
+    "value": "6",
+    "id": 240196,
+    "collection": "dynasty"
+  },
+  {
+    "name": "AKR \"Genesis\"",
+    "value": "6",
+    "id": 240197,
+    "collection": "dynasty"
+  },
+  {
+    "name": "Mantis \"Eclipse\"",
+    "value": "6",
+    "id": 240198,
+    "collection": "dynasty"
+  },
+  {
+    "name": "Mantis \"Citrine\"",
+    "value": "6",
+    "id": 240199,
+    "collection": "dynasty"
+  },
+  {
+    "name": "Mantis \"Nest\"",
+    "value": "6",
+    "id": 240200,
+    "collection": "dynasty"
+  },
+  {
+    "name": "Mantis \"Genesis\"",
+    "value": "6",
+    "id": 240201,
+    "collection": "dynasty"
+  },
+  {
+    "name": "Akimbo Uzi \"Streak\"",
+    "value": "3",
+    "id": 240202,
+    "collection": "event8years"
+  },
+  {
+    "name": "FabM \"Streak\"",
+    "value": "3",
+    "id": 240203,
+    "collection": "event8years"
+  },
+  {
+    "name": "M4 \"Flex\"",
+    "value": "4",
+    "id": 240204,
+    "collection": "event8years"
+  },
+  {
+    "name": "M60 \"Flex\"",
+    "value": "4",
+    "id": 240205,
+    "collection": "event8years"
+  },
+  {
+    "name": "MP5 \"Blueprint\"",
+    "value": "5",
+    "id": 240206,
+    "collection": "event8years"
+  },
+  {
+    "name": "G22 \"Impulse\"",
+    "value": "6",
+    "id": 240207,
+    "collection": "event8years"
+  },
+  {
+    "name": "Molotov \"Drive\"",
+    "value": "6",
+    "id": 240208,
+    "collection": "event8years"
+  },
+  {
+    "name": "P350 \"Impact\"",
+    "value": "6",
+    "id": 240209,
+    "collection": "event8years"
+  },
+  {
+    "name": "M4A1 \"Impact\"",
+    "value": "6",
+    "id": 240210,
+    "collection": "event8years"
+  },
+  {
+    "name": "Mantis \"Impact\"",
+    "value": "6",
+    "id": 240211,
+    "collection": "event8years"
+  },
+  {
+    "name": "AKR12 \"Shark\"",
+    "value": "3",
+    "id": 240212,
+    "collection": "gambit"
+  },
+  {
+    "name": "P90 \"Oracle\"",
+    "value": "3",
+    "id": 240213,
+    "collection": "gambit"
+  },
+  {
+    "name": "Desert Eagle \"Gambit\"",
+    "value": "4",
+    "id": 240214,
+    "collection": "gambit"
+  },
+  {
+    "name": "SM1014 \"Piranha\"",
+    "value": "4",
+    "id": 240215,
+    "collection": "gambit"
+  },
+  {
+    "name": "FAMAS \"Ritual\"",
+    "value": "5",
+    "id": 240216,
+    "collection": "gambit"
+  },
+  {
+    "name": "Akimbo Uzi \"Ravage\"",
+    "value": "6",
+    "id": 240217,
+    "collection": "gambit"
+  },
+  {
+    "name": "VAL \"Orbit\"",
+    "value": "6",
+    "id": 240218,
+    "collection": "esports"
   },
   {
     "name": "G22 \"Nest\" StatTrack",
@@ -11358,237 +14520,9 @@
     "collection": "fun_and_sun"
   },
   {
-    "name": "Sticker \"Reforged\" Silver",
-    "value": "3",
-    "id": 1485,
-    "collection": "reforged"
-  },
-  {
-    "name": "Sticker \"Rusty Gear\"",
-    "value": "3",
-    "id": 1486,
-    "collection": "reforged"
-  },
-  {
-    "name": "Sticker \"Hard work\"",
-    "value": "4",
-    "id": 1487,
-    "collection": "reforged"
-  },
-  {
-    "name": "Sticker \"Iron Force\"",
-    "value": "3",
-    "id": 1488,
-    "collection": "reforged"
-  },
-  {
-    "name": "Sticker \"Pigeon\" Swap",
-    "value": "4",
-    "id": 1489,
-    "collection": "reforged"
-  },
-  {
-    "name": "Sticker \"Fury Gauge\" Swap",
-    "value": "4",
-    "id": 1490,
-    "collection": "reforged"
-  },
-  {
-    "name": "Sticker \"Brutal\"",
-    "value": "3",
-    "id": 1491,
-    "collection": "reforged"
-  },
-  {
-    "name": "Sticker \"Reforged\" Gold",
-    "value": "5",
-    "id": 1492,
-    "collection": "reforged"
-  },
-  {
-    "name": "Sticker \"Welding\" Swap",
-    "value": "5",
-    "id": 1493,
-    "collection": "reforged"
-  },
-  {
-    "name": "Sticker \"Destroyer\" Shine",
-    "value": "5",
-    "id": 1494,
-    "collection": "reforged"
-  },
-  {
-    "name": "Sticker \"Gun Heart\" Swap",
-    "value": "6",
-    "id": 1495,
-    "collection": "reforged"
-  },
-  {
-    "name": "Sticker \"Full Metal\" Reflex",
-    "value": "6",
-    "id": 1496,
-    "collection": "reforged"
-  },
-  {
-    "name": "Graffiti \"Reforged\"",
-    "value": "3",
-    "id": 4331,
-    "collection": "reforged"
-  },
-  {
-    "name": "Graffiti \"Reforged\" Packed",
-    "value": "3",
-    "id": 4332,
-    "collection": "reforged"
-  },
-  {
-    "name": "Graffiti \"Skull Cap\"",
-    "value": "3",
-    "id": 4333,
-    "collection": "reforged"
-  },
-  {
-    "name": "Graffiti \"Skull Cap\" Packed",
-    "value": "3",
-    "id": 4334,
-    "collection": "reforged"
-  },
-  {
-    "name": "Graffiti \"Solid Heart\"",
-    "value": "3",
-    "id": 4335,
-    "collection": "reforged"
-  },
-  {
-    "name": "Graffiti \"Solid Heart\" Packed",
-    "value": "3",
-    "id": 4336,
-    "collection": "reforged"
-  },
-  {
-    "name": "Graffiti \"Broken Heart\"",
-    "value": "3",
-    "id": 4337,
-    "collection": "reforged"
-  },
-  {
-    "name": "Graffiti \"Broken Heart\" Packed",
-    "value": "3",
-    "id": 4338,
-    "collection": "reforged"
-  },
-  {
-    "name": "Graffiti \"You are next\"",
-    "value": "4",
-    "id": 4339,
-    "collection": "reforged"
-  },
-  {
-    "name": "Graffiti \"You are next\" Packed",
-    "value": "4",
-    "id": 4340,
-    "collection": "reforged"
-  },
-  {
-    "name": "Graffiti \"Eco round\"",
-    "value": "4",
-    "id": 4341,
-    "collection": "reforged"
-  },
-  {
-    "name": "Graffiti \"Eco round\" Packed",
-    "value": "4",
-    "id": 4342,
-    "collection": "reforged"
-  },
-  {
-    "name": "Graffiti \"Rusty Gear\"",
-    "value": "4",
-    "id": 4343,
-    "collection": "reforged"
-  },
-  {
-    "name": "Graffiti \"Rusty Gear\" Packed",
-    "value": "4",
-    "id": 4344,
-    "collection": "reforged"
-  },
-  {
-    "name": "Graffiti \"Tool of Power\"",
-    "value": "5",
-    "id": 4345,
-    "collection": "reforged"
-  },
-  {
-    "name": "Graffiti \"Tool of Power\" Packed",
-    "value": "5",
-    "id": 4346,
-    "collection": "reforged"
-  },
-  {
-    "name": "Graffiti \"Infernal Machine\"",
-    "value": "5",
-    "id": 4347,
-    "collection": "reforged"
-  },
-  {
-    "name": "Graffiti \"Infernal Machine\" Packed",
-    "value": "5",
-    "id": 4348,
-    "collection": "reforged"
-  },
-  {
-    "name": "Graffiti \"Pigeon\"",
-    "value": "5",
-    "id": 4349,
-    "collection": "reforged"
-  },
-  {
-    "name": "Graffiti \"Pigeon\" Packed",
-    "value": "5",
-    "id": 4350,
-    "collection": "reforged"
-  },
-  {
-    "name": "Graffiti \"Heavy Metal\"",
-    "value": "6",
-    "id": 4351,
-    "collection": "reforged"
-  },
-  {
-    "name": "Graffiti \"Heavy Metal\" Packed",
-    "value": "6",
-    "id": 4352,
-    "collection": "reforged"
-  },
-  {
-    "name": "Graffiti \"Smoke\"",
-    "value": "6",
-    "id": 4353,
-    "collection": "reforged"
-  },
-  {
-    "name": "Graffiti \"Smoke\" Packed",
-    "value": "6",
-    "id": 4354,
-    "collection": "reforged"
-  },
-  {
-    "name": "F/S \"Polymer\"",
-    "value": "3",
-    "id": 240116,
-    "collection": "reforged"
-  },
-  {
     "name": "F/S \"Polymer\" StatTrack",
     "value": "3",
     "id": 1240116,
-    "collection": "reforged"
-  },
-  {
-    "name": "Berettas \"Construction Sector\"",
-    "value": "3",
-    "id": 240117,
     "collection": "reforged"
   },
   {
@@ -11598,21 +14532,9 @@
     "collection": "reforged"
   },
   {
-    "name": "FAMAS \"Oxide\"",
-    "value": "3",
-    "id": 240118,
-    "collection": "reforged"
-  },
-  {
     "name": "FAMAS \"Oxide\" StatTrack",
     "value": "3",
     "id": 1240118,
-    "collection": "reforged"
-  },
-  {
-    "name": "MP7 \"Rebellion\"",
-    "value": "3",
-    "id": 240119,
     "collection": "reforged"
   },
   {
@@ -11622,21 +14544,9 @@
     "collection": "reforged"
   },
   {
-    "name": "P350 \"Gearshift\"",
-    "value": "5",
-    "id": 240120,
-    "collection": "reforged"
-  },
-  {
     "name": "P350 \"Gearshift\" StatTrack",
     "value": "5",
     "id": 1240120,
-    "collection": "reforged"
-  },
-  {
-    "name": "M40 \"Skyfall\"",
-    "value": "4",
-    "id": 240121,
     "collection": "reforged"
   },
   {
@@ -11646,21 +14556,9 @@
     "collection": "reforged"
   },
   {
-    "name": "VAL \"Night City\"",
-    "value": "4",
-    "id": 240122,
-    "collection": "reforged"
-  },
-  {
     "name": "VAL \"Night City\" StatTrack",
     "value": "4",
     "id": 1240122,
-    "collection": "reforged"
-  },
-  {
-    "name": "TEC-9 \"Gangster\"",
-    "value": "4",
-    "id": 240123,
     "collection": "reforged"
   },
   {
@@ -11670,21 +14568,9 @@
     "collection": "reforged"
   },
   {
-    "name": "M4 \"Ironclad\"",
-    "value": "5",
-    "id": 240124,
-    "collection": "reforged"
-  },
-  {
     "name": "M4 \"Ironclad\" StatTrack",
     "value": "5",
     "id": 1240124,
-    "collection": "reforged"
-  },
-  {
-    "name": "FabM \"Gangster\"",
-    "value": "5",
-    "id": 240125,
     "collection": "reforged"
   },
   {
@@ -11694,21 +14580,9 @@
     "collection": "reforged"
   },
   {
-    "name": "AWM \"Spectral\"",
-    "value": "6",
-    "id": 240126,
-    "collection": "reforged"
-  },
-  {
     "name": "AWM \"Spectral\" StatTrack",
     "value": "6",
     "id": 1240126,
-    "collection": "reforged"
-  },
-  {
-    "name": "AKR12 \"Emberbird\"",
-    "value": "6",
-    "id": 240127,
     "collection": "reforged"
   },
   {
@@ -11716,750 +14590,6 @@
     "value": "6",
     "id": 1240127,
     "collection": "reforged"
-  },
-  {
-    "name": "Gloves \"Polymer\"",
-    "value": "6",
-    "id": 3039,
-    "collection": "reforged"
-  },
-  {
-    "name": "Gloves \"Gangster\"",
-    "value": "6",
-    "id": 3038,
-    "collection": "reforged"
-  },
-  {
-    "name": "Gloves \"Spectral\"",
-    "value": "6",
-    "id": 3037,
-    "collection": "reforged"
-  },
-  {
-    "name": "Gloves \"Ironclad\"",
-    "value": "6",
-    "id": 3036,
-    "collection": "reforged"
-  },
-  {
-    "name": "Gloves \"Utility\"",
-    "value": "6",
-    "id": 3035,
-    "collection": "reforged"
-  },
-  {
-    "name": "Gloves \"Rebellion\"",
-    "value": "6",
-    "id": 3034,
-    "collection": "reforged"
-  },
-  {
-    "name": "\"Vibe\" Graffiti Pack",
-    "id": 709,
-    "contains": "4292,4294,4296,4298,4300,4302,4304,4306,4308,4310,4312,4314,4316,4318,4320,4322,4324,4326,4328,4330",
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Lucky Clover\"",
-    "value": "3",
-    "id": 4291,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Lucky Clover\" Packed",
-    "value": "3",
-    "id": 4292,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Muted\"",
-    "value": "3",
-    "id": 4293,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Muted\" Packed",
-    "value": "3",
-    "id": 4294,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Tears of the Battle\"",
-    "value": "3",
-    "id": 4295,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Tears of the Battle\" Packed",
-    "value": "3",
-    "id": 4296,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Perfect Shot\"",
-    "value": "3",
-    "id": 4297,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Perfect Shot\" Packed",
-    "value": "3",
-    "id": 4298,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Warning! Shotguns\"",
-    "value": "3",
-    "id": 4299,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Warning! Shotguns\" Packed",
-    "value": "3",
-    "id": 4300,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Tilt\"",
-    "value": "3",
-    "id": 4301,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Tilt\" Packed",
-    "value": "3",
-    "id": 4302,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Cool\"",
-    "value": "3",
-    "id": 4303,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Cool\" Packed",
-    "value": "3",
-    "id": 4304,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Surrender\"",
-    "value": "3",
-    "id": 4305,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Surrender\" Packed",
-    "value": "3",
-    "id": 4306,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Mr Grenade\"",
-    "value": "4",
-    "id": 4307,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Mr Grenade\" Packed",
-    "value": "4",
-    "id": 4308,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Respect\"",
-    "value": "4",
-    "id": 4309,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Respect\" Packed",
-    "value": "4",
-    "id": 4310,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Rant Mode\"",
-    "value": "4",
-    "id": 4311,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Rant Mode\" Packed",
-    "value": "4",
-    "id": 4312,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"This is Fine\"",
-    "value": "5",
-    "id": 4313,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"This is Fine\" Packed",
-    "value": "5",
-    "id": 4314,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Hide\"",
-    "value": "4",
-    "id": 4315,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Hide\" Packed",
-    "value": "4",
-    "id": 4316,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Love\"",
-    "value": "5",
-    "id": 4317,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Love\" Packed",
-    "value": "5",
-    "id": 4318,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Solo\"",
-    "value": "4",
-    "id": 4319,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Solo\" Packed",
-    "value": "4",
-    "id": 4320,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Duck of War\"",
-    "value": "5",
-    "id": 4321,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Duck of War\" Packed",
-    "value": "5",
-    "id": 4322,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Vandal\"",
-    "value": "4",
-    "id": 4323,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Vandal\" Packed",
-    "value": "4",
-    "id": 4324,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Spiky\"",
-    "value": "5",
-    "id": 4325,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Spiky\" Packed",
-    "value": "5",
-    "id": 4326,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Kawaii Spray\"",
-    "value": "6",
-    "id": 4327,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Kawaii Spray\" Packed",
-    "value": "6",
-    "id": 4328,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Coin Kitty\"",
-    "value": "6",
-    "id": 4329,
-    "collection": "vibe"
-  },
-  {
-    "name": "Graffiti \"Coin Kitty\" Packed",
-    "value": "6",
-    "id": 4330,
-    "collection": "vibe"
-  },
-  {
-    "name": "\"Reforged\" Gloves Case",
-    "id": 318,
-    "contains": "3034,3035,3036,3037,3038,3039",
-    "collection": "reforged"
-  },
-  {
-    "name": "\"Reforged\" Weapon Case",
-    "id": 319,
-    "contains": "240116,240117,240118,240119,240120,240121,240122,240123,240124,240125,240126,240127",
-    "collection": "reforged"
-  },
-  {
-    "name": "\"Reforged\" Weapon Box",
-    "id": 320,
-    "contains": "240116,240117,240118,240119,240120,240121,240122,240123,240124,240125,240126,240127",
-    "collection": "reforged"
-  },
-  {
-    "name": "\"Reforged\" Graffiti Pack",
-    "id": 712,
-    "contains": "4332,4334,4336,4338,4340,4342,4344,4346,4348,4350,4352,4354",
-    "collection": "reforged"
-  },
-  {
-    "name": "\"Reforged\" Sticker Pack",
-    "id": 711,
-    "contains": "1485,1486,1487,1488,1489,1490,1491,1492,1493,1494,1495,1496",
-    "collection": "reforged"
-  },
-  {
-    "name": "\"Reforged\" Charm Pack",
-    "id": 710,
-    "contains": "5263,5264,5265,5266,5267,5268,5269,5270,5271,5272,5273,5274",
-    "collection": "reforged"
-  },
-  {
-    "name": "Medal \"Reforged\" Bronze",
-    "value": "1",
-    "id": 300,
-    "collection": "reforged"
-  },
-  {
-    "name": "Medal \"Reforged\" Silver",
-    "value": "2",
-    "id": 313,
-    "collection": "reforged"
-  },
-  {
-    "name": "Medal \"Reforged\" Gold",
-    "value": "3",
-    "id": 314,
-    "collection": "reforged"
-  },
-  {
-    "name": "Medal \"Reforged\" Elite Gold",
-    "value": "4",
-    "id": 315,
-    "collection": "reforged"
-  },
-  {
-    "name": "Medal \"Reforged\" Platinum",
-    "value": "5",
-    "id": 316,
-    "collection": "reforged"
-  },
-  {
-    "name": "Medal \"Reforged\" Diamond",
-    "value": "6",
-    "id": 317,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Screw\"",
-    "value": "3",
-    "id": 5263,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Wrench\"",
-    "value": "3",
-    "id": 5264,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Brick\"",
-    "value": "3",
-    "id": 5265,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Reforged\" Silver",
-    "value": "3",
-    "id": 5266,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Ring saw\"",
-    "value": "4",
-    "id": 5267,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Battery\"",
-    "value": "4",
-    "id": 5268,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Metal tag\"",
-    "value": "5",
-    "id": 5269,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Pigeon\"",
-    "value": "5",
-    "id": 5270,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Forklift\"",
-    "value": "4",
-    "id": 5271,
-    "collection": "reforged"
-  },
-  {
-    "name": "Chibi \"Smuggler\"",
-    "value": "5",
-    "id": 5272,
-    "collection": "reforged"
-  },
-  {
-    "name": "Chibi \"FOG\"",
-    "value": "6",
-    "id": 5273,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Reforged\" Gold",
-    "value": "6",
-    "id": 5274,
-    "collection": "reforged"
-  },
-  {
-    "name": "G22 \"Steel Grip\"",
-    "value": "2",
-    "id": 210005,
-    "collection": "standoff_2"
-  },
-  {
-    "name": "USP \"Hunter-02\"",
-    "value": "3",
-    "id": 210006,
-    "collection": "standoff_2"
-  },
-  {
-    "name": "\"Nightmare\" Knife Case",
-    "id": 321,
-    "contains": "240128,240129,240130,240131,240132,240133",
-    "collection": "nightmare"
-  },
-  {
-    "name": "Medal \"Nightmare\" Bronze",
-    "value": "1",
-    "id": 322,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Medal \"Nightmare\" Silver",
-    "value": "2",
-    "id": 323,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Medal \"Nightmare\" Gold",
-    "value": "3",
-    "id": 324,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Medal \"Nightmare\" Elite Gold",
-    "value": "4",
-    "id": 325,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Medal \"Nightmare\" Platinum",
-    "value": "5",
-    "id": 326,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Medal \"Nightmare\" Diamond",
-    "value": "6",
-    "id": 327,
-    "collection": "nightmare"
-  },
-  {
-    "name": "\"Nightmare\" Weapon Box",
-    "id": 328,
-    "contains": "240134,240135,240136,240137,240138,240139",
-    "collection": "nightmare"
-  },
-  {
-    "name": "\"Nightmare\" Weapon Case",
-    "id": 329,
-    "contains": "240134,240135,240136,240137,240138,240139",
-    "collection": "nightmare"
-  },
-  {
-    "name": "\"Nightmare\" Sticker Pack",
-    "id": 713,
-    "contains": "1498,1499,1500,1501,1502,1503",
-    "collection": "nightmare"
-  },
-  {
-    "name": "\"Nightmare\" Graffiti Pack",
-    "id": 714,
-    "contains": "4355,4357,4359,4361,4363,4365",
-    "collection": "nightmare"
-  },
-  {
-    "name": "\"Nightmare\" Charm Pack",
-    "id": 715,
-    "contains": "5276,5277,5278,5279,5280,5281",
-    "collection": "nightmare"
-  },
-  {
-    "name": "Sticker \"Arachnid\"",
-    "value": "3",
-    "id": 1498,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Sticker \"Nightmare\"",
-    "value": "3",
-    "id": 1499,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Sticker \"Hypnosis\" Color",
-    "value": "4",
-    "id": 1500,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Sticker \"Beware the Bear\" Swap",
-    "value": "4",
-    "id": 1501,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Sticker \"Spectral Mist\" Shine",
-    "value": "5",
-    "id": 1502,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Sticker \"Stalked\" Reflex",
-    "value": "6",
-    "id": 1503,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Sticker \"Green Planet\"",
-    "value": "4",
-    "id": 1504,
-    "collection": "collaboration"
-  },
-  {
-    "name": "Graffiti \"Hypnosis\"",
-    "value": "5",
-    "id": 4355,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Graffiti \"Hypnosis\" Packed",
-    "value": "5",
-    "id": 4356,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Graffiti \"Relentless\"",
-    "value": "6",
-    "id": 4357,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Graffiti \"Relentless\" Packed",
-    "value": "6",
-    "id": 4358,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Graffiti \"No Sleep\"",
-    "value": "4",
-    "id": 4359,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Graffiti \"No Sleep\" Packed",
-    "value": "4",
-    "id": 4360,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Graffiti \"Ragged\"",
-    "value": "3",
-    "id": 4361,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Graffiti \"Ragged\" Packed",
-    "value": "3",
-    "id": 4362,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Graffiti \"Wake Up!\"",
-    "value": "4",
-    "id": 4363,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Graffiti \"Wake Up!\" Packed",
-    "value": "4",
-    "id": 4364,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Graffiti \"Nightmare\"",
-    "value": "3",
-    "id": 4365,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Graffiti \"Nightmare\" Packed",
-    "value": "3",
-    "id": 4366,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Graffiti \"Green Planet\"",
-    "value": "4",
-    "id": 4367,
-    "collection": "collaboration"
-  },
-  {
-    "name": "Graffiti \"Green Planet\" Packed",
-    "value": "4",
-    "id": 4368,
-    "collection": "collaboration"
-  },
-  {
-    "name": "Charm \"Hexcatcher\"",
-    "value": "3",
-    "id": 5276,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Charm \"Voodoo Doll\"",
-    "value": "3",
-    "id": 5277,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Charm \"Gazing Mirror\"",
-    "value": "4",
-    "id": 5278,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Charm \"Nightmare\"",
-    "value": "4",
-    "id": 5279,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Chibi \"Sleepwalker\"",
-    "value": "5",
-    "id": 5280,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Charm \"Hypno Beast\"",
-    "value": "6",
-    "id": 5281,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Kukri \"Decay\"",
-    "value": "6",
-    "id": 240128,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Dual Daggers \"Contagion\"",
-    "value": "6",
-    "id": 240129,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Butterfly \"Ripple\"",
-    "value": "6",
-    "id": 240130,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Karambit \"Widow's Weave\"",
-    "value": "6",
-    "id": 240131,
-    "collection": "nightmare"
-  },
-  {
-    "name": "jKommando \"Plasma\"",
-    "value": "6",
-    "id": 240132,
-    "collection": "nightmare"
-  },
-  {
-    "name": "Sting \"Arcane Surge\"",
-    "value": "6",
-    "id": 240133,
-    "collection": "nightmare"
-  },
-  {
-    "name": "M110 \"Dark Pact\"",
-    "value": "3",
-    "id": 240134,
-    "collection": "nightmare"
-  },
-  {
-    "name": "USP \"Suture\"",
-    "value": "3",
-    "id": 240135,
-    "collection": "nightmare"
-  },
-  {
-    "name": "M16 \"Wraithwood\"",
-    "value": "4",
-    "id": 240136,
-    "collection": "nightmare"
-  },
-  {
-    "name": "MAC10 \"Arcane Surge\"",
-    "value": "4",
-    "id": 240137,
-    "collection": "nightmare"
-  },
-  {
-    "name": "FN FAL \"Astral Rift\"",
-    "value": "5",
-    "id": 240138,
-    "collection": "nightmare"
-  },
-  {
-    "name": "VAL \"Widow's Weave\"",
-    "value": "6",
-    "id": 240139,
-    "collection": "nightmare"
   },
   {
     "name": "M110 \"Dark Pact\" StatTrack",
@@ -12486,796 +14616,16 @@
     "collection": "nightmare"
   },
   {
-    "name": "VAL \"Widow's Weave\" StatTrack",
-    "value": "6",
-    "id": 1240139,
-    "collection": "nightmare"
-  },
-  {
-    "name": "\"FORZE\" Major 2024 Sticker Pack",
-    "id": 716,
-    "contains": "1507,1508,1509,1510,1511,1512,1513",
-    "collection": "major2024"
-  },
-  {
-    "name": "\"ALPHA7 ESPORTS\" Major 2024 Sticker Pack",
-    "id": 717,
-    "contains": "1514,1515,1516,1517,1518,1519,1520",
-    "collection": "major2024"
-  },
-  {
-    "name": "\"STREETEIGHT\" Major 2024 Sticker Pack",
-    "id": 718,
-    "contains": "1521,1522,1523,1524,1525,1526,1527",
-    "collection": "major2024"
-  },
-  {
-    "name": "\"AMKAL ESPORTS\" Major 2024 Sticker Pack",
-    "id": 719,
-    "contains": "1528,1529,1530,1531,1532,1533,1534",
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"fRONZES\" Major 2024",
-    "value": "4",
-    "id": 1507,
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"Lighting\" Major 2024",
-    "value": "4",
-    "id": 1508,
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"chipaa\" Major 2024",
-    "value": "4",
-    "id": 1509,
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"w1nnerx\" Major 2024",
-    "value": "4",
-    "id": 1510,
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"qu1ns3\" Major 2024",
-    "value": "4",
-    "id": 1511,
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"FORZE\" Major 2024 Color",
-    "value": "5",
-    "id": 1512,
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"FORZE\" Major 2024 Shine",
-    "value": "6",
-    "id": 1513,
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"Metal\" Major 2024",
-    "value": "4",
-    "id": 1514,
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"EcM\" Major 2024",
-    "value": "4",
-    "id": 1515,
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"BadDark\" Major 2024",
-    "value": "4",
-    "id": 1516,
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"Koldzza\" Major 2024",
-    "value": "4",
-    "id": 1517,
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"Kyten\" Major 2024",
-    "value": "4",
-    "id": 1518,
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"ALPHA7 ESPORTS\" Major 2024 Color",
-    "value": "5",
-    "id": 1519,
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"ALPHA7 ESPORTS\" Major 2024 Shine",
-    "value": "6",
-    "id": 1520,
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"McQueen\" Major 2024",
-    "value": "4",
-    "id": 1521,
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"Toose\" Major 2024",
-    "value": "4",
-    "id": 1522,
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"pla1Nt\" Major 2024",
-    "value": "4",
-    "id": 1523,
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"Ping\" Major 2024",
-    "value": "4",
-    "id": 1524,
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"wyrdin\" Major 2024",
-    "value": "4",
-    "id": 1525,
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"STREETEIGHT\" Major 2024 Color",
-    "value": "5",
-    "id": 1526,
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"STREETEIGHT\" Major 2024 Shine",
-    "value": "6",
-    "id": 1527,
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"ReZz\" Major 2024",
-    "value": "4",
-    "id": 1528,
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"invi\" Major 2024",
-    "value": "4",
-    "id": 1529,
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"cxtleta\" Major 2024",
-    "value": "4",
-    "id": 1530,
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"1tapp\" Major 2024",
-    "value": "4",
-    "id": 1531,
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"notbroken\" Major 2024",
-    "value": "4",
-    "id": 1532,
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"AMKAL ESPORTS\" Major 2024 Color",
-    "value": "5",
-    "id": 1533,
-    "collection": "major2024"
-  },
-  {
-    "name": "Sticker \"AMKAL ESPORTS\" Major 2024 Shine",
-    "value": "6",
-    "id": 1534,
-    "collection": "major2024"
-  },
-  {
     "name": "FN FAL \"Astral Rift\" StatTrack",
     "value": "5",
     "id": 1240138,
     "collection": "nightmare"
   },
   {
-    "name": "MAC10 \"Ruby Shadow\"",
-    "value": "7",
-    "id": 240115,
-    "collection": "nameless"
-  },
-  {
-    "name": "Charm \"Outcast 5v5\" Diamond",
+    "name": "VAL \"Widow's Weave\" StatTrack",
     "value": "6",
-    "id": 5262,
-    "collection": "outcast"
-  },
-  {
-    "name": "Charm \"Outcast 5v5\" Platinum",
-    "value": "5",
-    "id": 5261,
-    "collection": "outcast"
-  },
-  {
-    "name": "Charm \"Outcast 5v5\" Elite Gold",
-    "value": "4",
-    "id": 5260,
-    "collection": "outcast"
-  },
-  {
-    "name": "Charm \"Outcast 5v5\" Gold",
-    "value": "3",
-    "id": 5259,
-    "collection": "outcast"
-  },
-  {
-    "name": "Charm \"Outcast 5v5\" Silver",
-    "value": "2",
-    "id": 5258,
-    "collection": "outcast"
-  },
-  {
-    "name": "Charm \"Outcast 5v5\" Bronze",
-    "value": "1",
-    "id": 5257,
-    "collection": "outcast"
-  },
-  {
-    "name": "Charm \"Outcast 2v2\" Diamond",
-    "value": "6",
-    "id": 5256,
-    "collection": "outcast"
-  },
-  {
-    "name": "Charm \"Outcast 2v2\" Platinum",
-    "value": "5",
-    "id": 5255,
-    "collection": "outcast"
-  },
-  {
-    "name": "Charm \"Outcast 2v2\" Elite Gold",
-    "value": "4",
-    "id": 5254,
-    "collection": "outcast"
-  },
-  {
-    "name": "Charm \"Outcast 2v2\" Gold",
-    "value": "3",
-    "id": 5253,
-    "collection": "outcast"
-  },
-  {
-    "name": "Charm \"Outcast 2v2\" Silver",
-    "value": "2",
-    "id": 5252,
-    "collection": "outcast"
-  },
-  {
-    "name": "Charm \"Outcast 2v2\" Bronze",
-    "value": "1",
-    "id": 5251,
-    "collection": "outcast"
-  },
-  {
-    "name": "Shield \"Outcast\" Diamond",
-    "value": "6",
-    "id": 1484,
-    "collection": "outcast"
-  },
-  {
-    "name": "Shield \"Outcast\" Platinum",
-    "value": "5",
-    "id": 1483,
-    "collection": "outcast"
-  },
-  {
-    "name": "Shield \"Outcast\" Elite Gold",
-    "value": "4",
-    "id": 1482,
-    "collection": "outcast"
-  },
-  {
-    "name": "Shield \"Outcast\" Gold",
-    "value": "3",
-    "id": 1481,
-    "collection": "outcast"
-  },
-  {
-    "name": "Shield \"Outcast\" Silver",
-    "value": "2",
-    "id": 1480,
-    "collection": "outcast"
-  },
-  {
-    "name": "Shield \"Outcast\" Bronze",
-    "value": "1",
-    "id": 1479,
-    "collection": "outcast"
-  },
-  {
-    "name": "Graffiti \"Disinfection\" Packed",
-    "value": "4",
-    "id": 4262,
-    "collection": "outcast"
-  },
-  {
-    "name": "Graffiti \"Disinfection\"",
-    "value": "4",
-    "id": 4261,
-    "collection": "outcast"
-  },
-  {
-    "name": "Medal \"Veteran 2025\" Bronze",
-    "value": "1",
-    "id": 334,
-    "collection": "veteran_2025"
-  },
-  {
-    "name": "Medal \"Veteran 2025\" Silver",
-    "value": "2",
-    "id": 335,
-    "collection": "veteran_2025"
-  },
-  {
-    "name": "Medal \"Veteran 2025\" Gold",
-    "value": "3",
-    "id": 336,
-    "collection": "veteran_2025"
-  },
-  {
-    "name": "Medal \"Veteran 2025\" Elite Gold",
-    "value": "4",
-    "id": 337,
-    "collection": "veteran_2025"
-  },
-  {
-    "name": "Medal \"Veteran 2025\" Platinum",
-    "value": "5",
-    "id": 338,
-    "collection": "veteran_2025"
-  },
-  {
-    "name": "Medal \"Veteran 2025\" Diamond",
-    "value": "6",
-    "id": 339,
-    "collection": "veteran_2025"
-  },
-  {
-    "name": "Medal \"Snow Journey\"",
-    "value": "6",
-    "id": 340,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Medal \"Kitsune Dreams\" Bronze",
-    "value": "1",
-    "id": 341,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Medal \"Kitsune Dreams\" Silver",
-    "value": "2",
-    "id": 342,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Medal \"Kitsune Dreams\" Gold",
-    "value": "3",
-    "id": 343,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Medal \"Kitsune Dreams\" Elite Gold",
-    "value": "4",
-    "id": 344,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Medal \"Kitsune Dreams\" Platinum",
-    "value": "5",
-    "id": 345,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Medal \"Kitsune Dreams\" Diamond",
-    "value": "6",
-    "id": 346,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "\"Kitsune Dreams\" Weapon Case",
-    "id": 347,
-    "contains": "240145,240146,240147,240148,240149,240150",
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "\"Kitsune Dreams\" Weapon Box",
-    "id": 348,
-    "contains": "240145,240146,240147,240148,240149,240150",
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "\"Kitsune Dreams\" Knife Case",
-    "id": 349,
-    "contains": "240151,240152,240153,240154,240155,240156",
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "\"Kitsune Dreams\" Charm Pack",
-    "id": 720,
-    "contains": "5284,5283,5286,5285,5287,5288",
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "\"Kitsune Dreams\" Graffiti Pack",
-    "id": 721,
-    "contains": "4387,4389,4385,4383,4381,4379",
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "\"Kitsune Dreams\" Sticker Pack",
-    "id": 722,
-    "contains": "1543,1544,1545,1546,1547,1548",
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "\"Joy\" Sticker Pack",
-    "id": 723,
-    "contains": "1549,1550,1551,1552,1553,1554,1555,1556,1557,1558,1559,1560,1561,1562,1563,1564,1565,1566,1567,1568",
-    "collection": "joy"
-  },
-  {
-    "name": "Graffiti \"Perfect Leader\"",
-    "value": "3",
-    "id": 4369,
-    "collection": "standoff_2"
-  },
-  {
-    "name": "Graffiti \"Veteran 2025\" Bronze",
-    "value": "1",
-    "id": 4370,
-    "collection": "veteran_2025"
-  },
-  {
-    "name": "Graffiti \"Veteran 2025\" Silver",
-    "value": "2",
-    "id": 4371,
-    "collection": "veteran_2025"
-  },
-  {
-    "name": "Graffiti \"Veteran 2025\" Gold",
-    "value": "3",
-    "id": 4372,
-    "collection": "veteran_2025"
-  },
-  {
-    "name": "Graffiti \"Veteran 2025\" Elite Gold",
-    "value": "4",
-    "id": 4373,
-    "collection": "veteran_2025"
-  },
-  {
-    "name": "Graffiti \"Veteran 2025\" Platinum",
-    "value": "5",
-    "id": 4374,
-    "collection": "veteran_2025"
-  },
-  {
-    "name": "Graffiti \"Veteran 2025\" Diamond",
-    "value": "6",
-    "id": 4375,
-    "collection": "veteran_2025"
-  },
-  {
-    "name": "Graffiti \"Yummy\"",
-    "value": "3",
-    "id": 4376,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Graffiti \"Yummy\" Packed",
-    "value": "3",
-    "id": 4377,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Graffiti \"Mad Move\"",
-    "value": "3",
-    "id": 4378,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Graffiti \"Mad Move\" Packed",
-    "value": "3",
-    "id": 4379,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Graffiti \"Sad Move\"",
-    "value": "3",
-    "id": 4380,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Graffiti \"Sad Move\" Packed",
-    "value": "3",
-    "id": 4381,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Graffiti \"Kitsune Dreams\"",
-    "value": "4",
-    "id": 4382,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Graffiti \"Kitsune Dreams\" Packed",
-    "value": "4",
-    "id": 4383,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Graffiti \"Cute Shot\"",
-    "value": "4",
-    "id": 4384,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Graffiti \"Cute Shot\" Packed",
-    "value": "4",
-    "id": 4385,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Graffiti \"Like\"",
-    "value": "5",
-    "id": 4386,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Graffiti \"Like\" Packed",
-    "value": "5",
-    "id": 4387,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Graffiti \"Icy Squad\"",
-    "value": "6",
-    "id": 4388,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Graffiti \"Icy Squad\" Packed",
-    "value": "6",
-    "id": 4389,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Charm \"Pingo\"",
-    "value": "4",
-    "id": 5282,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Charm \"Frost Shuriken\"",
-    "value": "3",
-    "id": 5283,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Charm \"Origami Snake\"",
-    "value": "3",
-    "id": 5284,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Charm \"Kitsune Dreams\"",
-    "value": "4",
-    "id": 5285,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Charm \"Mecha Knight\"",
-    "value": "4",
-    "id": 5286,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Charm \"Purrfect Luck\"",
-    "value": "5",
-    "id": 5287,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Chibi \"Twinkle\"",
-    "value": "6",
-    "id": 5288,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Charm \"Holiday Twist\"",
-    "value": "4",
-    "id": 5289,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Commander Frame Tier 1",
-    "value": "3",
-    "id": 7032,
-    "collection": "standoff_2"
-  },
-  {
-    "name": "Commander Frame Tier 2",
-    "value": "4",
-    "id": 7033,
-    "collection": "standoff_2"
-  },
-  {
-    "name": "Commander Frame Tier 3",
-    "value": "6",
-    "id": 7034,
-    "collection": "standoff_2"
-  },
-  {
-    "name": "Commander Frame Tier 3 StatTrack",
-    "value": "6",
-    "id": 7035,
-    "collection": "standoff_2"
-  },
-  {
-    "name": "Frame \"Kitsune Dreams\" Kori",
-    "value": "3",
-    "id": 7036,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Frame \"Kitsune Dreams\" Naito",
-    "value": "4",
-    "id": 7037,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Frame \"Kitsune Dreams\" Akari",
-    "value": "5",
-    "id": 7038,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Frame \"Kitsune Dreams\" Hoshi",
-    "value": "6",
-    "id": 7039,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "AKR12 \"Cold-hearted\"",
-    "value": "4",
-    "id": 240140,
-    "collection": "standoff_2"
-  },
-  {
-    "name": "M4 \"Furious Sharpshooter\"",
-    "value": "3",
-    "id": 240141,
-    "collection": "standoff_2"
-  },
-  {
-    "name": "Flash \"Solar\"",
-    "value": "7",
-    "id": 240144,
-    "collection": "nameless"
-  },
-  {
-    "name": "P90 \"Unstoppable\"",
-    "value": "3",
-    "id": 240145,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "M4 \"Kachi\"",
-    "value": "3",
-    "id": 240146,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "TEC-9 \"Night Slayer\"",
-    "value": "4",
-    "id": 240147,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "F/S \"Pink Shot\"",
-    "value": "4",
-    "id": 240148,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "M40 \"Northern Lights\"",
-    "value": "5",
-    "id": 240149,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "AKR12 \"Hanami\"",
-    "value": "6",
-    "id": 240150,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Tanto \"Hanami\"",
-    "value": "6",
-    "id": 240151,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Scorpion \"Neko Joy\"",
-    "value": "6",
-    "id": 240152,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Stiletto \"Voidroot\"",
-    "value": "6",
-    "id": 240153,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "M9 Bayonet \"Amber Koi\"",
-    "value": "6",
-    "id": 240154,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Fang \"Wavesong\"",
-    "value": "6",
-    "id": 240155,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Kunai \"Wavesong\"",
-    "value": "6",
-    "id": 240156,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "SPAS \"Tensai\"",
-    "value": "4",
-    "id": 240157,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "VAL \"Ronin\"",
-    "value": "5",
-    "id": 240158,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "M4A1 \"Sparkling Gaze\"",
-    "value": "6",
-    "id": 240159,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Smoke \"Kiri\"",
-    "value": "5",
-    "id": 240160,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "HE \"Hanami\"",
-    "value": "6",
-    "id": 240161,
-    "collection": "kitsune_dreams"
+    "id": 1240139,
+    "collection": "nightmare"
   },
   {
     "name": "P90 \"Unstoppable\" StatTrack",
@@ -13332,964 +14682,16 @@
     "collection": "kitsune_dreams"
   },
   {
-    "name": "Gloves \"Hanami\"",
+    "name": "AKR \"Vermilion\" Stattrack",
     "value": "6",
-    "id": 3040,
+    "id": 1240162,
     "collection": "kitsune_dreams"
   },
   {
-    "name": "Sticker \"Sweet Star\" Reflex",
-    "value": "5",
-    "id": 1541,
+    "name": "Desert Eagle \"Vermilion\" Stattrack",
+    "value": "6",
+    "id": 1240163,
     "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Sticker \"Ramen\"",
-    "value": "3",
-    "id": 1542,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Sticker \"Pengzilla\"",
-    "value": "3",
-    "id": 1543,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Sticker \"Starflare\"",
-    "value": "3",
-    "id": 1544,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Sticker \"Kitsune Dreams\" Shine",
-    "value": "4",
-    "id": 1545,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Sticker \"Venom Blade\" Swap",
-    "value": "4",
-    "id": 1546,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Sticker \"Candy Core\" Shine",
-    "value": "5",
-    "id": 1547,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Sticker \"Foxwish\" Reflex",
-    "value": "6",
-    "id": 1548,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Sticker \"Oh no\"",
-    "value": "3",
-    "id": 1549,
-    "collection": "joy"
-  },
-  {
-    "name": "Sticker \"Ha-Ha Classic\"",
-    "value": "3",
-    "id": 1550,
-    "collection": "joy"
-  },
-  {
-    "name": "Sticker \"Think about it\"",
-    "value": "3",
-    "id": 1551,
-    "collection": "joy"
-  },
-  {
-    "name": "Sticker \"Wait what\"",
-    "value": "3",
-    "id": 1552,
-    "collection": "joy"
-  },
-  {
-    "name": "Sticker \"Pool of Tears\"",
-    "value": "3",
-    "id": 1553,
-    "collection": "joy"
-  },
-  {
-    "name": "Sticker \"That Feeling\"",
-    "value": "3",
-    "id": 1554,
-    "collection": "joy"
-  },
-  {
-    "name": "Sticker \"Intriguing\"",
-    "value": "3",
-    "id": 1555,
-    "collection": "joy"
-  },
-  {
-    "name": "Sticker \"Sad Cat\"",
-    "value": "3",
-    "id": 1556,
-    "collection": "joy"
-  },
-  {
-    "name": "Sticker \"Rush A or B\" Swap",
-    "value": "4",
-    "id": 1557,
-    "collection": "joy"
-  },
-  {
-    "name": "Sticker \"Wise Choice\" Swap",
-    "value": "4",
-    "id": 1558,
-    "collection": "joy"
-  },
-  {
-    "name": "Sticker \"This is Fine\" Swap",
-    "value": "5",
-    "id": 1559,
-    "collection": "joy"
-  },
-  {
-    "name": "Sticker \"Good Loot\" Swap",
-    "value": "4",
-    "id": 1560,
-    "collection": "joy"
-  },
-  {
-    "name": "Sticker \"Love Paws\" Color",
-    "value": "4",
-    "id": 1561,
-    "collection": "joy"
-  },
-  {
-    "name": "Sticker \"Pop-CT\" Swap",
-    "value": "5",
-    "id": 1562,
-    "collection": "joy"
-  },
-  {
-    "name": "Sticker \"Triggered\" Swap",
-    "value": "5",
-    "id": 1563,
-    "collection": "joy"
-  },
-  {
-    "name": "Sticker \"Your Fault\" Swap",
-    "value": "4",
-    "id": 1564,
-    "collection": "joy"
-  },
-  {
-    "name": "Sticker \"Like a Boss\" Shine",
-    "value": "5",
-    "id": 1565,
-    "collection": "joy"
-  },
-  {
-    "name": "Sticker \"GigaSAUG\"",
-    "value": "4",
-    "id": 1566,
-    "collection": "joy"
-  },
-  {
-    "name": "Sticker \"Sigma\" Swap",
-    "value": "6",
-    "id": 1567,
-    "collection": "joy"
-  },
-  {
-    "name": "Sticker \"Lonely Look\" Reflex",
-    "value": "6",
-    "id": 1568,
-    "collection": "joy"
-  },
-  {
-    "name": "AKR \"Vermilion\"",
-    "value": "6",
-    "id": 240162,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Desert Eagle \"Vermilion\"",
-    "value": "6",
-    "id": 240163,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Karambit \"Vermilion\"",
-    "value": "6",
-    "id": 240164,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "\"Prey\" Weapon Box",
-    "id": 350,
-    "contains": "240177,240176,240175,240174,240173,240172,240171,240170,240169,240168,240167,240166",
-    "collection": "prey"
-  },
-  {
-    "name": "\"Prey\" Weapon Case",
-    "id": 351,
-    "contains": "240177,240176,240175,240174,240173,240172,240171,240170,240169,240168,240167,240166",
-    "collection": "prey"
-  },
-  {
-    "name": "Medal \"Prey\" Bronze",
-    "value": "1",
-    "id": 352,
-    "collection": "prey"
-  },
-  {
-    "name": "Medal \"Prey\" Silver",
-    "value": "2",
-    "id": 353,
-    "collection": "prey"
-  },
-  {
-    "name": "Medal \"Prey\" Gold",
-    "value": "3",
-    "id": 354,
-    "collection": "prey"
-  },
-  {
-    "name": "Medal \"Prey\" Elite Gold",
-    "value": "4",
-    "id": 355,
-    "collection": "prey"
-  },
-  {
-    "name": "Medal \"Prey\" Platinum",
-    "value": "5",
-    "id": 356,
-    "collection": "prey"
-  },
-  {
-    "name": "Medal \"Prey\" Diamond",
-    "value": "6",
-    "id": 357,
-    "collection": "prey"
-  },
-  {
-    "name": "\"Prey\" Gloves Case",
-    "id": 358,
-    "contains": "3041,3042,3043,3044,3045,3046",
-    "collection": "prey"
-  },
-  {
-    "name": "\"Dynasty\" Case",
-    "id": 359,
-    "contains": "240186,240187,240188,240189,240190,240191,240192,240193,240194,240195,240196,240197,240198,240199,240200,240201",
-    "collection": "dynasty"
-  },
-  {
-    "name": "\"Dynasty\" Crate",
-    "id": 410,
-    "contains": "240178,240179,240180,240181,240182,240183,240184,240185,240186,240187,240188,240189,240190,240191,240192,240193,240194,240195,240196,240197",
-    "collection": "dynasty"
-  },
-  {
-    "name": "\"Prey\" Sticker Pack",
-    "id": 724,
-    "contains": "1575,1576,1577,1578,1579,1580,1581,1582,1583,1584,1585,1586",
-    "collection": "prey"
-  },
-  {
-    "name": "\"Prey\" Graffiti Pack",
-    "id": 725,
-    "contains": "4413,4411,4409,4407,4405,4403,4401,4399,4397,4395,4393,4391",
-    "collection": "prey"
-  },
-  {
-    "name": "\"Prey\" Charm Pack",
-    "id": 726,
-    "contains": "5308,5309,5310,5311,5312,5313,5314,5315,5316,5317,5318,5319",
-    "collection": "prey"
-  },
-  {
-    "name": "Shield \"Reforged\" Bronze",
-    "value": "1",
-    "id": 1569,
-    "collection": "reforged"
-  },
-  {
-    "name": "Shield \"Reforged\" Silver",
-    "value": "2",
-    "id": 1570,
-    "collection": "reforged"
-  },
-  {
-    "name": "Shield \"Reforged\" Gold",
-    "value": "3",
-    "id": 1571,
-    "collection": "reforged"
-  },
-  {
-    "name": "Shield \"Reforged\" Elite Gold",
-    "value": "4",
-    "id": 1572,
-    "collection": "reforged"
-  },
-  {
-    "name": "Shield \"Reforged\" Platinum",
-    "value": "5",
-    "id": 1573,
-    "collection": "reforged"
-  },
-  {
-    "name": "Shield \"Reforged\" Diamond",
-    "value": "6",
-    "id": 1574,
-    "collection": "reforged"
-  },
-  {
-    "name": "Sticker \"Prey\"",
-    "value": "5",
-    "id": 1575,
-    "collection": "prey"
-  },
-  {
-    "name": "Sticker \"No Rush\"",
-    "value": "3",
-    "id": 1576,
-    "collection": "prey"
-  },
-  {
-    "name": "Sticker \"Capybara\"",
-    "value": "3",
-    "id": 1577,
-    "collection": "prey"
-  },
-  {
-    "name": "Sticker \"Gun Run\"",
-    "value": "3",
-    "id": 1578,
-    "collection": "prey"
-  },
-  {
-    "name": "Sticker \"Double Trouble\" Color",
-    "value": "4",
-    "id": 1579,
-    "collection": "prey"
-  },
-  {
-    "name": "Sticker \"OMG\" Swap",
-    "value": "4",
-    "id": 1580,
-    "collection": "prey"
-  },
-  {
-    "name": "Sticker \"Golazo\" Shine",
-    "value": "4",
-    "id": 1581,
-    "collection": "prey"
-  },
-  {
-    "name": "Sticker \"Prey\" Color",
-    "value": "5",
-    "id": 1582,
-    "collection": "prey"
-  },
-  {
-    "name": "Sticker \"Prowler\" Reflex",
-    "value": "6",
-    "id": 1583,
-    "collection": "prey"
-  },
-  {
-    "name": "Sticker \"Chirp\" Swap",
-    "value": "5",
-    "id": 1584,
-    "collection": "prey"
-  },
-  {
-    "name": "Sticker \"Backfire\" Reflex",
-    "value": "5",
-    "id": 1585,
-    "collection": "prey"
-  },
-  {
-    "name": "Sticker \"Toco\" Color",
-    "value": "6",
-    "id": 1586,
-    "collection": "prey"
-  },
-  {
-    "name": "Gloves \"Feral\"",
-    "value": "6",
-    "id": 3041,
-    "collection": "prey"
-  },
-  {
-    "name": "Gloves \"Marble\"",
-    "value": "6",
-    "id": 3042,
-    "collection": "prey"
-  },
-  {
-    "name": "Gloves \"Slash\"",
-    "value": "6",
-    "id": 3043,
-    "collection": "prey"
-  },
-  {
-    "name": "Gloves \"Frond\"",
-    "value": "6",
-    "id": 3044,
-    "collection": "prey"
-  },
-  {
-    "name": "Gloves \"Spray\"",
-    "value": "6",
-    "id": 3045,
-    "collection": "prey"
-  },
-  {
-    "name": "Gloves \"Flicker\"",
-    "value": "6",
-    "id": 3046,
-    "collection": "prey"
-  },
-  {
-    "name": "Graffiti \"Unchained\"",
-    "value": "3",
-    "id": 4390,
-    "collection": "prey"
-  },
-  {
-    "name": "Graffiti \"Unchained\" Packed",
-    "value": "3",
-    "id": 4391,
-    "collection": "prey"
-  },
-  {
-    "name": "Graffiti \"Bladebrand\"",
-    "value": "3",
-    "id": 4392,
-    "collection": "prey"
-  },
-  {
-    "name": "Graffiti \"Bladebrand\" Packed",
-    "value": "3",
-    "id": 4393,
-    "collection": "prey"
-  },
-  {
-    "name": "Graffiti \"Capybara\"",
-    "value": "3",
-    "id": 4394,
-    "collection": "prey"
-  },
-  {
-    "name": "Graffiti \"Capybara\" Packed",
-    "value": "3",
-    "id": 4395,
-    "collection": "prey"
-  },
-  {
-    "name": "Graffiti \"Prey\"",
-    "value": "3",
-    "id": 4396,
-    "collection": "prey"
-  },
-  {
-    "name": "Graffiti \"Prey\" Packed",
-    "value": "3",
-    "id": 4397,
-    "collection": "prey"
-  },
-  {
-    "name": "Graffiti \"Angry Team\"",
-    "value": "4",
-    "id": 4398,
-    "collection": "prey"
-  },
-  {
-    "name": "Graffiti \"Angry Team\" Packed",
-    "value": "4",
-    "id": 4399,
-    "collection": "prey"
-  },
-  {
-    "name": "Graffiti \"Fizz\"",
-    "value": "4",
-    "id": 4400,
-    "collection": "prey"
-  },
-  {
-    "name": "Graffiti \"Fizz\" Packed",
-    "value": "4",
-    "id": 4401,
-    "collection": "prey"
-  },
-  {
-    "name": "Graffiti \"Rampage\"",
-    "value": "4",
-    "id": 4402,
-    "collection": "prey"
-  },
-  {
-    "name": "Graffiti \"Rampage\" Packed",
-    "value": "4",
-    "id": 4403,
-    "collection": "prey"
-  },
-  {
-    "name": "Graffiti \"Golazo\"",
-    "value": "5",
-    "id": 4404,
-    "collection": "prey"
-  },
-  {
-    "name": "Graffiti \"Golazo\" Packed",
-    "value": "5",
-    "id": 4405,
-    "collection": "prey"
-  },
-  {
-    "name": "Graffiti \"Hunter\"",
-    "value": "5",
-    "id": 4406,
-    "collection": "prey"
-  },
-  {
-    "name": "Graffiti \"Hunter\" Packed",
-    "value": "5",
-    "id": 4407,
-    "collection": "prey"
-  },
-  {
-    "name": "Graffiti \"Pelada\"",
-    "value": "5",
-    "id": 4408,
-    "collection": "prey"
-  },
-  {
-    "name": "Graffiti \"Pelada\" Packed",
-    "value": "5",
-    "id": 4409,
-    "collection": "prey"
-  },
-  {
-    "name": "Graffiti \"Joy Killer\"",
-    "value": "6",
-    "id": 4410,
-    "collection": "prey"
-  },
-  {
-    "name": "Graffiti \"Joy Killer\" Packed",
-    "value": "6",
-    "id": 4411,
-    "collection": "prey"
-  },
-  {
-    "name": "Graffiti \"Toco\"",
-    "value": "6",
-    "id": 4412,
-    "collection": "prey"
-  },
-  {
-    "name": "Graffiti \"Toco\" Packed",
-    "value": "6",
-    "id": 4413,
-    "collection": "prey"
-  },
-  {
-    "name": "Charm \"Reforged 5v5\" Bronze",
-    "value": "1",
-    "id": 5290,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Reforged 5v5\" Silver",
-    "value": "2",
-    "id": 5291,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Reforged 5v5\" Gold",
-    "value": "3",
-    "id": 5292,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Reforged 5v5\" Elite Gold",
-    "value": "4",
-    "id": 5293,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Reforged 5v5\" Platinum",
-    "value": "5",
-    "id": 5294,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Reforged 5v5\" Diamond",
-    "value": "6",
-    "id": 5295,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Reforged 2v2\" Bronze",
-    "value": "1",
-    "id": 5296,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Reforged 2v2\" Silver",
-    "value": "2",
-    "id": 5297,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Reforged 2v2\" Gold",
-    "value": "3",
-    "id": 5298,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Reforged 2v2\" Elite Gold",
-    "value": "4",
-    "id": 5299,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Reforged 2v2\" Platinum",
-    "value": "5",
-    "id": 5300,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Reforged 2v2\" Diamond",
-    "value": "6",
-    "id": 5301,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Reforged 1v1\" Bronze",
-    "value": "1",
-    "id": 5302,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Reforged 1v1\" Silver",
-    "value": "2",
-    "id": 5303,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Reforged 1v1\" Gold",
-    "value": "3",
-    "id": 5304,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Reforged 1v1\" Elite Gold",
-    "value": "4",
-    "id": 5305,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Reforged 1v1\" Platinum",
-    "value": "5",
-    "id": 5306,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Reforged 1v1\" Diamond",
-    "value": "6",
-    "id": 5307,
-    "collection": "reforged"
-  },
-  {
-    "name": "Charm \"Timbau\"",
-    "value": "3",
-    "id": 5308,
-    "collection": "prey"
-  },
-  {
-    "name": "Charm \"Tagged Helmet\"",
-    "value": "3",
-    "id": 5309,
-    "collection": "prey"
-  },
-  {
-    "name": "Charm \"Bladebrand\"",
-    "value": "3",
-    "id": 5310,
-    "collection": "prey"
-  },
-  {
-    "name": "Charm \"Prey\" Silver",
-    "value": "3",
-    "id": 5311,
-    "collection": "prey"
-  },
-  {
-    "name": "Charm \"Capybara\"",
-    "value": "4",
-    "id": 5312,
-    "collection": "prey"
-  },
-  {
-    "name": "Charm \"Stall\"",
-    "value": "4",
-    "id": 5313,
-    "collection": "prey"
-  },
-  {
-    "name": "Charm \"Golden Ball\"",
-    "value": "4",
-    "id": 5314,
-    "collection": "prey"
-  },
-  {
-    "name": "Charm \"Prey\" Gold",
-    "value": "5",
-    "id": 5315,
-    "collection": "prey"
-  },
-  {
-    "name": "Charm \"Transmitter\"",
-    "value": "5",
-    "id": 5316,
-    "collection": "prey"
-  },
-  {
-    "name": "Chibi \"GRT\"",
-    "value": "5",
-    "id": 5317,
-    "collection": "prey"
-  },
-  {
-    "name": "Chibi \"RIA\"",
-    "value": "6",
-    "id": 5318,
-    "collection": "prey"
-  },
-  {
-    "name": "Charm \"Parrot\"",
-    "value": "6",
-    "id": 5319,
-    "collection": "prey"
-  },
-  {
-    "name": "P350 \"Ink Spree\"",
-    "value": "3",
-    "id": 240166,
-    "collection": "prey"
-  },
-  {
-    "name": "UMP45 \"Heatwave\"",
-    "value": "3",
-    "id": 240167,
-    "collection": "prey"
-  },
-  {
-    "name": "FN FAL \"Charred Wood\"",
-    "value": "3",
-    "id": 240168,
-    "collection": "prey"
-  },
-  {
-    "name": "M60 \"Warp\"",
-    "value": "3",
-    "id": 240169,
-    "collection": "prey"
-  },
-  {
-    "name": "M110 \"Grid\"",
-    "value": "4",
-    "id": 240170,
-    "collection": "prey"
-  },
-  {
-    "name": "MP5 \"Tiles\"",
-    "value": "4",
-    "id": 240171,
-    "collection": "prey"
-  },
-  {
-    "name": "Akimbo Uzi \"Spray\"",
-    "value": "4",
-    "id": 240172,
-    "collection": "prey"
-  },
-  {
-    "name": "USP \"Rainforest\"",
-    "value": "5",
-    "id": 240173,
-    "collection": "prey"
-  },
-  {
-    "name": "FAMAS \"Feral\"",
-    "value": "5",
-    "id": 240174,
-    "collection": "prey"
-  },
-  {
-    "name": "Akimbo Uzi \"Toco\"",
-    "value": "5",
-    "id": 240175,
-    "collection": "prey"
-  },
-  {
-    "name": "SPAS \"Glide\"",
-    "value": "6",
-    "id": 240176,
-    "collection": "prey"
-  },
-  {
-    "name": "M16 \"Raiva\"",
-    "value": "6",
-    "id": 240177,
-    "collection": "prey"
-  },
-  {
-    "name": "M40 \"Smolder\"",
-    "value": "1",
-    "id": 240178,
-    "collection": "dynasty"
-  },
-  {
-    "name": "MAC10 \"Pixel Camouflage\"",
-    "value": "1",
-    "id": 240179,
-    "collection": "dynasty"
-  },
-  {
-    "name": "MP5 \"Iron\"",
-    "value": "1",
-    "id": 240180,
-    "collection": "dynasty"
-  },
-  {
-    "name": "F/S \"Aquamarine\"",
-    "value": "1",
-    "id": 240181,
-    "collection": "dynasty"
-  },
-  {
-    "name": "FabM \"Mayhem\"",
-    "value": "2",
-    "id": 240182,
-    "collection": "dynasty"
-  },
-  {
-    "name": "TEC-9 \"Ultimatum\"",
-    "value": "2",
-    "id": 240183,
-    "collection": "dynasty"
-  },
-  {
-    "name": "Berettas \"Verdict\"",
-    "value": "2",
-    "id": 240184,
-    "collection": "dynasty"
-  },
-  {
-    "name": "M60 \"Copper\"",
-    "value": "2",
-    "id": 240185,
-    "collection": "dynasty"
-  },
-  {
-    "name": "M16 \"Mayhem\"",
-    "value": "3",
-    "id": 240186,
-    "collection": "dynasty"
-  },
-  {
-    "name": "Akimbo Uzi \"Skull\"",
-    "value": "3",
-    "id": 240187,
-    "collection": "dynasty"
-  },
-  {
-    "name": "FN FAL \"PRO\"",
-    "value": "3",
-    "id": 240188,
-    "collection": "dynasty"
-  },
-  {
-    "name": "SM1014 \"Wasp\"",
-    "value": "3",
-    "id": 240189,
-    "collection": "dynasty"
-  },
-  {
-    "name": "AWM \"Sylvan\"",
-    "value": "4",
-    "id": 240190,
-    "collection": "dynasty"
-  },
-  {
-    "name": "P350 \"Ooze\"",
-    "value": "4",
-    "id": 240191,
-    "collection": "dynasty"
-  },
-  {
-    "name": "P90 \"Noir\"",
-    "value": "5",
-    "id": 240192,
-    "collection": "dynasty"
-  },
-  {
-    "name": "M4A1 \"Overdrive\"",
-    "value": "5",
-    "id": 240193,
-    "collection": "dynasty"
-  },
-  {
-    "name": "Desert Eagle \"Eclipse\"",
-    "value": "5",
-    "id": 240194,
-    "collection": "dynasty"
-  },
-  {
-    "name": "G22 \"Briar\"",
-    "value": "4",
-    "id": 240195,
-    "collection": "dynasty"
-  },
-  {
-    "name": "Akimbo Uzi \"Overdrive Red\"",
-    "value": "6",
-    "id": 240196,
-    "collection": "dynasty"
-  },
-  {
-    "name": "AKR \"Genesis\"",
-    "value": "6",
-    "id": 240197,
-    "collection": "dynasty"
-  },
-  {
-    "name": "Mantis \"Eclipse\"",
-    "value": "6",
-    "id": 240198,
-    "collection": "dynasty"
-  },
-  {
-    "name": "Mantis \"Citrine\"",
-    "value": "6",
-    "id": 240199,
-    "collection": "dynasty"
-  },
-  {
-    "name": "Mantis \"Nest\"",
-    "value": "6",
-    "id": 240200,
-    "collection": "dynasty"
-  },
-  {
-    "name": "Mantis \"Genesis\"",
-    "value": "6",
-    "id": 240201,
-    "collection": "dynasty"
   },
   {
     "name": "P350 \"Ink Spree\" StatTrack",
@@ -14436,78 +14838,6 @@
     "collection": "dynasty"
   },
   {
-    "name": "AKR \"Vermilion\" Stattrack",
-    "value": "6",
-    "id": 1240162,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Desert Eagle \"Vermilion\" Stattrack",
-    "value": "6",
-    "id": 1240163,
-    "collection": "kitsune_dreams"
-  },
-  {
-    "name": "Akimbo Uzi \"Streak\"",
-    "value": "3",
-    "id": 240202,
-    "collection": "event8years"
-  },
-  {
-    "name": "FabM \"Streak\"",
-    "value": "3",
-    "id": 240203,
-    "collection": "event8years"
-  },
-  {
-    "name": "M4 \"Flex\"",
-    "value": "4",
-    "id": 240204,
-    "collection": "event8years"
-  },
-  {
-    "name": "M60 \"Flex\"",
-    "value": "4",
-    "id": 240205,
-    "collection": "event8years"
-  },
-  {
-    "name": "MP5 \"Blueprint\"",
-    "value": "5",
-    "id": 240206,
-    "collection": "event8years"
-  },
-  {
-    "name": "G22 \"Impulse\"",
-    "value": "6",
-    "id": 240207,
-    "collection": "event8years"
-  },
-  {
-    "name": "Molotov \"Drive\"",
-    "value": "6",
-    "id": 240208,
-    "collection": "event8years"
-  },
-  {
-    "name": "P350 \"Impact\"",
-    "value": "6",
-    "id": 240209,
-    "collection": "event8years"
-  },
-  {
-    "name": "M4A1 \"Impact\"",
-    "value": "6",
-    "id": 240210,
-    "collection": "event8years"
-  },
-  {
-    "name": "Mantis \"Impact\"",
-    "value": "6",
-    "id": 240211,
-    "collection": "event8years"
-  },
-  {
     "name": "Akimbo Uzi \"Streak\" StatTrack",
     "value": "3",
     "id": 1240202,
@@ -14556,90 +14886,6 @@
     "collection": "event8years"
   },
   {
-    "name": "Gloves \"Impulse\"",
-    "value": "6",
-    "id": 3047,
-    "collection": "event8years"
-  },
-  {
-    "name": "Charm \"8 Years\"",
-    "value": "6",
-    "id": 5320,
-    "collection": "event8years"
-  },
-  {
-    "name": "Sticker \"8 Years\"",
-    "value": "4",
-    "id": 1588,
-    "collection": "event8years"
-  },
-  {
-    "name": "Shield \"8 Years\"",
-    "value": "5",
-    "id": 1587,
-    "collection": "event8years"
-  },
-  {
-    "name": "Great \"8 Years\" Gift Case",
-    "id": 360,
-    "contains": "240202,240203,1588,240204,240205",
-    "collection": "event8years"
-  },
-  {
-    "name": "Prime \"8 Years\" Gift Case",
-    "id": 361,
-    "contains": "1588,240204,240205,240206,5320",
-    "collection": "event8years"
-  },
-  {
-    "name": "Ultimate \"8 Years\" Gift Case",
-    "id": 362,
-    "contains": "240206,5320,240207,240208,3047",
-    "collection": "event8years"
-  },
-  {
-    "name": "AKR12 \"Shark\"",
-    "value": "3",
-    "id": 240212,
-    "collection": "gambit"
-  },
-  {
-    "name": "P90 \"Oracle\"",
-    "value": "3",
-    "id": 240213,
-    "collection": "gambit"
-  },
-  {
-    "name": "Desert Eagle \"Gambit\"",
-    "value": "4",
-    "id": 240214,
-    "collection": "gambit"
-  },
-  {
-    "name": "SM1014 \"Piranha\"",
-    "value": "4",
-    "id": 240215,
-    "collection": "gambit"
-  },
-  {
-    "name": "FAMAS \"Ritual\"",
-    "value": "5",
-    "id": 240216,
-    "collection": "gambit"
-  },
-  {
-    "name": "Akimbo Uzi \"Ravage\"",
-    "value": "6",
-    "id": 240217,
-    "collection": "gambit"
-  },
-  {
-    "name": "VAL \"Orbit\"",
-    "value": "6",
-    "id": 240218,
-    "collection": "esports"
-  },
-  {
     "name": "AKR12 \"Shark\" Stattrack",
     "value": "3",
     "id": 1240212,
@@ -14680,263 +14926,5 @@
     "value": "6",
     "id": 1240218,
     "collection": "esports"
-  },
-  {
-    "name": "Gloves \"Ravage\"",
-    "value": "6",
-    "id": 3048,
-    "collection": "gambit"
-  },
-  {
-    "name": "Gloves \"Dread\"",
-    "value": "6",
-    "id": 3049,
-    "collection": "gambit"
-  },
-  {
-    "name": "Gloves \"Ritual\"",
-    "value": "6",
-    "id": 3050,
-    "collection": "gambit"
-  },
-  {
-    "name": "Gloves \"White Camo\"",
-    "value": "6",
-    "id": 3051,
-    "collection": "gambit"
-  },
-  {
-    "name": "Gloves \"Gambit\"",
-    "value": "6",
-    "id": 3052,
-    "collection": "gambit"
-  },
-  {
-    "name": "Gloves \"Tessera\"",
-    "value": "6",
-    "id": 3053,
-    "collection": "gambit"
-  },
-  {
-    "name": "Medal \"Gambit\" Bronze",
-    "value": "1",
-    "id": 366,
-    "collection": "gambit"
-  },
-  {
-    "name": "Medal \"Gambit\" Silver",
-    "value": "2",
-    "id": 367,
-    "collection": "gambit"
-  },
-  {
-    "name": "Medal \"Gambit\" Gold",
-    "value": "3",
-    "id": 368,
-    "collection": "gambit"
-  },
-  {
-    "name": "Medal \"Gambit\" Elite Gold",
-    "value": "4",
-    "id": 369,
-    "collection": "gambit"
-  },
-  {
-    "name": "Medal \"Gambit\" Platinum",
-    "value": "5",
-    "id": 370,
-    "collection": "gambit"
-  },
-  {
-    "name": "Medal \"Gambit\" Diamond",
-    "value": "6",
-    "id": 371,
-    "collection": "gambit"
-  },
-  {
-    "name": "Sticker \"Gambit\"",
-    "value": "3",
-    "id": 1589,
-    "collection": "gambit"
-  },
-  {
-    "name": "Sticker \"Hothead\"",
-    "value": "3",
-    "id": 1590,
-    "collection": "gambit"
-  },
-  {
-    "name": "Sticker \"Secret Island\" Swap",
-    "value": "4",
-    "id": 1591,
-    "collection": "gambit"
-  },
-  {
-    "name": "Sticker \"Laser Game\" Shine",
-    "value": "4",
-    "id": 1592,
-    "collection": "gambit"
-  },
-  {
-    "name": "Sticker \"Sigil\" Swap",
-    "value": "5",
-    "id": 1593,
-    "collection": "gambit"
-  },
-  {
-    "name": "Sticker \"Labyrinth\" Reflex",
-    "value": "6",
-    "id": 1594,
-    "collection": "gambit"
-  },
-  {
-    "name": "Charm \"Gambit\"",
-    "value": "3",
-    "id": 5321,
-    "collection": "gambit"
-  },
-  {
-    "name": "Charm \"Watcher\"",
-    "value": "3",
-    "id": 5322,
-    "collection": "gambit"
-  },
-  {
-    "name": "Charm \"Mask of Control\"",
-    "value": "4",
-    "id": 5323,
-    "collection": "gambit"
-  },
-  {
-    "name": "Charm \"Cresset\"",
-    "value": "4",
-    "id": 5324,
-    "collection": "gambit"
-  },
-  {
-    "name": "Chibi \"Trial\"",
-    "value": "5",
-    "id": 5325,
-    "collection": "gambit"
-  },
-  {
-    "name": "Charm \"Sigil\"",
-    "value": "6",
-    "id": 5326,
-    "collection": "gambit"
-  },
-  {
-    "name": "Graffiti \"Mask of Control\"",
-    "value": "3",
-    "id": 4414,
-    "collection": "gambit"
-  },
-  {
-    "name": "Graffiti \"Mask of Control\" Packed",
-    "value": "3",
-    "id": 4415,
-    "collection": "gambit"
-  },
-  {
-    "name": "Graffiti \"Gambit\"",
-    "value": "3",
-    "id": 4416,
-    "collection": "gambit"
-  },
-  {
-    "name": "Graffiti \"Gambit\" Packed",
-    "value": "3",
-    "id": 4417,
-    "collection": "gambit"
-  },
-  {
-    "name": "Graffiti \"Do not stop\"",
-    "value": "4",
-    "id": 4418,
-    "collection": "gambit"
-  },
-  {
-    "name": "Graffiti \"Do not stop\" Packed",
-    "value": "4",
-    "id": 4419,
-    "collection": "gambit"
-  },
-  {
-    "name": "Graffiti \"The Watchers\"",
-    "value": "4",
-    "id": 4420,
-    "collection": "gambit"
-  },
-  {
-    "name": "Graffiti \"The Watchers\" Packed",
-    "value": "4",
-    "id": 4421,
-    "collection": "gambit"
-  },
-  {
-    "name": "Graffiti \"Sigil\"",
-    "value": "5",
-    "id": 4422,
-    "collection": "gambit"
-  },
-  {
-    "name": "Graffiti \"Sigil\" Packed",
-    "value": "5",
-    "id": 4423,
-    "collection": "gambit"
-  },
-  {
-    "name": "Graffiti \"Idol\"",
-    "value": "6",
-    "id": 4424,
-    "collection": "gambit"
-  },
-  {
-    "name": "Graffiti \"Idol\" Packed",
-    "value": "6",
-    "id": 4425,
-    "collection": "gambit"
-  },
-  {
-    "name": "\"Gambit\" Weapon Case",
-    "id": 363,
-    "contains": "240212,240213,240214,240215,240216,240217",
-    "collection": "gambit"
-  },
-  {
-    "name": "\"Gambit\" Weapon Box",
-    "id": 364,
-    "contains": "240212,240213,240214,240215,240216,240217",
-    "collection": "gambit"
-  },
-  {
-    "name": "\"Gambit\" Gloves Case",
-    "id": 365,
-    "contains": "3048,3049,3050,3051,3052,3053",
-    "collection": "gambit"
-  },
-  {
-    "name": "\"Gambit\" Sticker Pack",
-    "id": 727,
-    "contains": "1589,1590,1591,1592,1593,1594",
-    "collection": "gambit"
-  },
-  {
-    "name": "\"Gambit\" Charm Pack",
-    "id": 728,
-    "contains": "5321,5322,5323,5324,5325,5326",
-    "collection": "gambit"
-  },
-  {
-    "name": "\"Gambit\" Graffiti Pack",
-    "id": 729,
-    "contains": "4415,4417,4419,4421,4423,4425",
-    "collection": "gambit"
-  },
-  {
-    "name": "\"Stream\" Crate",
-    "id": 411,
-    "contains": "41102,41502,220001,220009,240092,240094,240186,240187,43202,220012,240096,240191,44601,220018,240100,240193,41701,240197,240200,9070",
-    "collection": "standoff_2"
   }
 ]
