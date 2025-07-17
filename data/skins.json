@@ -12822,6 +12822,48 @@
     "collection": "esports"
   },
   {
+    "value": "6",
+    "name": "AWM \"Ravage\"",
+    "id": 240219,
+    "collection": "gambit"
+  },
+  {
+    "value": "4",
+    "name": "UMP45 \"Smelter\"",
+    "id": 240220,
+    "collection": "gambit"
+  },
+  {
+    "value": "5",
+    "name": "F/S \"Vines\"",
+    "id": 240221,
+    "collection": "gambit"
+  },
+  {
+    "value": "3",
+    "name": "TEC-9 \"Iris\"",
+    "id": 240222,
+    "collection": "gambit"
+  },
+  {
+    "value": "4",
+    "name": "M16 \"Challenger\"",
+    "id": 240223,
+    "collection": "gambit"
+  },
+  {
+    "value": "3",
+    "name": "FN FAL \"Splash\"",
+    "id": 240224,
+    "collection": "gambit"
+  },
+  {
+    "value": "6",
+    "name": "Butterfly \"Gambit\"",
+    "id": 240225,
+    "collection": "gambit"
+  },
+  {
     "name": "G22 \"Nest\" StatTrack",
     "value": "6",
     "id": 1011002,
@@ -14926,5 +14968,41 @@
     "value": "6",
     "id": 1240218,
     "collection": "esports"
+  },
+  {
+    "value": "6",
+    "name": "AWM \"Ravage\" Stattrack",
+    "id": 1240219,
+    "collection": "gambit"
+  },
+  {
+    "value": "4",
+    "name": "UMP45 \"Smelter\" Stattrack",
+    "id": 1240220,
+    "collection": "gambit"
+  },
+  {
+    "value": "5",
+    "name": "F/S \"Vines\" Stattrack",
+    "id": 1240221,
+    "collection": "gambit"
+  },
+  {
+    "value": "3",
+    "name": "TEC-9 \"Iris\" Stattrack",
+    "id": 1240222,
+    "collection": "gambit"
+  },
+  {
+    "value": "4",
+    "name": "M16 \"Challenger\" Stattrack",
+    "id": 1240223,
+    "collection": "gambit"
+  },
+  {
+    "value": "3",
+    "name": "FN FAL \"Splash\" Stattrack",
+    "id": 1240224,
+    "collection": "gambit"
   }
 ]
