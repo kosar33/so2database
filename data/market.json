@@ -144,6 +144,24 @@
     "collection": "event8years"
   },
   {
+    "name": "\"Gambit\" Weapon Case",
+    "id": 363,
+    "contains": "240212,240213,240214,240215,240216,240217",
+    "collection": "gambit"
+  },
+  {
+    "name": "\"Gambit\" Weapon Box",
+    "id": 364,
+    "contains": "240212,240213,240214,240215,240216,240217",
+    "collection": "gambit"
+  },
+  {
+    "name": "\"Gambit\" Gloves Case",
+    "id": 365,
+    "contains": "3048,3049,3050,3051,3052,3053",
+    "collection": "gambit"
+  },
+  {
     "name": "\"Empire\" Box",
     "id": 406,
     "contains": "121100,124500,125200,126300,123200,124400,125101,126201,121300,121600,124301,124600,123400,124800,126401,121200,121500,126400,124300,125100",
@@ -286,6 +304,24 @@
     "id": 726,
     "contains": "5308,5309,5310,5311,5312,5313,5314,5315,5316,5317,5318,5319",
     "collection": "prey"
+  },
+  {
+    "name": "\"Gambit\" Sticker Pack",
+    "id": 727,
+    "contains": "1589,1590,1591,1592,1593,1594",
+    "collection": "gambit"
+  },
+  {
+    "name": "\"Gambit\" Charm Pack",
+    "id": 728,
+    "contains": "5321,5322,5323,5324,5325,5326",
+    "collection": "gambit"
+  },
+  {
+    "name": "\"Gambit\" Graffiti Pack",
+    "id": 729,
+    "contains": "4415,4417,4419,4421,4423,4425",
+    "collection": "gambit"
   },
   {
     "name": "\"Halloween 2020\" Charm Pack",
@@ -2538,6 +2574,42 @@
     "collection": "event8years"
   },
   {
+    "name": "Sticker \"Gambit\"",
+    "value": "3",
+    "id": 1589,
+    "collection": "gambit"
+  },
+  {
+    "name": "Sticker \"Hothead\"",
+    "value": "3",
+    "id": 1590,
+    "collection": "gambit"
+  },
+  {
+    "name": "Sticker \"Secret Island\" Swap",
+    "value": "4",
+    "id": 1591,
+    "collection": "gambit"
+  },
+  {
+    "name": "Sticker \"Laser Game\" Shine",
+    "value": "4",
+    "id": 1592,
+    "collection": "gambit"
+  },
+  {
+    "name": "Sticker \"Sigil\" Swap",
+    "value": "5",
+    "id": 1593,
+    "collection": "gambit"
+  },
+  {
+    "name": "Sticker \"Labyrinth\" Reflex",
+    "value": "6",
+    "id": 1594,
+    "collection": "gambit"
+  },
+  {
     "name": "Gloves \"Phoenix Risen\"",
     "value": "6",
     "id": 3000,
@@ -2818,6 +2890,42 @@
     "value": "6",
     "id": 3047,
     "collection": "event8years"
+  },
+  {
+    "name": "Gloves \"Ravage\"",
+    "value": "6",
+    "id": 3048,
+    "collection": "gambit"
+  },
+  {
+    "name": "Gloves \"Dread\"",
+    "value": "6",
+    "id": 3049,
+    "collection": "gambit"
+  },
+  {
+    "name": "Gloves \"Ritual\"",
+    "value": "6",
+    "id": 3050,
+    "collection": "gambit"
+  },
+  {
+    "name": "Gloves \"White Camo\"",
+    "value": "6",
+    "id": 3051,
+    "collection": "gambit"
+  },
+  {
+    "name": "Gloves \"Gambit\"",
+    "value": "6",
+    "id": 3052,
+    "collection": "gambit"
+  },
+  {
+    "name": "Gloves \"Tessera\"",
+    "value": "6",
+    "id": 3053,
+    "collection": "gambit"
   },
   {
     "name": "Graffiti \"High 5\" Packed",
@@ -3982,6 +4090,42 @@
     "value": "6",
     "id": 4413,
     "collection": "prey"
+  },
+  {
+    "name": "Graffiti \"Mask of Control\" Packed",
+    "value": "3",
+    "id": 4415,
+    "collection": "gambit"
+  },
+  {
+    "name": "Graffiti \"Gambit\" Packed",
+    "value": "3",
+    "id": 4417,
+    "collection": "gambit"
+  },
+  {
+    "name": "Graffiti \"Do not stop\" Packed",
+    "value": "4",
+    "id": 4419,
+    "collection": "gambit"
+  },
+  {
+    "name": "Graffiti \"The Watchers\" Packed",
+    "value": "4",
+    "id": 4421,
+    "collection": "gambit"
+  },
+  {
+    "name": "Graffiti \"Sigil\" Packed",
+    "value": "5",
+    "id": 4423,
+    "collection": "gambit"
+  },
+  {
+    "name": "Graffiti \"Idol\" Packed",
+    "value": "6",
+    "id": 4425,
+    "collection": "gambit"
   },
   {
     "name": "Charm \"V2\"",
@@ -5230,6 +5374,42 @@
     "value": "6",
     "id": 5320,
     "collection": "event8years"
+  },
+  {
+    "name": "Charm \"Gambit\"",
+    "value": "3",
+    "id": 5321,
+    "collection": "gambit"
+  },
+  {
+    "name": "Charm \"Watcher\"",
+    "value": "3",
+    "id": 5322,
+    "collection": "gambit"
+  },
+  {
+    "name": "Charm \"Mask of Control\"",
+    "value": "4",
+    "id": 5323,
+    "collection": "gambit"
+  },
+  {
+    "name": "Charm \"Cresset\"",
+    "value": "4",
+    "id": 5324,
+    "collection": "gambit"
+  },
+  {
+    "name": "Chibi \"Trial\"",
+    "value": "5",
+    "id": 5325,
+    "collection": "gambit"
+  },
+  {
+    "name": "Charm \"Sigil\"",
+    "value": "6",
+    "id": 5326,
+    "collection": "gambit"
   },
   {
     "name": "G22 \"Pixel Camouflage\"",
@@ -8790,6 +8970,90 @@
     "collection": "event8years"
   },
   {
+    "name": "AKR12 \"Shark\"",
+    "value": "3",
+    "id": 240212,
+    "collection": "gambit"
+  },
+  {
+    "name": "P90 \"Oracle\"",
+    "value": "3",
+    "id": 240213,
+    "collection": "gambit"
+  },
+  {
+    "name": "Desert Eagle \"Gambit\"",
+    "value": "4",
+    "id": 240214,
+    "collection": "gambit"
+  },
+  {
+    "name": "SM1014 \"Piranha\"",
+    "value": "4",
+    "id": 240215,
+    "collection": "gambit"
+  },
+  {
+    "name": "FAMAS \"Ritual\"",
+    "value": "5",
+    "id": 240216,
+    "collection": "gambit"
+  },
+  {
+    "name": "Akimbo Uzi \"Ravage\"",
+    "value": "6",
+    "id": 240217,
+    "collection": "gambit"
+  },
+  {
+    "name": "VAL \"Orbit\"",
+    "value": "6",
+    "id": 240218,
+    "collection": "esports"
+  },
+  {
+    "value": "6",
+    "name": "AWM \"Ravage\"",
+    "id": 240219,
+    "collection": "gambit"
+  },
+  {
+    "value": "4",
+    "name": "UMP45 \"Smelter\"",
+    "id": 240220,
+    "collection": "gambit"
+  },
+  {
+    "value": "5",
+    "name": "F/S \"Vines\"",
+    "id": 240221,
+    "collection": "gambit"
+  },
+  {
+    "value": "3",
+    "name": "TEC-9 \"Iris\"",
+    "id": 240222,
+    "collection": "gambit"
+  },
+  {
+    "value": "4",
+    "name": "M16 \"Challenger\"",
+    "id": 240223,
+    "collection": "gambit"
+  },
+  {
+    "value": "3",
+    "name": "FN FAL \"Splash\"",
+    "id": 240224,
+    "collection": "gambit"
+  },
+  {
+    "value": "6",
+    "name": "Butterfly \"Gambit\"",
+    "id": 240225,
+    "collection": "gambit"
+  },
+  {
     "name": "G22 \"Nest\" StatTrack",
     "value": "6",
     "id": 1011002,
@@ -10846,5 +11110,83 @@
     "value": "6",
     "id": 1240210,
     "collection": "event8years"
+  },
+  {
+    "name": "AKR12 \"Shark\" Stattrack",
+    "value": "3",
+    "id": 1240212,
+    "collection": "gambit"
+  },
+  {
+    "name": "P90 \"Oracle\" Stattrack",
+    "value": "3",
+    "id": 1240213,
+    "collection": "gambit"
+  },
+  {
+    "name": "Desert Eagle \"Gambit\" Stattrack",
+    "value": "4",
+    "id": 1240214,
+    "collection": "gambit"
+  },
+  {
+    "name": "SM1014 \"Piranha\" Stattrack",
+    "value": "4",
+    "id": 1240215,
+    "collection": "gambit"
+  },
+  {
+    "name": "FAMAS \"Ritual\" Stattrack",
+    "value": "5",
+    "id": 1240216,
+    "collection": "gambit"
+  },
+  {
+    "name": "Akimbo Uzi \"Ravage\" Stattrack",
+    "value": "6",
+    "id": 1240217,
+    "collection": "gambit"
+  },
+  {
+    "name": "VAL \"Orbit\" Stattrack",
+    "value": "6",
+    "id": 1240218,
+    "collection": "esports"
+  },
+  {
+    "value": "6",
+    "name": "AWM \"Ravage\" Stattrack",
+    "id": 1240219,
+    "collection": "gambit"
+  },
+  {
+    "value": "4",
+    "name": "UMP45 \"Smelter\" Stattrack",
+    "id": 1240220,
+    "collection": "gambit"
+  },
+  {
+    "value": "5",
+    "name": "F/S \"Vines\" Stattrack",
+    "id": 1240221,
+    "collection": "gambit"
+  },
+  {
+    "value": "3",
+    "name": "TEC-9 \"Iris\" Stattrack",
+    "id": 1240222,
+    "collection": "gambit"
+  },
+  {
+    "value": "4",
+    "name": "M16 \"Challenger\" Stattrack",
+    "id": 1240223,
+    "collection": "gambit"
+  },
+  {
+    "value": "3",
+    "name": "FN FAL \"Splash\" Stattrack",
+    "id": 1240224,
+    "collection": "gambit"
   }
 ]
