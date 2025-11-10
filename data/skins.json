@@ -1308,6 +1308,117 @@
     "collection": "gambit"
   },
   {
+    "value": "1",
+    "collection": "syndicate",
+    "id": 372,
+    "name": "Medal \"Syndicate\" Bronze"
+  },
+  {
+    "value": "2",
+    "collection": "syndicate",
+    "id": 373,
+    "name": "Medal \"Syndicate\" Silver"
+  },
+  {
+    "value": "3",
+    "collection": "syndicate",
+    "id": 374,
+    "name": "Medal \"Syndicate\" Gold"
+  },
+  {
+    "value": "4",
+    "collection": "syndicate",
+    "id": 375,
+    "name": "Medal \"Syndicate\" Elite Gold"
+  },
+  {
+    "value": "5",
+    "collection": "syndicate",
+    "id": 376,
+    "name": "Medal \"Syndicate\" Platinum"
+  },
+  {
+    "value": "6",
+    "collection": "dia_de_muertos",
+    "id": 377,
+    "name": "Medal \"Dia de Muertos\" Bronze"
+  },
+  {
+    "value": "1",
+    "collection": "dia_de_muertos",
+    "id": 378,
+    "name": "Medal \"Dia de Muertos\" Silver"
+  },
+  {
+    "value": "2",
+    "collection": "dia_de_muertos",
+    "id": 379,
+    "name": "Medal \"Dia de Muertos\" Gold"
+  },
+  {
+    "name": "Medal \"Dia de Muertos\" Elite Gold",
+    "value": "3",
+    "stattrack": "false",
+    "collection": "dia_de_muertos",
+    "id": 380
+  },
+  {
+    "name": "Medal \"Dia de Muertos\" Platinum",
+    "value": "4",
+    "stattrack": "false",
+    "collection": "dia_de_muertos",
+    "id": 381
+  },
+  {
+    "name": "Medal \"Dia de Muertos\" Diamond",
+    "value": "5",
+    "stattrack": "false",
+    "collection": "dia_de_muertos",
+    "id": 382
+  },
+  {
+    "name": "\"Syndicate\" Event Box",
+    "collection": "syndicate",
+    "id": 383,
+    "contains": "1615, 1616, 1617, 4450, 4452, 4454,  240245, 240246, 240247, 240248, 240249"
+  },
+  {
+    "name": "\"Syndicate\" Event Case",
+    "collection": "syndicate",
+    "id": 384,
+    "contains": "240245, 240246, 240247, 240248, 240249, 240251, 1615, 1616, 1617"
+  },
+  {
+    "name": "\"Dia de Muertos\" Weapon Crate",
+    "collection": "dia_de_muertos",
+    "id": 385,
+    "contains": "240257, 240256, 240255, 240254, 240253, 240252"
+  },
+  {
+    "name": "\"Dia de Muertos\" Weapon Case",
+    "collection": "dia_de_muertos",
+    "id": 386,
+    "contains": "240257, 240256, 240255, 240254, 240253, 240252"
+  },
+  {
+    "name": "\"Dia de Muertos\" Knife Case",
+    "collection": "dia_de_muertos",
+    "id": 387,
+    "contains": "240270, 240271, 240273, 240274, 240275, 240272"
+  },
+  {
+    "name": "\"Dia de Muertos\" Event Case",
+    "collection": "dia_de_muertos",
+    "id": 388,
+    "contains": "1624, 5378, 240259, 240263, 240269"
+  },
+  {
+    "name": "\"Dia de Muertos\" Tactical Box",
+    "collection": "dia_de_muertos",
+    "id": 389,
+    "contains": "1626, 1625, 5376, 240267"
+  },
+  {
     "name": "\"Origin\" Box",
     "id": 401,
     "contains": "11001,13002,32002,46003,15002,35001,47001,62001,15003,45002,51002,62002,13001,32001,35002,45001,46002,47002,11002,44002",
@@ -1552,6 +1663,42 @@
     "id": 729,
     "contains": "4415,4417,4419,4421,4423,4425",
     "collection": "gambit"
+  },
+  {
+    "name": "\"Rewind\" Charm Pack",
+    "collection": "rewind",
+    "id": 730,
+    "contains": "5327,5328,5329,5330,5331,5332,5333,5334,5335,5336,5337,5338"
+  },
+  {
+    "name": "\"Syndicate\" Graffiti Pack",
+    "collection": "syndicate",
+    "id": 731,
+    "contains": "4427, 4429, 4431, 4433, 4435, 4437, 4439, 4441, 4443, 4445, 4447, 4449"
+  },
+  {
+    "name": "\"Syndicate\" Sticker Pack",
+    "collection": "syndicate",
+    "id": 732,
+    "contains": "1601, 1602, 1603, 1604, 1605, 1606, 1607, 1608, 1609, 1610, 1611, 1612"
+  },
+  {
+    "name": "\"Syndicate\" Charm Pack",
+    "collection": "syndicate",
+    "id": 733,
+    "contains": "5368, 5367, 5366, 5365, 5364, 5363, 5362, 5361, 5360, 5359, 5358, 5357"
+  },
+  {
+    "name": "\"Dia de Muertos\" Sticker Pack",
+    "collection": "dia_de_muertos",
+    "id": 734,
+    "contains": "1601, 1602, 1603, 1604, 1605, 1606, 1607, 1608, 1609, 1610, 1611, 1612"
+  },
+  {
+    "name": "\"Dia de Muertos\" Charm Pack",
+    "collection": "dia_de_muertos",
+    "id": 735,
+    "contains": "5368, 5367, 5366, 5365, 5364, 5363, 5362, 5361, 5360, 5359, 5358, 5357"
   },
   {
     "name": "Fragment Box",
@@ -3708,6 +3855,18 @@
     "collection": "collaboration"
   },
   {
+    "value": "3",
+    "collection": "standoff_2",
+    "id": 1505,
+    "name": "Shield \"Perfect Leader\""
+  },
+  {
+    "value": "3",
+    "collection": "standoff_2",
+    "id": 1506,
+    "name": "Charm \"Perfect Leader\""
+  },
+  {
     "name": "Sticker \"fRONZES\" Major 2024",
     "value": "4",
     "id": 1507,
@@ -4200,6 +4359,192 @@
     "collection": "gambit"
   },
   {
+    "value": "1",
+    "collection": "prey",
+    "id": 1595,
+    "name": "Shield \"Prey\" Bronze"
+  },
+  {
+    "value": "2",
+    "collection": "prey",
+    "id": 1596,
+    "name": "Shield \"Prey\" Silver"
+  },
+  {
+    "value": "3",
+    "collection": "prey",
+    "id": 1597,
+    "name": "Shield \"Prey\" Gold"
+  },
+  {
+    "value": "4",
+    "collection": "prey",
+    "id": 1598,
+    "name": "Shield \"Prey\" Elite Gold"
+  },
+  {
+    "value": "5",
+    "collection": "prey",
+    "id": 1599,
+    "name": "Shield \"Prey\" Platinum"
+  },
+  {
+    "value": "6",
+    "collection": "prey",
+    "id": 1600,
+    "name": "Shield \"Prey\" Diamond"
+  },
+  {
+    "value": "6",
+    "collection": "syndicate",
+    "id": 1601,
+    "name": "Sticker \"Blade Dance\" Reflex"
+  },
+  {
+    "value": "5",
+    "collection": "syndicate",
+    "id": 1603,
+    "name": "Sticker \"Orchid\" Shine"
+  },
+  {
+    "value": "5",
+    "collection": "syndicate",
+    "id": 1604,
+    "name": "Sticker \"Syndicate\" Gold"
+  },
+  {
+    "value": "5",
+    "collection": "syndicate",
+    "id": 1605,
+    "name": "Sticker \"Drift King\" Swap"
+  },
+  {
+    "value": "4",
+    "collection": "syndicate",
+    "id": 1606,
+    "name": "Sticker \"Rikishi\" Color"
+  },
+  {
+    "value": "4",
+    "collection": "syndicate",
+    "id": 1607,
+    "name": "Sticker \"Pufferfish\" Swap"
+  },
+  {
+    "value": "4",
+    "collection": "syndicate",
+    "id": 1608,
+    "name": "Sticker \"Authority\""
+  },
+  {
+    "value": "3",
+    "collection": "syndicate",
+    "id": 1609,
+    "name": "Sticker \"Syndicate\" Silver"
+  },
+  {
+    "value": "3",
+    "collection": "syndicate",
+    "id": 1610,
+    "name": "Sticker \"Oni Tattoo\""
+  },
+  {
+    "value": "3",
+    "collection": "syndicate",
+    "id": 1611,
+    "name": "Sticker \"Koi Tattoo\""
+  },
+  {
+    "value": "3",
+    "collection": "syndicate",
+    "id": 1612,
+    "name": "Sticker \"Kiku Tattoo\""
+  },
+  {
+    "value": "4",
+    "collection": "syndicate",
+    "id": 1613,
+    "name": "Sticker \"Syndicate\" Color"
+  },
+  {
+    "value": "3",
+    "collection": "syndicate",
+    "id": 1614,
+    "name": "Sticker \"Syndicate\""
+  },
+  {
+    "value": "3",
+    "collection": "syndicate",
+    "id": 1615,
+    "name": "Sticker \"Fiery Look\""
+  },
+  {
+    "value": "4",
+    "collection": "syndicate",
+    "id": 1616,
+    "name": "Sticker \"Octo Chef\" Swap"
+  },
+  {
+    "value": "5",
+    "collection": "syndicate",
+    "id": 1617,
+    "name": "Sticker \"Street Boss\" Shine"
+  },
+  {
+    "value": "5",
+    "collection": "dia_de_muertos",
+    "id": 1618,
+    "name": "Sticker \"Phantom Pack\" Reflex"
+  },
+  {
+    "value": "6",
+    "collection": "dia_de_muertos",
+    "id": 1619,
+    "name": "Sticker \"Deadly Draw\" Swap"
+  },
+  {
+    "value": "4",
+    "collection": "dia_de_muertos",
+    "id": 1620,
+    "name": "Sticker \"Viva la Vida\" Shine"
+  },
+  {
+    "value": "4",
+    "collection": "dia_de_muertos",
+    "id": 1621,
+    "name": "Sticker \"El Luchador\" Color"
+  },
+  {
+    "value": "3",
+    "collection": "dia_de_muertos",
+    "id": 1622,
+    "name": "Sticker \"Spiky Strings\""
+  },
+  {
+    "value": "3",
+    "collection": "dia_de_muertos",
+    "id": 1623,
+    "name": "Sticker \"Dia de Muertos\""
+  },
+  {
+    "value": "3",
+    "collection": "dia_de_muertos",
+    "id": 1624,
+    "name": "Sticker \"Spooky\""
+  },
+  {
+    "value": "4",
+    "collection": "dia_de_muertos",
+    "id": 1625,
+    "name": "Sticker \"Paranoia\" Reflex"
+  },
+  {
+    "value": "3",
+    "collection": "dia_de_muertos",
+    "id": 1626,
+    "name": "Sticker \"Vampiric Bite\""
+  },
+  {
     "name": "Gloves \"Phoenix Risen\"",
     "value": "6",
     "id": 3000,
@@ -4516,6 +4861,15 @@
     "value": "6",
     "id": 3053,
     "collection": "gambit"
+  },
+  {
+    "name": "Gloves \"Skeletal Hand\"",
+    "value": "6",
+    "stattrack": "false",
+    "id": 3054,
+    "collection": "dia_de_muertos",
+    "craftable": "false",
+    "match_drop": "false"
   },
   {
     "name": "Graffiti \"High 5\" Packed",
@@ -7062,6 +7416,258 @@
     "collection": "gambit"
   },
   {
+    "value": "6",
+    "collection": "syndicate",
+    "id": 4426,
+    "name": "Graffiti \"Syndicate\""
+  },
+  {
+    "value": "6",
+    "collection": "syndicate",
+    "id": 4427,
+    "name": "Graffiti \"Syndicate\" Packed"
+  },
+  {
+    "value": "6",
+    "collection": "syndicate",
+    "id": 4428,
+    "name": "Graffiti \"Celestial Tiger\""
+  },
+  {
+    "value": "6",
+    "collection": "syndicate",
+    "id": 4429,
+    "name": "Graffiti \"Celestial Tiger\" Packed"
+  },
+  {
+    "value": "5",
+    "collection": "syndicate",
+    "id": 4430,
+    "name": "Graffiti \"Ninja\""
+  },
+  {
+    "value": "5",
+    "collection": "syndicate",
+    "id": 4431,
+    "name": "Graffiti \"Ninja\" Packed"
+  },
+  {
+    "value": "5",
+    "collection": "syndicate",
+    "id": 4432,
+    "name": "Graffiti \"CATana\""
+  },
+  {
+    "value": "5",
+    "collection": "syndicate",
+    "id": 4433,
+    "name": "Graffiti \"CATana\" Packed"
+  },
+  {
+    "value": "5",
+    "collection": "syndicate",
+    "id": 4434,
+    "name": "Graffiti \"Sensei\""
+  },
+  {
+    "value": "5",
+    "collection": "syndicate",
+    "id": 4435,
+    "name": "Graffiti \"Sensei\" Packed"
+  },
+  {
+    "value": "4",
+    "collection": "syndicate",
+    "id": 4436,
+    "name": "Graffiti \"Shuriken\""
+  },
+  {
+    "value": "4",
+    "collection": "syndicate",
+    "id": 4437,
+    "name": "Graffiti \"Shuriken\" Packed"
+  },
+  {
+    "value": "4",
+    "collection": "syndicate",
+    "id": 4438,
+    "name": "Graffiti \"Tatsu\""
+  },
+  {
+    "value": "4",
+    "collection": "syndicate",
+    "id": 4439,
+    "name": "Graffiti \"Tatsu\" Packed"
+  },
+  {
+    "value": "4",
+    "collection": "syndicate",
+    "id": 4440,
+    "name": "Graffiti \"Akki\""
+  },
+  {
+    "value": "4",
+    "collection": "syndicate",
+    "id": 4441,
+    "name": "Graffiti \"Akki\" Packed"
+  },
+  {
+    "value": "3",
+    "collection": "syndicate",
+    "id": 4442,
+    "name": "Graffiti \"Wanted\""
+  },
+  {
+    "value": "3",
+    "collection": "syndicate",
+    "id": 4443,
+    "name": "Graffiti \"Wanted\" Packed"
+  },
+  {
+    "value": "3",
+    "collection": "syndicate",
+    "id": 4444,
+    "name": "Graffiti \"Training Target\""
+  },
+  {
+    "value": "3",
+    "collection": "syndicate",
+    "id": 4445,
+    "name": "Graffiti \"Training Target\" Packed"
+  },
+  {
+    "value": "3",
+    "collection": "syndicate",
+    "id": 4446,
+    "name": "Graffiti \"Sakura\""
+  },
+  {
+    "value": "3",
+    "collection": "syndicate",
+    "id": 4447,
+    "name": "Graffiti \"Sakura\" Packed"
+  },
+  {
+    "value": "3",
+    "collection": "syndicate",
+    "id": 4448,
+    "name": "Graffiti \"X Mark\""
+  },
+  {
+    "value": "3",
+    "collection": "syndicate",
+    "id": 4449,
+    "name": "Graffiti \"X Mark\" Packed"
+  },
+  {
+    "value": "3",
+    "collection": "syndicate",
+    "id": 4450,
+    "name": "Graffiti \"Shiba Inu\""
+  },
+  {
+    "value": "3",
+    "collection": "syndicate",
+    "id": 4451,
+    "name": "Graffiti \"Shiba Inu\" Packed"
+  },
+  {
+    "value": "4",
+    "collection": "syndicate",
+    "id": 4452,
+    "name": "Graffiti \"Samurai\""
+  },
+  {
+    "value": "4",
+    "collection": "syndicate",
+    "id": 4453,
+    "name": "Graffiti \"Samurai\" Packed"
+  },
+  {
+    "value": "5",
+    "collection": "syndicate",
+    "id": 4454,
+    "name": "Graffiti \"Playful Spirit\""
+  },
+  {
+    "value": "5",
+    "collection": "syndicate",
+    "id": 4455,
+    "name": "Graffiti \"Playful Spirit\" Packed"
+  },
+  {
+    "value": "6",
+    "collection": "dia_de_muertos",
+    "id": 4456,
+    "name": "Graffiti \"King of the Ring\""
+  },
+  {
+    "value": "6",
+    "collection": "dia_de_muertos",
+    "id": 4457,
+    "name": "Graffiti \"King of the Ring\" Packed"
+  },
+  {
+    "value": "5",
+    "collection": "dia_de_muertos",
+    "id": 4458,
+    "name": "Graffiti \"Dia de Muertos\""
+  },
+  {
+    "value": "5",
+    "collection": "dia_de_muertos",
+    "id": 4459,
+    "name": "Graffiti \"Dia de Muertos\" Packed"
+  },
+  {
+    "value": "5",
+    "collection": "dia_de_muertos",
+    "id": 4460,
+    "name": "Graffiti \"Viva la Vida\""
+  },
+  {
+    "value": "4",
+    "collection": "dia_de_muertos",
+    "id": 4461,
+    "name": "Graffiti \"Viva la Vida\" Packed"
+  },
+  {
+    "value": "4",
+    "collection": "dia_de_muertos",
+    "id": 4462,
+    "name": "Graffiti \"Spicy\""
+  },
+  {
+    "value": "4",
+    "collection": "dia_de_muertos",
+    "id": 4463,
+    "name": "Graffiti \"Spicy\" Packed"
+  },
+  {
+    "value": "3",
+    "collection": "dia_de_muertos",
+    "id": 4464,
+    "name": "Graffiti \"Hasta la Vista\""
+  },
+  {
+    "value": "3",
+    "collection": "dia_de_muertos",
+    "id": 4465,
+    "name": "Graffiti \"Hasta la vista\" Packed"
+  },
+  {
+    "value": "3",
+    "collection": "dia_de_muertos",
+    "id": 4466,
+    "name": "Graffiti \"Good Game\""
+  },
+  {
+    "value": "3",
+    "collection": "dia_de_muertos",
+    "id": 4467,
+    "name": "Graffiti \"Good Game\" Packed"
+  },
+  {
     "name": "Charm \"Project Z9\" Bronze",
     "value": "1",
     "id": 5000,
@@ -8922,6 +9528,318 @@
     "collection": "gambit"
   },
   {
+    "value": "6",
+    "collection": "rewind",
+    "id": 5327,
+    "name": "Charm \"Gold Skull\""
+  },
+  {
+    "value": "6",
+    "collection": "rewind",
+    "id": 5328,
+    "name": "Charm \"Lighter\""
+  },
+  {
+    "value": "4",
+    "collection": "rewind",
+    "id": 5329,
+    "name": "Charm \"Bomb\""
+  },
+  {
+    "value": "5",
+    "collection": "rewind",
+    "id": 5330,
+    "name": "Charm \"Metal Rat\""
+  },
+  {
+    "value": "5",
+    "collection": "rewind",
+    "id": 5331,
+    "name": "Charm \"Plush Adam\""
+  },
+  {
+    "value": "5",
+    "collection": "rewind",
+    "id": 5332,
+    "name": "Charm \"Low HP\""
+  },
+  {
+    "value": "4",
+    "collection": "rewind",
+    "id": 5333,
+    "name": "Charm \"Mini Kit\""
+  },
+  {
+    "value": "3",
+    "collection": "rewind",
+    "id": 5334,
+    "name": "Charm \"PRO\""
+  },
+  {
+    "value": "3",
+    "collection": "rewind",
+    "id": 5335,
+    "name": "Charm \"Gold Coin\""
+  },
+  {
+    "value": "3",
+    "collection": "rewind",
+    "id": 5336,
+    "name": "Charm \"Lucky\""
+  },
+  {
+    "value": "4",
+    "collection": "rewind",
+    "id": 5337,
+    "name": "Charm \"Origin Box\""
+  },
+  {
+    "value": "3",
+    "collection": "rewind",
+    "id": 5338,
+    "name": "Charm \"SO2 Tag\""
+  },
+  {
+    "value": "1",
+    "collection": "prey",
+    "id": 5339,
+    "name": "Charm \"Prey 1v1\" Bronze"
+  },
+  {
+    "value": "2",
+    "collection": "prey",
+    "id": 5340,
+    "name": "Charm \"Prey 1v1\" Silver"
+  },
+  {
+    "value": "3",
+    "collection": "prey",
+    "id": 5341,
+    "name": "Charm \"Prey 1v1\" Gold"
+  },
+  {
+    "value": "4",
+    "collection": "prey",
+    "id": 5342,
+    "name": "Charm \"Prey 1v1\" Elite Gold"
+  },
+  {
+    "value": "5",
+    "collection": "prey",
+    "id": 5343,
+    "name": "Charm \"Prey 1v1\" Platinum"
+  },
+  {
+    "value": "6",
+    "collection": "prey",
+    "id": 5344,
+    "name": "Charm \"Prey 1v1\" Diamond"
+  },
+  {
+    "value": "1",
+    "collection": "prey",
+    "id": 5345,
+    "name": "Charm \"Prey 5v5\" Bronze"
+  },
+  {
+    "value": "2",
+    "collection": "prey",
+    "id": 5346,
+    "name": "Charm \"Prey 5v5\" Silver"
+  },
+  {
+    "value": "3",
+    "collection": "prey",
+    "id": 5347,
+    "name": "Charm \"Prey 5v5\" Gold"
+  },
+  {
+    "value": "4",
+    "collection": "prey",
+    "id": 5348,
+    "name": "Charm \"Prey 5v5\" Elite Gold"
+  },
+  {
+    "value": "5",
+    "collection": "prey",
+    "id": 5349,
+    "name": "Charm \"Prey 5v5\" Platinum"
+  },
+  {
+    "value": "6",
+    "collection": "prey",
+    "id": 5350,
+    "name": "Charm \"Prey 5v5\" Diamond"
+  },
+  {
+    "value": "1",
+    "collection": "prey",
+    "id": 5351,
+    "name": "Charm \"Prey 2v2\" Bronze"
+  },
+  {
+    "value": "2",
+    "collection": "prey",
+    "id": 5352,
+    "name": "Charm \"Prey 2v2\" Silver"
+  },
+  {
+    "value": "3",
+    "collection": "prey",
+    "id": 5353,
+    "name": "Charm \"Prey 2v2\" Gold"
+  },
+  {
+    "value": "4",
+    "collection": "prey",
+    "id": 5354,
+    "name": "Charm \"Prey 2v2\" Elite Gold"
+  },
+  {
+    "value": "5",
+    "collection": "prey",
+    "id": 5355,
+    "name": "Charm \"Prey 2v2\" Platinum"
+  },
+  {
+    "value": "6",
+    "collection": "prey",
+    "id": 5356,
+    "name": "Charm \"Prey 2v2\" Diamond"
+  },
+  {
+    "value": "6",
+    "collection": "syndicate",
+    "id": 5357,
+    "name": "Charm \"Drift King\""
+  },
+  {
+    "value": "6",
+    "collection": "syndicate",
+    "id": 5358,
+    "name": "Chibi \"Daizen\""
+  },
+  {
+    "value": "5",
+    "collection": "syndicate",
+    "id": 5359,
+    "name": "Charm \"Street Boss\""
+  },
+  {
+    "value": "5",
+    "collection": "syndicate",
+    "id": 5360,
+    "name": "Charm \"Arcade Game\""
+  },
+  {
+    "value": "5",
+    "collection": "syndicate",
+    "id": 5361,
+    "name": "Charm \"Syndicate\" Gold"
+  },
+  {
+    "value": "4",
+    "collection": "syndicate",
+    "id": 5362,
+    "name": "Charm \"Noodle Friend\""
+  },
+  {
+    "value": "4",
+    "collection": "syndicate",
+    "id": 5363,
+    "name": "Charm \"Sakura\""
+  },
+  {
+    "value": "4",
+    "collection": "syndicate",
+    "id": 5364,
+    "name": "Charm \"Octo Chef\""
+  },
+  {
+    "value": "3",
+    "collection": "syndicate",
+    "id": 5365,
+    "name": "Charm \"Kokeshi\""
+  },
+  {
+    "value": "3",
+    "collection": "syndicate",
+    "id": 5366,
+    "name": "Charm \"Temple\""
+  },
+  {
+    "value": "3",
+    "collection": "syndicate",
+    "id": 5367,
+    "name": "Charm \"Sai\""
+  },
+  {
+    "value": "3",
+    "collection": "syndicate",
+    "id": 5368,
+    "name": "Charm \"Syndicate\" Silver"
+  },
+  {
+    "value": "5",
+    "collection": "syndicate",
+    "id": 5369,
+    "name": "Charm \"Syndicate\""
+  },
+  {
+    "value": "5",
+    "collection": "dia_de_muertos",
+    "id": 5370,
+    "name": "Chibi \"Reaper\""
+  },
+  {
+    "value": "6",
+    "collection": "dia_de_muertos",
+    "id": 5371,
+    "name": "Charm \"Alpaka\""
+  },
+  {
+    "value": "5",
+    "collection": "dia_de_muertos",
+    "id": 5372,
+    "name": "Charm \"Calavera\""
+  },
+  {
+    "value": "4",
+    "collection": "dia_de_muertos",
+    "id": 5373,
+    "name": "Charm \"Mariachi\""
+  },
+  {
+    "value": "3",
+    "collection": "dia_de_muertos",
+    "id": 5374,
+    "name": "Charm \"Deadly Draw\""
+  },
+  {
+    "value": "3",
+    "collection": "dia_de_muertos",
+    "id": 5375,
+    "name": "Charm \"Dia de Muertos\" Silver"
+  },
+  {
+    "value": "5",
+    "collection": "dia_de_muertos",
+    "id": 5376,
+    "name": "Charm \"Dia de Muertos\" Gold"
+  },
+  {
+    "value": "5",
+    "collection": "dia_de_muertos",
+    "id": 5377,
+    "name": "Charm \"Tesoro\""
+  },
+  {
+    "value": "5",
+    "collection": "dia_de_muertos",
+    "id": 5378,
+    "name": "Charm \"Metamorph\""
+  },
+  {
     "name": "Frame Tier 1 Bronze",
     "value": "1",
     "id": 7001,
@@ -9154,6 +10072,12 @@
     "value": "6",
     "id": 7039,
     "collection": "kitsune_dreams"
+  },
+  {
+    "value": "6",
+    "collection": "dia_de_muertos",
+    "id": 7040,
+    "name": "Frame \"Dia de Muertos\""
   },
   {
     "name": "G22 \"Pixel Camouflage\"",
@@ -12864,6 +13788,358 @@
     "collection": "gambit"
   },
   {
+    "value": "6",
+    "collection": "syndicate",
+    "id": 240226,
+    "name": "Tanto \"Celestial Tiger\""
+  },
+  {
+    "value": "6",
+    "collection": "syndicate",
+    "id": 240227,
+    "name": "Kukri \"Cascade\""
+  },
+  {
+    "name": "M9 Bayonet \"Moonstone\"",
+    "value": "6",
+    "stattrack": "false",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 240228
+  },
+  {
+    "name": "Mantis \"Yokai\"",
+    "value": "6",
+    "stattrack": "false",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 240229
+  },
+  {
+    "name": "Stiletto \"Ascend\"",
+    "value": "6",
+    "stattrack": "false",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 240230
+  },
+  {
+    "name": "Kunai \"Diffusion\"",
+    "value": "6",
+    "stattrack": "false",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 240231
+  },
+  {
+    "name": "MP7 \"R1NA\"",
+    "value": "6",
+    "stattrack": "false",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 240232
+  },
+  {
+    "name": "AKR \"Orchid\"",
+    "value": "6",
+    "stattrack": "false",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 240233
+  },
+  {
+    "name": "Akimbo Uzi \"Yokai\"",
+    "value": "5",
+    "stattrack": "false",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 240234
+  },
+  {
+    "name": "TEC-9 \"Blossom\"",
+    "value": "5",
+    "stattrack": "false",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 240235
+  },
+  {
+    "name": "Mallard \"Ascend\"",
+    "value": "5",
+    "stattrack": "false",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 240236
+  },
+  {
+    "name": "P350 \"Silver Wing\"",
+    "value": "3",
+    "stattrack": "false",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 240237
+  },
+  {
+    "name": "USP \"Celestial Tiger\"",
+    "value": "4",
+    "stattrack": "false",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 240238
+  },
+  {
+    "name": "FabM \"Undertow\"",
+    "value": "4",
+    "stattrack": "false",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 240239
+  },
+  {
+    "name": "Berettas \"Cascade\"",
+    "value": "3",
+    "stattrack": "false",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 240240
+  },
+  {
+    "name": "MP5 \"Clouds\"",
+    "value": "3",
+    "stattrack": "false",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 240241
+  },
+  {
+    "name": "M4A1 \"Tempest\"",
+    "value": "4",
+    "stattrack": "false",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 240242
+  },
+  {
+    "name": "Mallard \"Falling Leaves\"",
+    "value": "3",
+    "stattrack": "false",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 240243
+  },
+  {
+    "name": "AWM \"Moonstone\"",
+    "value": "6",
+    "stattrack": "false",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 240244
+  },
+  {
+    "value": "3",
+    "collection": "syndicate",
+    "id": 240245,
+    "name": "P90 \"Foxfire\""
+  },
+  {
+    "value": "3",
+    "collection": "syndicate",
+    "id": 240246,
+    "name": "SM1014 \"Falling Leaves\""
+  },
+  {
+    "value": "4",
+    "collection": "syndicate",
+    "id": 240247,
+    "name": "MAC10 \"Tempest\""
+  },
+  {
+    "value": "4",
+    "collection": "syndicate",
+    "id": 240248,
+    "name": "M40 \"White Ash\""
+  },
+  {
+    "value": "5",
+    "collection": "syndicate",
+    "id": 240249,
+    "name": "Desert Eagle \"Blossom\""
+  },
+  {
+    "value": "5",
+    "collection": "syndicate",
+    "id": 240250,
+    "name": "AKR12 \"Kensei\""
+  },
+  {
+    "value": "6",
+    "collection": "syndicate",
+    "id": 240251,
+    "name": "Tanto \"Blossom\""
+  },
+  {
+    "value": "6",
+    "collection": "dia_de_muertos",
+    "id": 240252,
+    "name": "Mallard \"Phantom Pack\""
+  },
+  {
+    "value": "5",
+    "collection": "dia_de_muertos",
+    "id": 240253,
+    "name": "G22 \"Flor de Muertos\""
+  },
+  {
+    "value": "4",
+    "collection": "dia_de_muertos",
+    "id": 240254,
+    "name": "M4 \"Bullets and Roses\""
+  },
+  {
+    "value": "4",
+    "collection": "dia_de_muertos",
+    "id": 240255,
+    "name": "Akimbo Uzi \"Howling Ghost\""
+  },
+  {
+    "value": "3",
+    "collection": "dia_de_muertos",
+    "id": 240256,
+    "name": "VAL \"Rosa Mortal\""
+  },
+  {
+    "value": "3",
+    "collection": "dia_de_muertos",
+    "id": 240257,
+    "name": "SPAS \"Eternal Flow\""
+  },
+  {
+    "value": "4",
+    "collection": "dia_de_muertos",
+    "id": 240258,
+    "name": "M60 \"Horror\""
+  },
+  {
+    "value": "4",
+    "collection": "dia_de_muertos",
+    "id": 240259,
+    "name": "FAMAS \"Raider\""
+  },
+  {
+    "value": "6",
+    "collection": "dia_de_muertos",
+    "id": 240260,
+    "name": "AWM \"Vampire\""
+  },
+  {
+    "value": "5",
+    "collection": "dia_de_muertos",
+    "id": 240261,
+    "name": "M16 \"Naga\""
+  },
+  {
+    "value": "4",
+    "collection": "dia_de_muertos",
+    "id": 240262,
+    "name": "MP5 \"Arcane Surge\""
+  },
+  {
+    "value": "5",
+    "collection": "dia_de_muertos",
+    "id": 240263,
+    "name": "USP \"Horror\""
+  },
+  {
+    "value": "3",
+    "collection": "dia_de_muertos",
+    "id": 240264,
+    "name": "UMP45 \"Leviathan\""
+  },
+  {
+    "value": "3",
+    "collection": "dia_de_muertos",
+    "id": 240265,
+    "name": "M110 \"Centipede\""
+  },
+  {
+    "value": "3",
+    "collection": "dia_de_muertos",
+    "id": 240266,
+    "name": "FabM \"Fiend\""
+  },
+  {
+    "value": "6",
+    "collection": "dia_de_muertos",
+    "id": 240267,
+    "name": "VAL \"Phantom Pack\""
+  },
+  {
+    "value": "6",
+    "collection": "dia_de_muertos",
+    "id": 240268,
+    "name": "Thermite \"Scorched Earth\""
+  },
+  {
+    "value": "6",
+    "collection": "dia_de_muertos",
+    "id": 240269,
+    "name": "Butterfly \"Arcane Surge\""
+  },
+  {
+    "value": "6",
+    "collection": "dia_de_muertos",
+    "id": 240270,
+    "name": "Dual Daggers \"Flor de Muertos\""
+  },
+  {
+    "value": "6",
+    "collection": "dia_de_muertos",
+    "id": 240271,
+    "name": "jKommando \"Engraving\""
+  },
+  {
+    "value": "6",
+    "collection": "dia_de_muertos",
+    "id": 240272,
+    "name": "Mantis \"Poison\""
+  },
+  {
+    "value": "6",
+    "collection": "dia_de_muertos",
+    "id": 240273,
+    "name": "Sting \"Carmine Thorns\""
+  },
+  {
+    "value": "6",
+    "collection": "dia_de_muertos",
+    "id": 240274,
+    "name": "Scorpion \"Howling Ghost\""
+  },
+  {
+    "value": "6",
+    "collection": "dia_de_muertos",
+    "id": 240275,
+    "name": "Karambit \"White Rose\""
+  },
+  {
+    "value": "6",
+    "collection": "nameless",
+    "id": 240276,
+    "name": "Mallard \"PRO Gold\""
+  },
+  {
+    "value": "6",
+    "collection": "esports",
+    "id": 240277,
+    "name": "M4A1 \"PawPaw\" StatTrack"
+  },
+  {
+    "value": "6",
+    "collection": "dia_de_muertos",
+    "id": 240278,
+    "name": "AKR \"La Reina\" StatTrack"
+  },
+  {
     "name": "G22 \"Nest\" StatTrack",
     "value": "6",
     "id": 1011002,
@@ -15004,5 +16280,241 @@
     "name": "FN FAL \"Splash\" Stattrack",
     "id": 1240224,
     "collection": "gambit"
+  },
+  {
+    "name": "MP7 \"R1NA\" StatTrack",
+    "value": "6",
+    "stattrack": "true",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 1240232
+  },
+  {
+    "name": "AKR \"Orchid\" StatTrack",
+    "value": "6",
+    "stattrack": "true",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 1240233
+  },
+  {
+    "name": "Akimbo Uzi \"Yokai\" StatTrack",
+    "value": "5",
+    "stattrack": "true",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 1240234
+  },
+  {
+    "name": "TEC-9 \"Blossom\" StatTrack",
+    "value": "5",
+    "stattrack": "true",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 1240235
+  },
+  {
+    "name": "Mallard \"Ascend\" StatTrack",
+    "value": "5",
+    "stattrack": "true",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 1240236
+  },
+  {
+    "name": "P350 \"Silver Wing\" StatTrack",
+    "value": "3",
+    "stattrack": "true",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 1240237
+  },
+  {
+    "name": "USP \"Celestial Tiger\" StatTrack",
+    "value": "4",
+    "stattrack": "true",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 1240238
+  },
+  {
+    "name": "FabM \"Undertow\" StatTrack",
+    "value": "4",
+    "stattrack": "true",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 1240239
+  },
+  {
+    "name": "Berettas \"Cascade\" StatTrack",
+    "value": "3",
+    "stattrack": "true",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 1240240
+  },
+  {
+    "name": "MP5 \"Clouds\" StatTrack",
+    "value": "3",
+    "stattrack": "true",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 1240241
+  },
+  {
+    "name": "M4A1 \"Tempest\" StatTrack",
+    "value": "4",
+    "stattrack": "true",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 1240242
+  },
+  {
+    "name": "Mallard \"Falling Leaves\" StatTrack",
+    "value": "3",
+    "stattrack": "true",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 1240243
+  },
+  {
+    "name": "AWM \"Moonstone\" StatTrack",
+    "value": "6",
+    "stattrack": "false",
+    "collection": "syndicate",
+    "craftable": "false",
+    "id": 1240244
+  },
+  {
+    "value": "3",
+    "collection": "syndicate",
+    "id": 1240245,
+    "name": "P90 \"Foxfire\" StatTrack"
+  },
+  {
+    "value": "3",
+    "collection": "syndicate",
+    "id": 1240246,
+    "name": "SM1014 \"Falling Leaves\" StatTrack"
+  },
+  {
+    "value": "4",
+    "collection": "syndicate",
+    "id": 1240247,
+    "name": "MAC10 \"Tempest\" StatTrack"
+  },
+  {
+    "value": "4",
+    "collection": "syndicate",
+    "id": 1240248,
+    "name": "M40 \"White Ash\" StatTrack"
+  },
+  {
+    "value": "5",
+    "collection": "syndicate",
+    "id": 1240249,
+    "name": "Desert Eagle \"Blossom\" StatTrack"
+  },
+  {
+    "value": "5",
+    "collection": "syndicate",
+    "id": 1240250,
+    "name": "AKR12 \"Kensei\" StatTrack"
+  },
+  {
+    "value": "6",
+    "collection": "dia_de_muertos",
+    "id": 1240252,
+    "name": "Mallard \"Phantom Pack\" StatTrack"
+  },
+  {
+    "value": "5",
+    "collection": "dia_de_muertos",
+    "id": 1240253,
+    "name": "G22 \"Flor de Muertos\" StatTrack"
+  },
+  {
+    "value": "4",
+    "collection": "dia_de_muertos",
+    "id": 1240254,
+    "name": "M4 \"Bullets and Roses\" StatTrack"
+  },
+  {
+    "value": "4",
+    "collection": "dia_de_muertos",
+    "id": 1240255,
+    "name": "Akimbo Uzi \"Howling Ghost\" StatTrack"
+  },
+  {
+    "value": "3",
+    "collection": "dia_de_muertos",
+    "id": 1240256,
+    "name": "VAL \"Rosa Mortal\" StatTrack"
+  },
+  {
+    "value": "3",
+    "collection": "dia_de_muertos",
+    "id": 1240257,
+    "name": "SPAS \"Eternal Flow\" StatTrack"
+  },
+  {
+    "value": "4",
+    "collection": "dia_de_muertos",
+    "id": 1240258,
+    "name": "M60 \"Horror\" StatTrack"
+  },
+  {
+    "value": "4",
+    "collection": "dia_de_muertos",
+    "id": 1240259,
+    "name": "FAMAS \"Raider\" StatTrack"
+  },
+  {
+    "value": "6",
+    "collection": "dia_de_muertos",
+    "id": 1240260,
+    "name": "AWM \"Vampire\" StatTrack"
+  },
+  {
+    "value": "5",
+    "collection": "dia_de_muertos",
+    "id": 1240261,
+    "name": "M16 \"Naga\" StatTrack"
+  },
+  {
+    "value": "4",
+    "collection": "dia_de_muertos",
+    "id": 1240262,
+    "name": "MP5 \"Arcane Surge\" StatTrack"
+  },
+  {
+    "value": "5",
+    "collection": "dia_de_muertos",
+    "id": 1240263,
+    "name": "USP \"Horror\" StatTrack"
+  },
+  {
+    "value": "3",
+    "collection": "dia_de_muertos",
+    "id": 1240264,
+    "name": "UMP45 \"Leviathan\" StatTrack"
+  },
+  {
+    "value": "3",
+    "collection": "dia_de_muertos",
+    "id": 1240265,
+    "name": "M110 \"Centipede\" StatTrack"
+  },
+  {
+    "value": "3",
+    "collection": "dia_de_muertos",
+    "id": 1240266,
+    "name": "FabM \"Fiend\" StatTrack"
+  },
+  {
+    "value": "6",
+    "collection": "dia_de_muertos",
+    "id": 1240267,
+    "name": "VAL \"Phantom Pack\" StatTrack"
   }
 ]
